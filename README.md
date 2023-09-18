@@ -1,1 +1,2 @@
-# Ayanleaideed
+# Ayanle aideed
+Student at NDSU Software engineer
