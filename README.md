@@ -1,7 +1,7 @@
 # Ayanle aideed
 ---
 
-🌟 Hi there! I'm [Ayanle Aideed].
+🌟 Hi there! I'm # Ayanle Aideed.
 
 📚 Proudly representing NDSU as a Computer Science student, I'm immersed in the world of algorithms, data structures, and late-night debugging.
 
