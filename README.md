@@ -1,4 +1,18 @@
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">A Passionate Full Stack/Backend Developer</h3>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+  A Passionate Full Stack/Backend Developer
+  <span style="display: inline-block; animation: pulse 2s infinite;">
+    &nbsp;&#8226;&nbsp;
+  </span>
+</h3>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+  }
+</style>
+
 
 
 
