@@ -1,4 +1,5 @@
-<h3 align="center" style="font-family: Arial, sans-serif; color: #333;">A Passionate Full Stack/Backend Developer</h3>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">A Passionate Full Stack/Backend Developer</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanleaideed&label=Profile%20views&color=0e75b6&style=flat" alt="ayanleaideed" /> </p>
