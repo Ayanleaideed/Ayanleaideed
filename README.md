@@ -107,7 +107,7 @@ graph TD
     D --> I[Docker]
     D --> J[Kubernetes]
     C --> L[Django]
-    C --> H[Flask]
+    C --> M[Flask]
     style A fill:#FF00FF,stroke:#00FFFF,stroke-width:2px
     style B fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
     style C fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
@@ -119,7 +119,7 @@ graph TD
     style I fill:#32CD32,stroke:#00FFFF,stroke-width:2px
     style J fill:#32CD32,stroke:#00FFFF,stroke-width:2px
     style l fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style H fill:#32CD32,stroke:#00FFFF,stroke-width:2px
+    style M fill:#32CD32,stroke:#00FFFF,stroke-width:2px
 ```
 
 </div>
