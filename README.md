@@ -1,139 +1,82 @@
-# <div align="center">🔥 Ayanle Aideed: Code Slayer & Doom Enthusiast 🔥</div>
+# Ayanle Aideed
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF4136&center=true&vCenter=true&width=435&lines=Full+Stack+Demolisher;Backend+Obliterator;Bug+Exterminator;Continuous+Dominator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;Continuous+Learner" alt="Typing SVG" />
 </div>
+
+## 👋 Welcome to my GitHub!
+
+I'm a passionate Full Stack Developer with a focus on backend technologies. I love crafting efficient, scalable solutions and continuously pushing the boundaries of what's possible in software development.
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ayanleaideed&color=ff4136&style=flat-square)
-  ![Followers](https://img.shields.io/github/followers/ayanleaideed?color=ff4136&style=flat-square)
-  ![Stars](https://img.shields.io/github/stars/ayanleaideed?color=ff4136&style=flat-square)
-  
-</div>
-
-## <div align="center">🌋 Forged in the Fires of Code 🌋</div>
-
-<p align="center">I don't just write code, I command it. Each line is a weapon, every function a tactical strike against inefficiency. My commits leave scorched earth in their wake, and my pull requests are nothing short of digital armageddon.</p>
-
-<details>
-<summary>🔍 Gaze into the Abyss</summary>
-<br>
-
-- 🔭 Currently unleashing: **A backend so powerful it makes servers tremble**
-- 🌱 Mastering: **The dark arts of quantum computing**
-- 👯 Seeking allies for: **Open-source warfare**
-- 🤔 Conquering: **The final frontiers of AI supremacy**
-- 💬 Consult me about: **Python, Django, Flask, C#, .NET, and the impending robot apocalypse**
-- ⚡ Legend says: **I once debugged a program by staring it into submission**
-
-</details>
-
-## <div align="center">🔧 Arsenal of Destruction 🔧</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff4136)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ff4136)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=ff4136)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=ff4136)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=ff4136)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&color=ff4136)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ff4136)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=ff4136)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=ff4136)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=ff4136)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed-118752252/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=web&logoColor=white)](https://ayanleaideed.github.io/myportfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanleaideed)
 
 </div>
 
-## <div align="center">📊 Battle Statistics 📊</div>
+## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF4136&icon_color=FF4136&text_color=ffffff&border_color=FF4136"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&langs_count=7&theme=dark&bg_color=0D1117&title_color=FF4136&icon_color=FF4136&text_color=ffffff&border_color=FF4136"/>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 </div>
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=dark&background=0D1117&stroke=FF4136&ring=FF4136&fire=FF4136&currStreakNum=ffffff&sideNums=FF4136&currStreakLabel=FF4136&sideLabels=ffffff&dates=ffffff&border=FF4136" alt="ayanleaideed" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-## <div align="center">🏆 Trophies of the Fallen 🏆</div>
+## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=darkhub&no-frame=false&no-bg=true&margin-w=4&column=7&title=Commits,PullRequest,Repositories,Issues&theme=radical" alt="ayanleaideed" />
-</div>
-
-## <div align="center">🌠 Legendary Conquests 🌠</div>
-
-<div align="center">
-  <a href="https://github.com/ayanleaideed/doom-engine">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=doom-engine&theme=dark&bg_color=0D1117&title_color=FF4136&icon_color=FF4136&text_color=ffffff&border_color=FF4136" />
+  <a href="https://github.com/ayanleaideed/project-alpha">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=project-alpha&theme=react" />
   </a>
-  <a href="https://github.com/ayanleaideed/ai-overlord">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=ai-overlord&theme=dark&bg_color=0D1117&title_color=FF4136&icon_color=FF4136&text_color=ffffff&border_color=FF4136" />
+  <a href="https://github.com/ayanleaideed/project-beta">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=project-beta&theme=react" />
   </a>
 </div>
 
-## <div align="center">🌋 Contributions Heatmap 🌋</div>
+## 💡 What I'm Working On
+
+- 🔭 Currently: Developing a scalable microservices architecture
+- 🌱 Learning: Advanced cloud computing techniques
+- 👯 Looking to collaborate on: Open-source projects in Python or C#
+- 🤔 Exploring: Machine learning applications in backend systems
+
+## 📫 Get in Touch
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanleaideed&theme=xcode&bg_color=0D1117&color=FF4136&line=FF4136&point=FFFFFF&area=true&hide_border=false" width="100%"/>
+  <a href="mailto:ayanle.aideed@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/ayanleaideed">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </div>
 
-## <div align="center">💻 Code of Mass Destruction 💻</div>
-
-<details>
-<summary>🐍 Python: The Doom Number Sequence</summary>
-
-```python
-def doom_sequence(n):
-    sequence = [666]
-    for i in range(1, n):
-        sequence.append(sequence[i-1] + sum(int(digit) for digit in str(sequence[i-1])))
-    return sequence
-
-print(doom_sequence(10))
-```
-
-</details>
-
-<details>
-<summary>🌐 JavaScript: The Apocalypse Timer</summary>
-
-```javascript
-const apocalypseTimer = (date) => {
-    const now = new Date();
-    const apocalypse = new Date(date);
-    const timeLeft = apocalypse - now;
-
-    const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
-    const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
-
-    console.log(`Time until the apocalypse: ${days}d ${hours}h ${minutes}m ${seconds}s`);
-};
-
-setInterval(() => apocalypseTimer('2024-12-21'), 1000);
-```
-
-</details>
-
-## <div align="center">🤝 Join the Legion 🤝</div>
+---
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff4136)](https://www.linkedin.com/in/ayanle-aideed-118752252/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=ff4136)](https://ayanleaideed.github.io/myportfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=ff4136)](https://github.com/ayanleaideed)
-
+  <img src="https://komarev.com/ghpvc/?username=ayanleaideed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4136&height=100&section=footer"/>
-</div>
-
-<!-- Hidden Message: Hover to Reveal -->
-<div align="center">
-  <span title="The code is dark and full of terrors" style="color: #0D1117; cursor: pointer;">The code is dark and full of terrors</span>
+  <sub>Thanks for visiting! Let's build something amazing together.</sub>
 </div>
