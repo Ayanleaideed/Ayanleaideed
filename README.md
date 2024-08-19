@@ -95,10 +95,10 @@ mindmap
 
 </details>
 
-<div align="center">
-
-```mermaid
-graph TD
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  
+  ```mermaid
+  graph TD
     A[Ayanle Aideed] --> B[Frontend]
     A --> C[Backend]
     A --> D[DevOps]
@@ -110,20 +110,20 @@ graph TD
     D --> J[Kubernetes]
     G --> L[Django]
     G --> M[Flask]
-    style A fill:#FF00FF,stroke:#000000,stroke-width:2px
-    style B fill:#FF69B4,stroke:#000000,stroke-width:2px
-    style C fill:#1E90FF,stroke:#000000,stroke-width:2px
-    style D fill:#32CD32,stroke:#000000,stroke-width:2px
-    style E fill:#FF69B4,stroke:#000000,stroke-width:2px
-    style F fill:#FF69B4,stroke:#000000,stroke-width:2px
-    style G fill:#1E90FF,stroke:#000000,stroke-width:2px
-    style H fill:#1E90FF,stroke:#000000,stroke-width:2px
-    style I fill:#32CD32,stroke:#000000,stroke-width:2px
-    style J fill:#32CD32,stroke:#000000,stroke-width:2px
-    style L fill:#1E90FF,stroke:#000000,stroke-width:2px
-    style M fill:#32CD32,stroke:#000000,stroke-width:2px
-```
 
+    style A fill:#800080,stroke:#333333,stroke-width:2px,color:#ffffff
+    style B fill:#FF1493,stroke:#333333,stroke-width:2px,color:#ffffff
+    style C fill:#1E90FF,stroke:#333333,stroke-width:2px,color:#ffffff
+    style D fill:#32CD32,stroke:#333333,stroke-width:2px,color:#ffffff
+    style E fill:#FF1493,stroke:#333333,stroke-width:2px,color:#ffffff
+    style F fill:#FF1493,stroke:#333333,stroke-width:2px,color:#ffffff
+    style G fill:#1E90FF,stroke:#333333,stroke-width:2px,color:#ffffff
+    style H fill:#1E90FF,stroke:#333333,stroke-width:2px,color:#ffffff
+    style I fill:#32CD32,stroke:#333333,stroke-width:2px,color:#ffffff
+    style J fill:#32CD32,stroke:#333333,stroke-width:2px,color:#ffffff
+    style L fill:#1E90FF,stroke:#333333,stroke-width:2px,color:#ffffff
+    style M fill:#32CD32,stroke:#333333,stroke-width:2px,color:#ffffff
+```
 </div>
 
 
