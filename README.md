@@ -64,6 +64,37 @@ My skills are not just listed; they're an interactive cosmic dance:
 <details>
 <summary>🔬 Zoom into the Skill Microcosm</summary>
 
+
+
+
+```mermaid
+mindmap
+  root((Ayanle's Skills))
+    Languages
+      Python
+      JavaScript
+      Rust
+      Go
+    Frameworks
+      Django
+      React
+      TensorFlow
+    DevOps
+      Docker
+      Kubernetes
+      CI/CD
+    Cloud
+      AWS
+      GCP
+      Azure
+    Databases
+      PostgreSQL
+      MongoDB
+      Redis
+```
+
+</details>
+
 <div align="center">
 
 ```mermaid
@@ -95,35 +126,6 @@ graph TD
 
 </div>
 
-
-
-```mermaid
-mindmap
-  root((Ayanle's Skills))
-    Languages
-      Python
-      JavaScript
-      Rust
-      Go
-    Frameworks
-      Django
-      React
-      TensorFlow
-    DevOps
-      Docker
-      Kubernetes
-      CI/CD
-    Cloud
-      AWS
-      GCP
-      Azure
-    Databases
-      PostgreSQL
-      MongoDB
-      Redis
-```
-
-</details>
 
 ## 🔥 Contribution Quasar
 
