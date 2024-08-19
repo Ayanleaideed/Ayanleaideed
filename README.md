@@ -1,7 +1,7 @@
 # Welcome to the Code Cosmos of Ayanle Aideed
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Greetings,+fellow+code+explorer!;Prepare+for+a+journey+through+my+digital+universe!;Where+innovation+meets+imagination!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Greetings,+fellow+code+explorer!;Prepare+for+a+journey+through+my+digital+universe!;Where+data+meets+imagination!" alt="Typing SVG" />
 </div>
 
 ## 🌌 Navigate My Code Constellation
@@ -46,12 +46,11 @@ Behold, the celestial bodies of my coding universe:
 
 <div align="center">
 
-| Project Supernova | Cosmic Impact | Tech Constellation |
-|:-----------------:|:-------------:|:------------------:|
-| 🌋 [Volcano](https://github.com/ayanleaideed/volcano) | Erupting with scalability | `Python` `Microservices` `AWS` |
-| 🌊 [Tsunami](https://github.com/ayanleaideed/tsunami) | Waves of data processing | `Rust` `Big Data` `Apache Kafka` |
-| 🌪️ [Cyclone](https://github.com/ayanleaideed/cyclone) | Swirling AI innovations | `TensorFlow` `PyTorch` `CUDA` |
-| 🌠 [Nebula](https://github.com/ayanleaideed/nebula) | Cloud-native brilliance | `Kubernetes` `Istio` `Prometheus` |
+| Project Supernova | Cosmic Impact | Tech Constellation | GitHub Stars |
+|:-----------------:|:-------------:|:------------------:|:------------:|
+| 🌋 [Volcano](https://github.com/ayanleaideed/volcano) | Erupting with scalability | `Python` `Microservices` `AWS` | ![Stars](https://img.shields.io/github/stars/ayanleaideed/volcano?style=flat-square&color=yellow) |
+| 🌊 [Tsunami](https://github.com/ayanleaideed/tsunami) | Waves of data processing | `Rust` `Big Data` `Apache Kafka` | ![Stars](https://img.shields.io/github/stars/ayanleaideed/tsunami?style=flat-square&color=blue) |
+| 🌪️ [Cyclone](https://github.com/ayanleaideed/cyclone) | Swirling AI innovations | `TensorFlow` `PyTorch` `CUDA` | ![Stars](https://img.shields.io/github/stars/ayanleaideed/cyclone?style=flat-square&color=green) |
 
 </div>
 
@@ -60,7 +59,7 @@ Behold, the celestial bodies of my coding universe:
 My skills are not just listed; they're an interactive cosmic dance:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,rust,go,react,vue,docker,kubernetes,aws,tensorflow,mongodb,postgres&perline=6" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,rust,go,docker,kubernetes,aws,tensorflow,react,mongodb&perline=5" alt="Skill Icons" />
 </div>
 
 <details>
@@ -123,6 +122,19 @@ Watch as my contributions ignite the GitHub galaxy:
   <img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&icon_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="Ayanle's GitHub stats" />
 </div>
 
+## 📊 Code by Numbers
+
+<div align="center">
+
+| Metric | Count |
+|:------:|:-----:|
+| 💻 Total Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayanleaideed&style=for-the-badge) |
+| 🌟 Total Stars | ![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=Stars&query=%24.stars&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayanleaideed&style=for-the-badge) |
+| 🍴 Total Forks | ![Forks](https://img.shields.io/badge/dynamic/json?color=blue&label=Forks&query=%24.forks&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayanleaideed&style=for-the-badge) |
+| 👥 Followers | ![Followers](https://img.shields.io/badge/dynamic/json?color=orange&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fayanleaideed&style=for-the-badge) |
+
+</div>
+
 ## 🧬 Code DNA
 
 My coding style is not just a preference; it's encoded in my digital DNA:
@@ -151,18 +163,10 @@ me = AyanleAideed()
 universe.big_problems.map(me.accept_challenge)
 ```
 
-## 🌠 Cosmic Contributions
+## 📈 Language Time Travel
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ayanleaideed" alt="Contribution Stats" />
-</div>
-
-## 🚀 Tech Stack Voyage
-
-<div align="center">
-
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack+Voyage&lineCount=3&theme=github_dark&line1=python,python,00ff00;javascript,javascript,ffff00;rust,rust,ff0000;&line2=react,react,61dafb;vue.js,vue.js,4FC08D;node.js,node.js,339933;&line3=docker,docker,2496ED;kubernetes,kubernetes,326CE5;amazon+aws,aws,FF9900;)
-
+  <img src="https://wakatime.com/share/@ayanleaideed/d6700a65-ed89-4b68-b9ff-b5f814c6178d.svg" height="400" alt="Languages over time" />
 </div>
 
 ## 🛰️ Connect Across the Cosmos
@@ -174,14 +178,7 @@ Let's align our coding constellations:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&color=00FF00)](https://www.linkedin.com/in/ayanle-aideed-118752252/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen?style=for-the-badge&logo=web&logoColor=white&color=00FFFF)](https://ayanleaideed.github.io/myportfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=FF00FF)](https://github.com/ayanleaideed)
-[![Twitter](https://img.shields.io/badge/Twitter-Tweet-brightgreen?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/ayanleaideed)
 
-</div>
-
-## 🎵 Coding Soundtrack
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=false" alt="Spotify Now Playing" width="400" />
 </div>
 
 ---
@@ -191,5 +188,5 @@ Let's align our coding constellations:
 </div>
 
 <div align="center">
-  <sub>Created with cosmic code and intergalactic imagination by Ayanle Aideed | © 2023 Stellar Code Creations</sub>
+  <sub>Created with cosmic code and intergalactic imagination by Ayanle Aideed</sub>
 </div>
