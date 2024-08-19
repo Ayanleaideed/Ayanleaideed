@@ -1,216 +1,105 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
-				.container {
-					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow: 0 1px 0 #efefef, 0 2px 0 #efefef, 0 3px 0 #efefef, 0 4px 0 #efefef, 0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: fadeIn 1s ease-in;
-				}
-				.typing {
-					width: 0;
-					animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite;
-					white-space: nowrap;
-					overflow: hidden;
-					border-right: 3px solid;
-					font-family: monospace;
-					font-size: 2em;
-				}
-				@keyframes typing {
-					from { width: 0 }
-					to { width: 100% }
-				}
-				@keyframes blink-caret {
-					from, to { border-color: transparent }
-					50% { border-color: white }
-				}
-			</style>
-			<div class="container">
-				<h1>Welcome to My Universe</h1>
-				<div class="typing">I am Ayanle Aideed, Code Architect</div>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
-
-
-<h1 align="center">🚀 Ayanle Aideed: Redefining the Digital Frontier 🚀</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Ayanle+Aideed;Full+Stack+Developer;Problem+Solver;Continuous+Learner&center=true&size=30">
+</h1>
 
 <p align="center">
-  <a href="https://ayanleaideed.dev"><img src="https://img.shields.io/badge/🌐_Website-Visit_Now-4285F4?style=for-the-badge" alt="Website"></a>
-  <a href="https://linkedin.com/in/ayanleaideed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/ayanleaideed"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://ayanleaideed.github.io/myportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ayanle-aideed-118752252">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ayanleaideed">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayanleaideed&label=Profile%20Views&color=brightgreen&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/ayanleaideed?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ayanleaideed?label=Stars&style=social" alt="stars" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayanleaideed&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
+  <img src="https://img.shields.io/github/followers/ayanleaideed?label=Followers&style=social" alt="followers">
+  <img src="https://img.shields.io/github/stars/ayanleaideed?label=Stars&style=social" alt="stars">
+</p>
 
----
-
-<h2 align="center">🌌 Exploring the Code Cosmos 🌌</h2>
+<h2 align="center">About Me 🚀</h2>
 
 <p align="center">
-Embark on a journey through my digital universe, where each line of code weaves the fabric of innovation. As a Full Stack Developer and AI enthusiast, I craft solutions that bridge the gap between imagination and reality.
+I'm a passionate Full Stack Developer with a keen interest in creating efficient, scalable, and innovative solutions. My journey in tech is driven by curiosity and a constant desire to learn and improve.
 </p>
 
 <details>
-<summary>🔮 Peek into My Digital Crystal Ball</summary>
+<summary>🌟 More About Me</summary>
 <br>
 
-- 🔭 Currently orchestrating: A neural network that composes symphonies
-- 🌱 Learning: Quantum computing's application in cryptography
-- 👯 Seeking collaborators for: An open-source project to democratize AI
-- 🤔 Pondering: The ethical implications of sentient AI
-- 💬 Ask me about: Full-stack development, AI ethics, or my homemade cold brew recipe
-- ⚡ Fun fact: I once debugged code in my sleep (literally!)
-
+- 🔭 I'm currently working on: Microservices architecture optimization
+- 🌱 I'm currently learning: Rust and WebAssembly
+- 👯 I'm looking to collaborate on: Open-source projects in AI and Machine Learning
+- 🤔 I'm looking for help with: Distributed systems design
+- 💬 Ask me about: Python, JavaScript, React, Node.js, Docker
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 </details>
 
----
-
-<h2 align="center">🛠️ My Technological Arsenal 🛠️</h2>
-
-<div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00) |
-| Backend | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| AI/ML | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-
-</div>
-
----
-
-<h2 align="center">🏆 Achievements Unlocked 🏆</h2>
-
-<div align="center">
-
-| 🏅 Accolade | 🌟 Significance | 🔗 Proof |
-|-------------|-----------------|----------|
-| 🥇 1st Place Hackathon Winner | Built an AI that predicts climate change patterns | [View Certificate](https://example.com/certificate) |
-| 🚀 Open Source Contributor | Top 1% contributor on GitHub | [GitHub Stats](#github-stats) |
-| 📚 Published Author | "The Future of AI: A Developer's Perspective" | [Buy on Amazon](https://amazon.com) |
-| 🎓 Machine Learning Certification | Completed Google's Advanced ML Course | [Verify Credential](https://example.com/verify) |
-
-</div>
-
----
-
-<h2 align="center">🌠 Featured Projects 🌠</h2>
-
-<div align="center">
-  <a href="https://github.com/ayanleaideed/project-nebula">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=project-nebula&theme=radical" />
-  </a>
-  <a href="https://github.com/ayanleaideed/ai-symphony">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=ai-symphony&theme=radical" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ayanleaideed/quantum-chat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=quantum-chat&theme=radical" />
-  </a>
-  <a href="https://github.com/ayanleaideed/eco-blockchain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=eco-blockchain&theme=radical" />
-  </a>
-</div>
-
----
-
-<h2 align="center" id="github-stats">📊 GitHub Odyssey 📊</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=radical" alt="ayanleaideed" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="ayanleaideed" />
-</div>
-
----
-
-<h2 align="center">🌈 Contribution Tapestry 🌈</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayanleaideed&theme=redical" alt="Contribution Graph" />
-</div>
-
----
-
-<h2 align="center">🤝 Let's Collaborate 🤝</h2>
+<h2 align="center">Skills & Technologies 🛠️</h2>
 
 <p align="center">
-I'm always excited to connect with fellow innovators, tech enthusiasts, and visionaries. Whether you want to collaborate on a world-changing project, discuss the future of technology, or just geek out about code, I'm all ears!
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<h2 align="center">Projects 🏗️</h2>
+
+<div align="center">
+  <a href="https://github.com/ayanleaideed/project-alpha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=project-alpha&theme=react" />
+  </a>
+  <a href="https://github.com/ayanleaideed/project-beta">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=project-beta&theme=react" />
+  </a>
+</div>
+
+<h2 align="center">GitHub Stats 📊</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=react" alt="ayanleaideed" />
+</div>
+
+<h2 align="center">Contributions 🌱</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayanleaideed&theme=react-dark" alt="Contribution Graph" />
+</div>
+
+<h2 align="center">Let's Connect! 🤝</h2>
+
+<p align="center">
+I'm always interested in connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out if you want to discuss a project, share ideas, or just chat about the latest in tech!
 </p>
 
 <div align="center">
   <a href="mailto:ayanle.aideed@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://calendly.com/ayanleaideed/coffee-chat">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Chat-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Chat" />
+  <a href="https://calendly.com/ayanleaideed/30min">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Call" />
   </a>
 </div>
 
----
-
-<h2 align="center">💖 Support My Digital Odyssey 💖</h2>
+<h2 align="center">Support My Work 💖</h2>
 
 <p align="center">
-If my work has inspired you, helped you, or just made you smile, consider supporting my journey:
+If you find my work helpful or interesting, consider supporting me:
 </p>
 
 <div align="center">
@@ -222,16 +111,6 @@ If my work has inspired you, helped you, or just made you smile, consider suppor
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontAlignY=80" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-
-<div align="center">
-  <sub>Created with ❤️ by Ayanle Aideed • Last updated: <span id="last-updated"></span></sub>
-</div>
-
-<script>
-  document.getElementById('last-updated').textContent = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
-</script>
