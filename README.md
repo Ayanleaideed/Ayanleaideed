@@ -1,236 +1,139 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
-				.container {
-					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow: 0 1px 0 #efefef, 0 2px 0 #efefef, 0 3px 0 #efefef, 0 4px 0 #efefef, 0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: fadeIn 1s ease-in;
-				}
-				.typing {
-					width: 0;
-					animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite;
-					white-space: nowrap;
-					overflow: hidden;
-					border-right: 3px solid;
-					font-family: monospace;
-					font-size: 2em;
-				}
-				@keyframes typing {
-					from { width: 0 }
-					to { width: 100% }
-				}
-				@keyframes blink-caret {
-					from, to { border-color: transparent }
-					50% { border-color: white }
-				}
-			</style>
-			<div class="container">
-				<h1>Welcome to My Universe</h1>
-				<div class="typing">I am Ayanle Aideed, Code Architect</div>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
-
-<h1 align="center">🚀 Ayanle Aideed: Redefining the Digital Frontier 🚀</h1>
-
-<p align="center">
-  <a href="https://ayanleaideed.dev"><img src="https://img.shields.io/badge/🌐_Website-Visit_Now-4285F4?style=for-the-badge" alt="Website"></a>
-  <a href="https://linkedin.com/in/ayanleaideed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/ayanleaideed"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-</p>
+```
+  _____         _____ _                    __                  _   _             
+ |  __ \       / ____| |                  / _|                | | (_)            
+ | |__) |_   _| (___ | |__   __ _ _ __   | |_ _ __ ___  _ __  | |_ _  ___ _ __   
+ |  ___/| | | |\___ \| '_ \ / _` | '_ \  |  _| '__/ _ \| '_ \ | __| |/ _ \ '_ \  
+ | |    | |_| |____) | | | | (_| | | | | | | | | | (_) | | | || |_| |  __/ | | | 
+ |_|     \__, |_____/|_| |_|\__,_|_| |_| |_| |_|  \___/|_| |_| \__|_|\___|_| |_| 
+          __/ |                                                                   
+         |___/                                                                    
+```
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayanleaideed&label=Profile%20Views&color=brightgreen&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/ayanleaideed?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/ayanleaideed?label=Stars&style=social" alt="stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Embracing+the+Quantum+Realm+of+Code;Where+Innovation+Meets+Imagination;Prepare+to+Have+Your+Mind+Blown" alt="Mind-blowing Tagline" />
 </div>
 
----
-
-<h2 align="center">🌌 Exploring the Code Cosmos 🌌</h2>
-
-<p align="center">
-Embark on a journey through my digital universe, where each line of code weaves the fabric of innovation. As a Full Stack Developer and AI enthusiast, I craft solutions that bridge the gap between imagination and reality.
-</p>
-
 <details>
-<summary>🔮 Peek into My Digital Crystal Ball</summary>
+<summary>🌌 Dive into the Codeverse 🌌</summary>
 <br>
 
-- 🔭 Currently orchestrating: A neural network that composes symphonies
-- 🌱 Learning: Quantum computing's application in cryptography
-- 👯 Seeking collaborators for: An open-source project to democratize AI
-- 🤔 Pondering: The ethical implications of sentient AI
-- 💬 Ask me about: Full-stack development, AI ethics, or my homemade cold brew recipe
-- ⚡ Fun fact: I once debugged code in my sleep (literally!)
+```
+      O
+     /|\    Welcome to my digital dimension,
+    / | \   where code bends reality and
+      |     innovation knows no bounds.
+     / \
+    /   \
+```
+
+<div align="center">
+
+[![Quantum Coding](https://img.shields.io/badge/Quantum_Coding-Mastered-blueviolet?style=for-the-badge&logo=atom&logoColor=white)](https://github.com/ayanleaideed)
+[![Time Travel Debugging](https://img.shields.io/badge/Time_Travel_Debugging-Proficient-success?style=for-the-badge&logo=clockify&logoColor=white)](https://github.com/ayanleaideed)
+[![AI Whisperer](https://img.shields.io/badge/AI_Whisperer-Fluent-orange?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/ayanleaideed)
+
+</div>
 
 </details>
 
----
+## 🌟 Embark on a Cosmic Code Journey 🌟
 
-<h2 align="center">🛠️ My Technological Arsenal 🛠️</h2>
+<div align="center">
+  <img src="https://github.com/ayanleaideed/ayanleaideed/blob/main/assets/code_galaxy.svg" alt="Code Galaxy" width="100%">
+</div>
+
+> In this realm, each star is a project, each constellation a breakthrough. Navigate through the cosmic expanse of my coding universe.
+
+## 🧠 Neural Network of Skills 🧠
+
+<div align="center">
+  <img src="https://github.com/ayanleaideed/ayanleaideed/blob/main/assets/skill_network.svg" alt="Skill Network" width="100%">
+</div>
+
+> Witness the synaptic brilliance of interconnected skills, forming a neural network of expertise that adapts and evolves.
+
+## 🚀 Project Launchpad 🚀
 
 <div align="center">
 
-| Category | Technologies |
-|----------|--------------|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00) |
-| Backend | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| Databases | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| AI/ML | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| Project Nebula | Quantum Quill | Chrono Coder |
+|:--------------:|:-------------:|:------------:|
+| [![Project Nebula](https://github.com/ayanleaideed/ayanleaideed/blob/main/assets/project_nebula.gif)](https://github.com/ayanleaideed/project-nebula) | [![Quantum Quill](https://github.com/ayanleaideed/ayanleaideed/blob/main/assets/quantum_quill.gif)](https://github.com/ayanleaideed/quantum-quill) | [![Chrono Coder](https://github.com/ayanleaideed/ayanleaideed/blob/main/assets/chrono_coder.gif)](https://github.com/ayanleaideed/chrono-coder) |
+| Harnessing dark matter for web optimization | Quantum-powered code generation | Time-bending version control |
 
 </div>
 
----
+## 🌈 Contribution Spectrum 🌈
 
-<h2 align="center">🏆 Achievements Unlocked 🏆</h2>
+<div align="center">
+  <img src="https://github.com/ayanleaideed/ayanleaideed/blob/main/assets/contribution_spectrum.svg" alt="Contribution Spectrum" width="100%">
+</div>
+
+> Behold the chromatic symphony of contributions, each hue representing a different type of cosmic code enhancement.
+
+## 🎭 Code Shapeshifter 🎭
 
 <div align="center">
 
-| 🏅 Accolade | 🌟 Significance | 🔗 Proof |
-|-------------|-----------------|----------|
-| 🥇 1st Place Hackathon Winner | Built an AI that predicts climate change patterns | [View Certificate](https://example.com/certificate) |
-| 🚀 Open Source Contributor | Top 1% contributor on GitHub | [GitHub Stats](#github-stats) |
-| 📚 Published Author | "The Future of AI: A Developer's Perspective" | [Buy on Amazon](https://amazon.com) |
-| 🎓 Machine Learning Certification | Completed Google's Advanced ML Course | [Verify Credential](https://example.com/verify) |
+```python
+class CodeShapeshifter:
+    def __init__(self):
+        self.form = "Python"
+
+    def morph(self, new_form):
+        print(f"Morphing from {self.form} to {new_form}")
+        self.form = new_form
+
+shapeshifter = CodeShapeshifter()
+shapeshifter.morph("Rust")
+shapeshifter.morph("Haskell")
+shapeshifter.morph("Quantum Assembly")
+```
 
 </div>
 
----
+> Adaptability is key in the ever-evolving tech cosmos. Witness the transformation across programming paradigms.
 
-<h2 align="center">🌠 Featured Projects 🌠</h2>
+## 🌠 Stardust Achievements 🌠
 
 <div align="center">
-  <a href="https://github.com/ayanleaideed/project-nebula">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=project-nebula&theme=radical" />
-  </a>
-  <a href="https://github.com/ayanleaideed/ai-symphony">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=ai-symphony&theme=radical" />
-  </a>
+
+| 🏆 Nebula Navigator | 🚀 Wormhole Weaver | 🌌 Galactic Committer |
+|:-------------------:|:------------------:|:---------------------:|
+| Charted 50+ uncharted code territories | Created 20+ interdimensional project links | 10,000+ commits across the multiverse |
+
 </div>
 
-<br>
+## 🕰️ Temporal Tech Talk 🕰️
 
 <div align="center">
-  <a href="https://github.com/ayanleaideed/quantum-chat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=quantum-chat&theme=radical" />
-  </a>
-  <a href="https://github.com/ayanleaideed/eco-blockchain">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=eco-blockchain&theme=radical" />
-  </a>
+
+[![Time-Shifted Blog](https://img.shields.io/badge/Time--Shifted_Blog-Read%20Now-blue?style=for-the-badge&logo=medium&logoColor=white)](https://ayanleaideed.medium.com)
+[![Quantum Podcast](https://img.shields.io/badge/Quantum_Podcast-Listen%20Now-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/ayanleaideed)
+[![Holographic Workshops](https://img.shields.io/badge/Holographic_Workshops-Enroll%20Now-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ayanleaideed)
+
 </div>
 
----
-
-<h2 align="center" id="github-stats">📊 GitHub Odyssey 📊</h2>
+## 🌌 Traverse the Technoverse 🌌
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=radical" alt="ayanleaideed" />
-</div>
+```ascii
+      .          .
+    .          .
+  .          .    Connect across dimensions:
+.     WWW    .
+  . :-) :-) .      [LinkedIn]  [Twitter]  [Personal Nexus]
+    .  ^  .          🔗          🔗           🔗
+      .  .
+```
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="ayanleaideed" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed-118752252/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayanleaideed)
+[![Personal Nexus](https://img.shields.io/badge/Personal_Nexus-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanleaideed.github.io/myportfolio/)
 
----
-
-<h2 align="center">🌈 Contribution Tapestry 🌈</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayanleaideed&theme=redical" alt="Contribution Graph" />
-</div>
-
----
-
-<h2 align="center">🤝 Let's Collaborate 🤝</h2>
-
-<p align="center">
-I'm always excited to connect with fellow innovators, tech enthusiasts, and visionaries. Whether you want to collaborate on a world-changing project, discuss the future of technology, or just geek out about code, I'm all ears!
-</p>
-
-<div align="center">
-  <a href="mailto:ayanle.aideed@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://calendly.com/ayanleaideed/coffee-chat">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Chat-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Chat" />
-  </a>
-</div>
-
----
-
-<h2 align="center">💖 Support My Digital Odyssey 💖</h2>
-
-<p align="center">
-If my work has inspired you, helped you, or just made you smile, consider supporting my journey:
-</p>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ayanleaideed">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://github.com/sponsors/ayanleaideed">
-    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor on GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontAlignY=80" width="100%" />
 </div>
 
 <div align="center">
-  <sub>Created with ❤️ by Ayanle Aideed • Last updated: <span id="last-updated"></span></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20you%20for%20visiting%20my%20cosmic%20code%20realm!&fontSize=20&fontAlignY=80" width="100%" />
 </div>
-
-<script>
-  document.getElementById('last-updated').textContent = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
-</script>
