@@ -110,18 +110,18 @@ graph TD
     D --> J[Kubernetes]
     G --> L[Django]
     G --> M[Flask]
-    style A fill:#FF00FF,stroke:#00FFFF,stroke-width:2px
-    style B fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style C fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style D fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style E fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style F fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style G fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style H fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style I fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style J fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style L fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style M fill:#32CD32,stroke:#00FFFF,stroke-width:2px
+    style A fill:#FF00FF,stroke:#000000,stroke-width:2px
+    style B fill:#FF69B4,stroke:#000000,stroke-width:2px
+    style C fill:#1E90FF,stroke:#000000,stroke-width:2px
+    style D fill:#32CD32,stroke:#000000,stroke-width:2px
+    style E fill:#FF69B4,stroke:#000000,stroke-width:2px
+    style F fill:#FF69B4,stroke:#000000,stroke-width:2px
+    style G fill:#1E90FF,stroke:#000000,stroke-width:2px
+    style H fill:#1E90FF,stroke:#000000,stroke-width:2px
+    style I fill:#32CD32,stroke:#000000,stroke-width:2px
+    style J fill:#32CD32,stroke:#000000,stroke-width:2px
+    style L fill:#1E90FF,stroke:#000000,stroke-width:2px
+    style M fill:#32CD32,stroke:#000000,stroke-width:2px
 ```
 
 </div>
