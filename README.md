@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Project+Nexus;Redefining+the+Future+of+Code;Scroll+Down+to+Begin+Your+Journey&center=true&size=30&color=FF0FAC&background=000000&duration=3000&pause=1000" alt="Nexus Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Project+Nexus;Redefining+the+Future+of+Code;Scroll+Down+to+Begin+Your+Journey&center=true&size=30&color=FF0FAC&background=000000&duration=3000&pause=2000" alt="Nexus Intro" />
 </div>
 
 <p align="center">
