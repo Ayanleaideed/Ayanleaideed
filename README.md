@@ -1,4 +1,4 @@
-# Welcome to the Code Cosmos of Ayanle Aideed
+# Welcome to the Code Cosmos of Ayanle Aideed 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Greetings,+fellow+code+explorer!;Prepare+for+a+journey+through+my+digital+universe!" alt="Typing SVG" />
@@ -7,10 +7,10 @@
 ## 🌌 Navigate My Code Constellation
 
 <div align="center">
-  <a href="#nova-projects">🌟 Nova Projects</a> • 
-  <a href="#skill-nebula">🌀 Skill Nebula</a> • 
-  <a href="#contribution-quasar">🔥 Contribution Quasar</a> • 
-  <a href="#connect-across-the-cosmos">🛰️ Connect</a>
+  <a href="#-nova-projects">🌟 Nova Projects</a> • 
+  <a href="#-skill-nebula">🌀 Skill Nebula</a> • 
+  <a href="#-contribution-quasar">🔥 Contribution Quasar</a> • 
+  <a href="#-connect-across-the-cosmos">🛰️ Connect</a>
 </div>
 
 ---
@@ -64,9 +64,6 @@ My skills are not just listed; they're an interactive cosmic dance:
 <details>
 <summary>🔬 Zoom into the Skill Microcosm</summary>
 
-
-
-
 ```mermaid
 mindmap
   root((Ayanle's Skills))
@@ -95,50 +92,6 @@ mindmap
 
 </details>
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
-  
-  ```mermaid
-  graph TD
-    A[Ayanle Aideed] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[DevOps]
-    B --> E[React]
-    B --> F[Vue.js]
-    C --> G[Python]
-    C --> H[Node.js]
-    D --> I[Docker]
-    D --> J[Kubernetes]
-    G --> L[Django]
-    G --> M[Flask]
-
-    style A fill:#800080,stroke:#333333,stroke-width:2px,color:#ffffff
-    style B fill:#FF1493,stroke:#333333,stroke-width:2px,color:#ffffff
-    style C fill:#1E90FF,stroke:#333333,stroke-width:2px,color:#ffffff
-    style D fill:#32CD32,stroke:#333333,stroke-width:2px,color:#ffffff
-    style E fill:#FF1493,stroke:#333333,stroke-width:2px,color:#ffffff
-    style F fill:#FF1493,stroke:#333333,stroke-width:2px,color:#ffffff
-    style G fill:#1E90FF,stroke:#333333,stroke-width:2px,color:#ffffff
-    style H fill:#1E90FF,stroke:#333333,stroke-width:2px,color:#ffffff
-    style I fill:#32CD32,stroke:#333333,stroke-width:2px,color:#ffffff
-    style J fill:#32CD32,stroke:#333333,stroke-width:2px,color:#ffffff
-    style L fill:#1E90FF,stroke:#333333,stroke-width:2px,color:#ffffff
-    style M fill:#32CD32,stroke:#333333,stroke-width:2px,color:#ffffff
-```
-</div>
-
-
-## 🔥 Contribution Quasar
-
-Watch as my contributions ignite the GitHub galaxy:
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=neon-dark&hide_border=true&background=000000&fire=00FF00&ring=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&icon_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="Ayanle's GitHub stats" />
-</div>
-
 ## 🧬 Code DNA
 
 My coding style is not just a preference; it's encoded in my digital DNA:
@@ -166,6 +119,28 @@ class AyanleAideed:
 me = AyanleAideed()
 universe.big_problems.map(me.accept_challenge)
 ```
+
+## 🔥 Contribution Quasar
+
+Watch as my contributions ignite the GitHub galaxy:
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=neon-dark&hide_border=true&background=000000&fire=00FF00&ring=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&icon_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="Ayanle's GitHub stats" />
+</div>
+
+## 🚀 Projects Showcase
+
+Explore the constellations of my digital creations:
+
+1. **[AvatarMood](https://github.com/ayanleaideed/AvatarMood)** - Emoji-based mood tracking
+2. **[Natural Language to SQL](https://github.com/ayanleaideed/Natural-Language-to-SQL)** - Bridging human language and databases
+3. **[NBA Stats Application](https://github.com/ayanleaideed/NBA-Stats-Application)** - Slam dunk your data analysis
+4. **[CRM System](https://github.com/ayanleaideed/CRM-System)** - Revolutionizing customer relationships
+5. **[Social Media Models](https://github.com/ayanleaideed/Social_media_Models)** - Architecting digital connections
 
 ## 🛰️ Connect Across the Cosmos
 
