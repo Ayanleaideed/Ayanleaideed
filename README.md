@@ -1,165 +1,190 @@
-# Welcome to the Code Cosmos of Ayanle Aideed 🚀
+# 🌌 Ayanle Aideed: Architect of Digital Realms
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Greetings,+fellow+code+explorer!;Prepare+for+a+journey+through+my+digital+universe!" alt="Typing SVG" />
-</div>
-
-## 🌌 Navigate My Code Constellation
-
-<div align="center">
-  <a href="#-nova-projects">🌟 Nova Projects</a> • 
-  <a href="#-skill-nebula">🌀 Skill Nebula</a> • 
-  <a href="#-contribution-quasar">🔥 Contribution Quasar</a> • 
-  <a href="#-connect-across-the-cosmos">🛰️ Connect</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=35&duration=3000&pause=1000&color=0CE3FF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Innovation+Catalyst" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎭 Code Shapeshifter
-
-I don't just write code; I orchestrate digital symphonies. My projects are living entities, evolving and adapting to the ever-changing tech landscape. Witness the metamorphosis:
-
-```mermaid
-gitGraph
-    commit id: "Genesis"
-    branch Concept
-    commit id: "Ideation"
-    commit id: "Prototyping"
-    checkout main
-    merge Concept
-    branch Development
-    commit id: "Alpha"
-    commit id: "Beta"
-    checkout main
-    merge Development
-    branch Release
-    commit id: "v1.0"
-    commit id: "v2.0"
-    checkout main
-    merge Release
-```
-
-## 🌟 Nova Projects
-
-Behold, the celestial bodies of my coding universe:
-
+<details open>
+<summary><h2>🎭 Persona Shift</h2></summary>
 <div align="center">
 
-| Project Supernova | Cosmic Impact | Tech Constellation |
-|:-----------------:|:-------------:|:------------------:|
-| 🌋 [Volcano](https://github.com/ayanleaideed/volcano) | Erupting with scalability | `Python` `Microservices` `AWS` |
-| 🌊 [Tsunami](https://github.com/ayanleaideed/tsunami) | Waves of data processing | `Rust` `Big Data` `Apache Kafka` |
-| 🌪️ [Cyclone](https://github.com/ayanleaideed/cyclone) | Swirling AI innovations | `TensorFlow` `PyTorch` `CUDA` |
+| Mode | Persona | Focus |
+|:----:|:-------:|:-----:|
+| 👨‍💻 | **The Coder** | Crafting elegant solutions |
+| 🧠 | **The Thinker** | Conceptualizing groundbreaking ideas |
+| 🚀 | **The Innovator** | Pushing technological boundaries |
+| 🤝 | **The Collaborator** | Building synergistic partnerships |
 
 </div>
+</details>
 
-## 🌀 Skill Nebula
+---
 
-My skills are not just listed; they're an interactive cosmic dance:
+## 🛠 Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,rust,go,docker,kubernetes,aws,tensorflow,react,mongodb&perline=5" alt="Skill Icons" />
+
+```mermaid
+graph TD
+    A[Ayanle's Tech Stack] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[DevOps]
+    A --> E[Data Science]
+    B --> F[React]
+    B --> G[Vue.js]
+    C --> H[Python]
+    C --> I[Node.js]
+    D --> J[Docker]
+    D --> K[Kubernetes]
+    E --> L[TensorFlow]
+    E --> M[PyTorch]
+
+    style A fill:#4CAF50,stroke:#333,stroke-width:4px
+    style B fill:#2196F3,stroke:#333,stroke-width:2px
+    style C fill:#FFC107,stroke:#333,stroke-width:2px
+    style D fill:#9C27B0,stroke:#333,stroke-width:2px
+    style E fill:#E91E63,stroke:#333,stroke-width:2px
+```
+
 </div>
 
 <details>
-<summary>🔬 Zoom into the Skill Microcosm</summary>
+<summary><h3>🔬 Expand Tech Proficiency</h3></summary>
 
-```mermaid
-mindmap
-  root((Ayanle's Skills))
-    Languages
-      Python
-      JavaScript
-      Rust
-      Go
-    Frameworks
-      Django
-      React
-      TensorFlow
-    DevOps
-      Docker
-      Kubernetes
-      CI/CD
-    Cloud
-      AWS
-      GCP
-      Azure
-    Databases
-      PostgreSQL
-      MongoDB
-      Redis
-```
+<div align="center">
 
+| Category | Technologies |
+|:--------:|:------------:|
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
+| Frameworks | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| DevOps | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+
+</div>
 </details>
 
-## 🧬 Code DNA
+---
 
-My coding style is not just a preference; it's encoded in my digital DNA:
+## 🌟 Project Cosmos
 
-```python
-class AyanleAideed:
-    def __init__(self):
-        self.name = "Ayanle Aideed"
-        self.role = "Full Stack Innovator"
-        self.language_spoken = ["Python", "JavaScript", "Rust", "Go"]
-        self.challenges = []
+<div align="center">
 
-    def accept_challenge(self, challenge):
-        self.challenges.append(challenge)
-        return self.innovate(challenge)
+| Project | Description | Tech Stack | Status |
+|:-------:|:-----------:|:----------:|:------:|
+| [Quantum Quill](https://github.com/ayanleaideed/quantum-quill) | AI-powered creative writing assistant | `Python` `TensorFlow` `Flask` | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [NebulaNexus](https://github.com/ayanleaideed/nebula-nexus) | Decentralized social network | `Rust` `WebAssembly` `React` | ![Status](https://img.shields.io/badge/Status-Beta-yellow?style=flat-square) |
+| [EcoSphere](https://github.com/ayanleaideed/eco-sphere) | Sustainable living tracker | `Vue.js` `Node.js` `MongoDB` | ![Status](https://img.shields.io/badge/Status-MVP-blueviolet?style=flat-square) |
 
-    def innovate(self, challenge):
-        solution = self.think_outside_galaxy(challenge)
-        return f"Innovative solution: {solution}"
+</div>
 
-    @staticmethod
-    def think_outside_galaxy(problem):
-        return "Quantum-entangled microservices with AI-driven self-healing capabilities"
+<details>
+<summary><h3>🔍 Project Insights</h3></summary>
 
-me = AyanleAideed()
-universe.big_problems.map(me.accept_challenge)
+<div align="center">
+
+```mermaid
+gantt
+    title Project Timelines
+    dateFormat  YYYY-MM-DD
+    section Quantum Quill
+    Development    :qc1, 2023-01-01, 90d
+    Beta Testing   :qc2, after qc1, 60d
+    Launch         :qc3, after qc2, 30d
+    section NebulaNexus
+    Research       :nn1, 2023-03-15, 45d
+    Development    :nn2, after nn1, 120d
+    Beta           :nn3, after nn2, 90d
+    section EcoSphere
+    Design         :es1, 2023-06-01, 30d
+    Development    :es2, after es1, 60d
+    MVP Launch     :es3, after es2, 15d
 ```
 
-## 🔥 Contribution Quasar
+</div>
+</details>
 
-Watch as my contributions ignite the GitHub galaxy:
+---
+
+## 🧠 Code Philosophy
+
+> "In the grand tapestry of technology, each line of code is a thread weaving innovation into reality." - Ayanle Aideed
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=neon-dark&hide_border=true&background=000000&fire=00FF00&ring=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
+
+```python
+def ayanle_approach(problem):
+    while not solved:
+        solution = innovative_thinking(problem)
+        if is_elegant(solution) and is_scalable(solution):
+            implement(solution)
+            break
+        else:
+            refine(solution)
+    
+    return solution
+
+def innovative_thinking(problem):
+    return blend(
+        out_of_box_ideas,
+        cutting_edge_tech,
+        ethical_considerations
+    )
+
+# The journey of a thousand miles begins with a single line of code
+ayanle_approach(world_challenges)
+```
+
 </div>
 
+---
+
+## 📊 Impact Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&icon_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="Ayanle's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&hide_border=true" alt="Ayanle's GitHub stats" />
+
 </div>
 
-## 🚀 Projects Showcase
-
-Explore the constellations of my digital creations:
-
-1. **[AvatarMood](https://github.com/ayanleaideed/AvatarMood)** - Emoji-based mood tracking
-2. **[Natural Language to SQL](https://github.com/ayanleaideed/Natural-Language-to-SQL)** - Bridging human language and databases
-3. **[NBA Stats Application](https://github.com/ayanleaideed/NBA-Stats-Application)** - Slam dunk your data analysis
-4. **[CRM System](https://github.com/ayanleaideed/CRM-System)** - Revolutionizing customer relationships
-5. **[Social Media Models](https://github.com/ayanleaideed/Social_media_Models)** - Architecting digital connections
-
-## 🛰️ Connect Across the Cosmos
-
-Let's align our coding constellations:
+<details>
+<summary><h3>📈 Contribution Insights</h3></summary>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&color=00FF00)](https://www.linkedin.com/in/ayanle-aideed-118752252/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen?style=for-the-badge&logo=web&logoColor=white&color=00FFFF)](https://ayanleaideed.github.io/myportfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=FF00FF)](https://github.com/ayanleaideed)
+
+```mermaid
+pie title Programming Languages
+    "Python" : 40
+    "JavaScript" : 30
+    "Rust" : 15
+    "Go" : 10
+    "Others" : 5
+```
+
+</div>
+</details>
+
+---
+
+## 🌐 Digital Footprint
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanleaideed.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanleaideed)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayanleaideed)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&customColorList=0,0,255,0,0,255" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&customColorList=0,2,2,5,30" />
 </div>
 
 <div align="center">
-  <sub>Created with cosmic code and intergalactic imagination by Ayanle Aideed</sub>
+  <sub>Crafted with 💻 and 🌟 by Ayanle Aideed | Last updated: 2024-08-20</sub>
 </div>
