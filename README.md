@@ -104,7 +104,7 @@
       • Slashing system downtime by a remarkable 25%
     </td>
   </tr>
-</table>lat-square&logo=nba&logoColor=white) |
+</table>
 
 ## 🧠 Skill Spectrum
 
