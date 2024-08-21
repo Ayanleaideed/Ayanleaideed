@@ -1,107 +1,155 @@
-# Ayanle Aideed
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+Enthusiast;NDSU+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Innovating%20at%20the%20Intersection%20of%20AI%20and%20Full-Stack%20Development&descAlignY=51&descAlign=62" />
 </div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/ayanle-aideed-118752252/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ayanle.aideed@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ayanleaideed" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-Aspiring Software Engineer with 15 months of hands-on experience in automation and full-stack development. Proficient in using advanced AI technologies and back-end development tools to create scalable solutions. Aiming to leverage technical skills and innovative mindset to add value to a dynamic tech team.
+---
+
+<div align="center">
+  <h2>🚀 Tech Odyssey: Navigating the Full-Stack Cosmos</h2>
+</div>
 
 <details>
-<summary>🌟 Skills & Technologies</summary>
+<summary>🌌 Expand the Universe of Skills</summary>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=flat-square&logo=Racket&logoColor=white)
+```mermaid
+graph TD
+    A[Ayanle's Tech Universe] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[AI/ML]
+    A --> E[DevOps & Cloud]
+    A --> F[Databases]
+    B --> B1[React]
+    B --> B2[Next.js]
+    B --> B3[HTML5/CSS3]
+    B --> B4[Tailwind CSS]
+    B --> B5[Bootstrap]
+    C --> C1[Python]
+    C --> C2[Django]
+    C --> C3[Flask]
+    C --> C4[Java]
+    C --> C5[C#]
+    D --> D1[LLMs]
+    D --> D2[RAG]
+    D --> D3[NLP]
+    D --> D4[Prompt Engineering]
+    D --> D5[Langchain]
+    E --> E1[AWS]
+    E --> E2[Azure]
+    E --> E3[Docker]
+    E --> E4[CI/CD]
+    E --> E5[Git]
+    F --> F1[PostgreSQL]
+    F --> F2[MongoDB]
+    F --> F3[Firebase]
+    F --> F4[Supabase]
+    F --> F5[SQL]
 
-### Web Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white)
-
-### AI/ML
-![LLMs](https://img.shields.io/badge/-LLMs-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-![Langchain](https://img.shields.io/badge/-Langchain-FF6F61?style=flat-square&logo=OpenAI&logoColor=white)
-
-### Cloud & Databases
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-
-### Tools & Methodologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-4B32C3?style=flat-square&logo=Jenkins&logoColor=white)
+    style A fill:#4CAF50,stroke:#333,stroke-width:4px
+    style B fill:#2196F3,stroke:#333,stroke-width:2px
+    style C fill:#FFC107,stroke:#333,stroke-width:2px
+    style D fill:#9C27B0,stroke:#333,stroke-width:2px
+    style E fill:#FF5722,stroke:#333,stroke-width:2px
+    style F fill:#00BCD4,stroke:#333,stroke-width:2px
+```
 
 </details>
 
-## 🎓 Education
-
-**North Dakota State University**  
-*Bachelor of Science in Computer Science*  
-Expected Graduation: May 2026  
-- Focus: Full Stack Development & Artificial Intelligence
-- Dean's List: Fall 2022, Spring 2023
-
-## 💼 Work Experience
-
-### Headstarter AI
-**Software Engineering Fellow** | Jul 2024 - Present
-- Participating in an intensive 7-week AI Fellowship Program, focusing on advanced LLMs and RAG applications.
-- Collaborating on innovative AI projects, engaging in hackathons, and developing a capstone project addressing real-world challenges.
-- Enhancing skills in cutting-edge AI technologies, software engineering practices, including data structures, algorithms, and user interface development workflows.
-
-### MarvinWindows
-**Systems Automation Intern** | May 2023 - Present
-- Engineered advanced GUIs with Ignition, incorporating Python scripting for event automation, enhancing user interaction and system control.
-- Utilized SQL for efficient database management, optimizing data retrieval and processing.
-- Developed manual screens and recut systems, enhancing production precision and adaptability.
-- Collaborated with the Lead Software Engineer to quickly address and fix production failures and critical bugs, enhancing operational efficiency.
-
-## 🚀 Projects
-
-### Natural Language to SQL Web App
-- Engineered a web application using Python, Django, HTML, CSS, and OpenAI's GPT-3 for NL to SQL conversion.
-- Implemented advanced RAG techniques, improving query accuracy and context understanding by 90%.
-- Processed over 1,000 queries with 98% accuracy, receiving positive feedback from a beta group of 50 users.
-
-### Full-Stack CRM Application
-- Architected a comprehensive CRM solution using Django, Bootstrap, HTML, CSS, and PostgreSQL.
-- Implemented complex CRUD operations and real-time data synchronization, supporting 1000+ concurrent users.
-- Integrated a sophisticated authentication system with role-based access control, enhancing security and user management.
-
-### NBA Player Statistics Dashboard
-- Led development of a dynamic NBA statistics platform, processing data for 450+ active players in real-time.
-- Implemented real-time data retrieval and display using Django and NBA API integration.
-- Designed custom efficiency metrics and interactive D3.js visualizations, increasing user engagement by 40%.
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&langs_count=7&theme=radical"/>
+  <h2>🌟 Constellation of Achievements</h2>
 </div>
 
-## 📫 Connect with Me
+<table align="center" style="border-collapse: separate; border-spacing: 0 15px;">
+  <tr>
+    <td style="width: 50%; padding: 20px; background: linear-gradient(145deg, #2c3e50, #34495e); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+      <h3 style="color: #ecf0f1;">🎓 Education</h3>
+      <p style="color: #bdc3c7;"><strong>North Dakota State University</strong></p>
+      <p style="color: #bdc3c7;">Bachelor of Science in Computer Science</p>
+      <p style="color: #bdc3c7;">Expected Graduation: May 2026</p>
+      <p style="color: #bdc3c7;">🏆 Dean's List: Fall 2022, Spring 2023</p>
+    </td>
+    <td style="width: 50%; padding: 20px; background: linear-gradient(145deg, #27ae60, #2ecc71); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+      <h3 style="color: #ecf0f1;">💼 Work Experience</h3>
+      <p style="color: #ecf0f1;"><strong>Headstarter AI</strong> | Software Engineering Fellow</p>
+      <p style="color: #ecf0f1;">Jul 2024 - Present</p>
+      <p style="color: #ecf0f1;"><strong>MarvinWindows</strong> | Systems Automation Intern</p>
+      <p style="color: #ecf0f1;">May 2023 - Present</p>
+    </td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed-118752252/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ayanleaideed)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ayanle.aideed@example.com)
+---
+
+<div align="center">
+  <h2>🛠️ Project Showcase: Forging Innovation</h2>
+</div>
+
+<table align="center" style="border-collapse: separate; border-spacing: 0 15px;">
+  <tr>
+    <td style="width: 33%; padding: 20px; background: linear-gradient(145deg, #3498db, #2980b9); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+      <h3 style="color: #ecf0f1;">🗣️ Natural Language to SQL Web App</h3>
+      <p style="color: #ecf0f1;">• Python, Django, OpenAI GPT-3</p>
+      <p style="color: #ecf0f1;">• 98% query accuracy</p>
+      <p style="color: #ecf0f1;">• RAG techniques for context understanding</p>
+    </td>
+    <td style="width: 33%; padding: 20px; background: linear-gradient(145deg, #e74c3c, #c0392b); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+      <h3 style="color: #ecf0f1;">🏀 NBA Player Statistics Dashboard</h3>
+      <p style="color: #ecf0f1;">• Django, NBA API, D3.js</p>
+      <p style="color: #ecf0f1;">• Real-time data for 450+ players</p>
+      <p style="color: #ecf0f1;">• 40% increase in user engagement</p>
+    </td>
+    <td style="width: 33%; padding: 20px; background: linear-gradient(145deg, #9b59b6, #8e44ad); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+      <h3 style="color: #ecf0f1;">💼 Full-Stack CRM Application</h3>
+      <p style="color: #ecf0f1;">• Django, Bootstrap, PostgreSQL</p>
+      <p style="color: #ecf0f1;">• Support for 1000+ concurrent users</p>
+      <p style="color: #ecf0f1;">• Advanced role-based access control</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Metrics: Charting the Course of Innovation</h2>
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117&custom_title=Ayanle's%20Cosmic%20Contributions" style="height: 200px; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&custom_title=Streak%20of%20Brilliance" style="height: 200px; width: auto;" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Ayanle's GitHub Trophies" style="width: 100%;" />
+</div>
+
+---
+
+<div align="center">
+  <h2>💡 Innovator's Manifesto</h2>
+</div>
+
+<div style="background: linear-gradient(45deg, #000000, #434343); padding: 30px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+  <p style="font-style: italic; font-size: 18px; line-height: 1.6;">
+    "In the vast expanse of the digital universe, I stand as an explorer and creator. With each line of code, I bridge the gap between human imagination and technological reality. My mission is to harness the power of AI and full-stack development to craft solutions that not only solve today's challenges but anticipate tomorrow's needs. I am not just building software; I am architecting the future, one innovative project at a time."
+  </p>
+  <p style="margin-top: 20px; font-weight: bold; color: #00FFFF;">- Ayanle Aideed</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
+</div>
