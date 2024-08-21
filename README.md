@@ -4,12 +4,12 @@
   </h1>
 </div>
 
-<div align="center" style="margin: 20px 0; background: linear-gradient(130deg #00c6fb #005bea);">
+<div align="center" style="margin: 20px 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Innovator%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" 
   style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);" />
 </div>
 
-<div align="center">
+<div align="center style="background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Software+Engineering+Fellow;Systems+Automation+Expert;AI+and+ML+Innovator" 
     style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);" />
