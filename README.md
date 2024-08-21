@@ -108,60 +108,34 @@
 
 ## 🧠 Skill Spectrum
 
-<div align="center" style="position: relative; width: 100%; height: 400px; background: rgba(0, 0, 0, 0.5); border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); backdrop-filter: blur(10px);">
-  <div style="width: 100%; height: 100%;">
-    <svg id="mermaid" width="100%" height="100%"></svg>
-    <script type="module">
-      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+## System Architecture
 
-      mermaid.initialize({ 
-        theme: 'dark',
-        themeVariables: {
-          'pie1Fill': '#F97316',
-          'pie2Fill': '#EF4444',
-          'pie3Fill': '#FB923C',
-          'pie4Fill': '#F59E0B',
-          'pie5Fill': '#F87171',
-          'pie6Fill': '#7788ff',
-          'pie7Fill': '#F97316',
-          'pie8Fill': '#F59E0B',
-          'pie9Fill': '#7788ff'
-        }
-      });
-
-      const graphDefinition = `
-        graph TD
-          A[Ayanle Aideed] --> B[Frontend]
-          A --> C[Backend]
-          A --> D[DevOps]
-          B --> E[React]
-          B --> F[Vue.js]
-          C --> G[Python]
-          C --> H[Node.js]
-          D --> I[Docker]
-          D --> J[Kubernetes]
-          G --> L[Django]
-          G --> M[Flask]
-          style A fill:#F97316,stroke:#F59E0B,stroke-width:3px,stroke-dasharray: 5 5
-          style B fill:#EF4444,stroke:#F97316,stroke-width:2px
-          style C fill:#FB923C,stroke:#F97316,stroke-width:2px
-          style D fill:#F59E0B,stroke:#F97316,stroke-width:2px
-          style E fill:#F87171,stroke:#F97316,stroke-width:2px
-          style F fill:#FB923C,stroke:#F97316,stroke-width:2px
-          style G fill:#7788ff,stroke:#F97316,stroke-width:2px
-          style H fill:#F87171,stroke:#F97316,stroke-width:2px
-          style I fill:#F97316,stroke:#F59E0B,stroke-width:2px
-          style J fill:#FB923C,stroke:#F97316,stroke-width:2px
-          style L fill:#7788ff,stroke:#F97316,stroke-width:2px
-          style M fill:#7788ff,stroke:#F59E0B,stroke-width:2px
-      `;
-
-      mermaid.render('mermaid', graphDefinition, (svgCode) => {
-        document.getElementById('mermaid').innerHTML = svgCode;
-      });
-    </script>
-  </div>
-</div>
+```mermaid
+graph TD
+    A[Ayanle Aideed] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[DevOps]
+    B --> E[React]
+    B --> F[Vue.js]
+    C --> G[Python]
+    C --> H[Node.js]
+    D --> I[Docker]
+    D --> J[Kubernetes]
+    G --> L[Django]
+    G --> M[Flask]
+    style A fill:#F97316,stroke:#F59E0B,stroke-width:3px,stroke-dasharray: 5 5
+    style B fill:#EF4444,stroke:#F97316,stroke-width:2px
+    style C fill:#FB923C,stroke:#F97316,stroke-width:2px
+    style D fill:#F59E0B,stroke:#F97316,stroke-width:2px
+    style E fill:#F87171,stroke:#F97316,stroke-width:2px
+    style F fill:#FB923C,stroke:#F97316,stroke-width:2px
+    style G fill:#7788ff,stroke:#F97316,stroke-width:2px
+    style H fill:#F87171,stroke:#F97316,stroke-width:2px
+    style I fill:#F97316,stroke:#F59E0B,stroke-width:2px
+    style J fill:#FB923C,stroke:#F97316,stroke-width:2px
+    style L fill:#7788ff,stroke:#F97316,stroke-width:2px
+    style M fill:#7788ff,stroke:#F59E0B,stroke-width:2px
+```
 
 ## 💻 Code Showcase
 
