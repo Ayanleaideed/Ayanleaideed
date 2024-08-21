@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0; background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Innovator%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" 
   style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);" />
 </div>
