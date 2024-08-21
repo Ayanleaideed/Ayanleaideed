@@ -1,190 +1,159 @@
-# 🌌 Ayanle Aideed: Architect of Digital Realms
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=200&section=header&text=Digital%20Alchemist&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Header" />
+</div>
+
+# 🧪 Welcome to the Laboratory of Innovation 🧬
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=35&duration=3000&pause=1000&color=0CE3FF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Innovation+Catalyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Coding+Wizard;Innovation+Catalyst;Digital+Architect;Future+Sculptor" alt="Typing SVG" />
 </div>
 
 ---
 
-<details open>
-<summary><h2>🎭 Persona Shift</h2></summary>
+## 🌈 Spectrum of Expertise
+
 <div align="center">
-
-| Mode | Persona | Focus |
-|:----:|:-------:|:-----:|
-| 👨‍💻 | **The Coder** | Crafting elegant solutions |
-| 🧠 | **The Thinker** | Conceptualizing groundbreaking ideas |
-| 🚀 | **The Innovator** | Pushing technological boundaries |
-| 🤝 | **The Collaborator** | Building synergistic partnerships |
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="/api/placeholder/100/100" width="100px" height="100px" alt="Frontend" /><br />
+        <sub><b>Frontend Sorcery</b></sub>
+      </td>
+      <td align="center">
+        <img src="/api/placeholder/100/100" width="100px" height="100px" alt="Backend" /><br />
+        <sub><b>Backend Alchemy</b></sub>
+      </td>
+      <td align="center">
+        <img src="/api/placeholder/100/100" width="100px" height="100px" alt="AI" /><br />
+        <sub><b>AI Enchantment</b></sub>
+      </td>
+      <td align="center">
+        <img src="/api/placeholder/100/100" width="100px" height="100px" alt="DevOps" /><br />
+        <sub><b>DevOps Mastery</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
-</details>
 
 ---
 
-## 🛠 Tech Arsenal
+## 🎨 Palette of Technologies
 
 <div align="center">
 
 ```mermaid
-graph TD
-    A[Ayanle's Tech Stack] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[DevOps]
-    A --> E[Data Science]
-    B --> F[React]
-    B --> G[Vue.js]
-    C --> H[Python]
-    C --> I[Node.js]
-    D --> J[Docker]
-    D --> K[Kubernetes]
-    E --> L[TensorFlow]
-    E --> M[PyTorch]
-
-    style A fill:#4CAF50,stroke:#333,stroke-width:4px
-    style B fill:#2196F3,stroke:#333,stroke-width:2px
-    style C fill:#FFC107,stroke:#333,stroke-width:2px
-    style D fill:#9C27B0,stroke:#333,stroke-width:2px
-    style E fill:#E91E63,stroke:#333,stroke-width:2px
-```
-
-</div>
-
-<details>
-<summary><h3>🔬 Expand Tech Proficiency</h3></summary>
-
-<div align="center">
-
-| Category | Technologies |
-|:--------:|:------------:|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
-| Frameworks | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| Databases | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| Cloud | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
-
-</div>
-</details>
-
----
-
-## 🌟 Project Cosmos
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|:-------:|:-----------:|:----------:|:------:|
-| [Quantum Quill](https://github.com/ayanleaideed/quantum-quill) | AI-powered creative writing assistant | `Python` `TensorFlow` `Flask` | ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [NebulaNexus](https://github.com/ayanleaideed/nebula-nexus) | Decentralized social network | `Rust` `WebAssembly` `React` | ![Status](https://img.shields.io/badge/Status-Beta-yellow?style=flat-square) |
-| [EcoSphere](https://github.com/ayanleaideed/eco-sphere) | Sustainable living tracker | `Vue.js` `Node.js` `MongoDB` | ![Status](https://img.shields.io/badge/Status-MVP-blueviolet?style=flat-square) |
-
-</div>
-
-<details>
-<summary><h3>🔍 Project Insights</h3></summary>
-
-<div align="center">
-
-```mermaid
-gantt
-    title Project Timelines
-    dateFormat  YYYY-MM-DD
-    section Quantum Quill
-    Development    :qc1, 2023-01-01, 90d
-    Beta Testing   :qc2, after qc1, 60d
-    Launch         :qc3, after qc2, 30d
-    section NebulaNexus
-    Research       :nn1, 2023-03-15, 45d
-    Development    :nn2, after nn1, 120d
-    Beta           :nn3, after nn2, 90d
-    section EcoSphere
-    Design         :es1, 2023-06-01, 30d
-    Development    :es2, after es1, 60d
-    MVP Launch     :es3, after es2, 15d
-```
-
-</div>
-</details>
-
----
-
-## 🧠 Code Philosophy
-
-> "In the grand tapestry of technology, each line of code is a thread weaving innovation into reality." - Ayanle Aideed
-
-<div align="center">
-
-```python
-def ayanle_approach(problem):
-    while not solved:
-        solution = innovative_thinking(problem)
-        if is_elegant(solution) and is_scalable(solution):
-            implement(solution)
-            break
-        else:
-            refine(solution)
-    
-    return solution
-
-def innovative_thinking(problem):
-    return blend(
-        out_of_box_ideas,
-        cutting_edge_tech,
-        ethical_considerations
-    )
-
-# The journey of a thousand miles begins with a single line of code
-ayanle_approach(world_challenges)
+mindmap
+  root((Tech Palette))
+    Languages
+      ::icon(fa fa-code)
+      JavaScript
+      ::icon(fa fa-js-square)
+      Python
+      ::icon(fa fa-python)
+      Rust
+      ::icon(fa fa-gears)
+    Frameworks
+      ::icon(fa fa-cubes)
+      React
+      ::icon(fa fa-react)
+      Vue
+      ::icon(fa fa-vuejs)
+      Django
+      ::icon(fa fa-leaf)
+    Tools
+      ::icon(fa fa-tools)
+      Docker
+      ::icon(fa fa-docker)
+      Kubernetes
+      ::icon(fa fa-dharmachakra)
+      Git
+      ::icon(fa fa-code-branch)
+    Cloud
+      ::icon(fa fa-cloud)
+      AWS
+      ::icon(fa fa-aws)
+      Azure
+      ::icon(fa fa-microsoft)
+      GCP
+      ::icon(fa fa-google)
 ```
 
 </div>
 
 ---
 
-## 📊 Impact Metrics
+## 🚀 Launchpad of Projects
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&hide_border=true" alt="Ayanle's GitHub stats" />
-
-</div>
-
-<details>
-<summary><h3>📈 Contribution Insights</h3></summary>
-
-<div align="center">
-
-```mermaid
-pie title Programming Languages
-    "Python" : 40
-    "JavaScript" : 30
-    "Rust" : 15
-    "Go" : 10
-    "Others" : 5
-```
-
-</div>
-</details>
-
----
-
-## 🌐 Digital Footprint
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanleaideed.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanleaideed)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayanleaideed)
-
+  <table>
+    <tr>
+      <th>Project Codename</th>
+      <th>Mission Objective</th>
+      <th>Tech Arsenal</th>
+      <th>Launch Status</th>
+    </tr>
+    <tr>
+      <td><a href="#" style="color: #FF00FF;">Nebula Nexus</a></td>
+      <td>Decentralized Social Platform</td>
+      <td><code>React</code> <code>Solidity</code> <code>IPFS</code></td>
+      <td><img src="https://img.shields.io/badge/Status-Orbiting-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Orbiting" /></td>
+    </tr>
+    <tr>
+      <td><a href="#" style="color: #00FFFF;">Quantum Quill</a></td>
+      <td>AI-Powered Storytelling Engine</td>
+      <td><code>Python</code> <code>TensorFlow</code> <code>Flask</code></td>
+      <td><img src="https://img.shields.io/badge/Status-Calibrating-yellow?style=for-the-badge&logo=statuspage&logoColor=white" alt="Calibrating" /></td>
+    </tr>
+    <tr>
+      <td><a href="#" style="color: #FF00FF;">Cyber Synthesis</a></td>
+      <td>Augmented Reality Code Visualizer</td>
+      <td><code>Unity</code> <code>C#</code> <code>ARKit</code></td>
+      <td><img src="https://img.shields.io/badge/Status-Prototyping-blue?style=for-the-badge&logo=statuspage&logoColor=white" alt="Prototyping" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
+## 💡 Illuminating Insights
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&customColorList=0,2,2,5,30" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <sub>Crafted with 💻 and 🌟 by Ayanle Aideed | Last updated: 2024-08-20</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=FFFFFF&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+## 🌐 Quantum Entanglement (Let's Connect!)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF00FF&height=100&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <sub>Crafted with 💖 and ✨ by the Digital Alchemist | Last transmutation: <span id="current-date"></span></sub>
+</div>
+
+<script type="text/javascript">
+  document.getElementById('current-date').textContent = new Date().toISOString().split('T')[0];
+</script>
