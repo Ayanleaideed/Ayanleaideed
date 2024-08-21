@@ -64,7 +64,7 @@ mindmap
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
 
 ```python
 # Django REST API
