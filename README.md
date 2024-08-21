@@ -68,8 +68,8 @@ graph TD
 
 ## 💻 Code Showcase
 
-<details>
-<summary>Click to expand</summary>
+
+<!-- <summary>Click to expand</summary> -->
 
 ```python
 class AyanleAideed:
@@ -95,7 +95,7 @@ me = AyanleAideed()
 universe.big_problems.map(me.accept_challenge)
 ```
 
-</details>
+
 
 ## 📊 Performance Metrics
 
