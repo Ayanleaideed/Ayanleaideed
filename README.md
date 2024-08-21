@@ -46,9 +46,8 @@
 ## 🧠 Skill Spectrum
 
 <div align="center">
-
-graph TD
-    A[Ayanle Aideed] --> B[Frontend]
+mermaidCopygraph TD
+    A[Ayanle's Skills] --> B[Frontend]
     A --> C[Backend]
     A --> D[DevOps]
     B --> E[React]
@@ -59,20 +58,11 @@ graph TD
     D --> J[Kubernetes]
     G --> L[Django]
     G --> M[Flask]
-    style A fill:#FF00FF,stroke:#00FFFF,stroke-width:2px
-    style B fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style C fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style D fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style E fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style F fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style G fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style H fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style I fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style J fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style L fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style M fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-
-
+    style A fill:#FF5252,stroke:#FF8080,stroke-width:2px
+    style B fill:#FF6666,stroke:#FF8080,stroke-width:2px
+    style C fill:#FF3333,stroke:#FF8080,stroke-width:2px
+    style D fill:#FF1A1A,stroke:#FF8080,stroke-width:2px
+    style E,F,G,H,I,J,L,M fill:#FF0000,stroke:#FF8080,stroke-width:1px
 </div>
 
 ## 💻 Code Persona
