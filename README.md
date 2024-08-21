@@ -1,14 +1,22 @@
-# <div align="center">Ayanle Aideed's Stellar Tech Portfolio</div>
+<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 20px; border-radius: 10px;">
+  <h1 style="color: #FFB6C1; font-size: 3.5rem; font-family: 'Poppins', sans-serif; margin-bottom: 0;">
+    Ayanle Aideed's Stellar Tech Portfolio
+  </h1>
+</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Innovator%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" />
+<div align="center" style="margin: 20px 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Innovator%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" 
+  style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);" />
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=80&lines=Software+Engineering+Fellow;Systems+Automation+Expert;AI+and+ML+Innovator)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Software+Engineering+Fellow;Systems+Automation+Expert;AI+and+ML+Innovator" 
+    style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);" />
+  </a>
 </div>
+
+
 
 ## 🚀 Signature Projects
 
