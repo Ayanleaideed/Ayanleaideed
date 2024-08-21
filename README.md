@@ -16,80 +16,13 @@
 
 ## 🚀 Signature Projects
 
+## 🚀 World-Class Signature Projects
 
-
-<div align="center">
-
-### NL to SQL Wizard
-![NL to SQL Wizard](https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white)
-
-Revolutionary NL to SQL conversion app with:
-- 90% improvement in query accuracy
-- 98% precision on 1,000+ queries
-- Overwhelmingly positive user feedback
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="gpt-3" width="40" height="40"/>
-
-### CRM Nexus
-![CRM Nexus](https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black)
-
-Best-in-class CRM solution featuring:
-- Advanced CRUD operations mastery
-- Real-time sync for 1000+ users
-- Cutting-edge role-based access control
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-
-### NBA Stats Hyperdrive
-![NBA Stats Hyperdrive](https://img.shields.io/badge/NBA%20Stats%20Hyperdrive-FF4500?style=for-the-badge&logo=nba&logoColor=white)
-
-Unrivaled NBA statistics platform offering:
-- Real-time stats for 450+ NBA players
-- Groundbreaking efficiency metrics
-- 40% boost in user engagement
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nba.svg" alt="nba" width="40" height="40"/>
-
-</div>
-
-## 💼 Elite Professional Experience
-
-<table>
-  <tr>
-    <th>Position</th>
-    <th>Company</th>
-    <th>Duration</th>
-    <th>Key Achievements</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge" alt="Software Engineering Fellow" /></td>
-    <td align="center">Headstarter AI</td>
-    <td align="center">Jul 2024 - Present</td>
-    <td>
-      • Mastering cutting-edge AI Fellowship Program<br>
-      • Pioneering advanced LLMs and RAG applications<br>
-      • Spearheading innovative AI projects and hackathons<br>
-      • Developing game-changing real-world capstone project
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Systems%20Automation%20Intern-00FFFF?style=for-the-badge" alt="Systems Automation Intern" /></td>
-    <td align="center">Marvin Windows</td>
-    <td align="center">May 2023 - Present</td>
-    <td>
-      • Revolutionizing GUI development with Ignition and Python<br>
-      • Achieving 50% faster SQL query retrieval through optimization<br>
-      • Boosting production precision by an impressive 35%<br>
-      • Slashing system downtime by a remarkable 25%
-    </td>
-  </tr>
-</table>
+| NL to SQL Wizard | CRM Nexus | NBA Stats Hyperdrive |
+|:----------------:|:---------:|:--------------------:|
+| ![NL to SQL Wizard](https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white) | ![CRM Nexus](https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black) | ![NBA Stats Hyperdrive](https://img.shields.io/badge/NBA%20Stats%20Hyperdrive-FF4500?style=for-the-badge&logo=nba&logoColor=white) |
+| • Revolutionary NL to SQL conversion app<br>• Industry-leading 90% query accuracy boost<br>• Unmatched 98% precision on 1,000+ queries<br>• Overwhelmingly positive user feedback | • Best-in-class CRM solution<br>• Advanced CRUD operations mastery<br>• Seamless real-time sync for 1000+ users<br>• Cutting-edge role-based access control | • Unrivaled real-time NBA player stats<br>• Groundbreaking efficiency metrics<br>• State-of-the-art D3.js visualizations<br>• Phenomenal 40% user engagement boost |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![GPT-3](https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![NBA API](https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white) |
 
 ## 🧠 Skill Spectrum
 
