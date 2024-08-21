@@ -12,54 +12,53 @@
 
 ## 🚀 Signature Projects
 
-<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
+<div class="card-container">
+  <div class="card red-card">
+    <h3>NL to SQL Wizard</h3>
+    <ul>
+      <li>• Web app for NL to SQL conversion</li>
+      <li>• 90% improvement in query accuracy</li>
+      <li>• 98% accuracy on 1,000+ queries</li>
+      <li>• Positive feedback from 50 beta users</li>
+    </ul>
+    <div class="badges">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white" />
+    </div>
+  </div>
 
-<div style="flex: 1; background-color: #fee2e2; border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <h3 style="color: #dc2626; text-align: center;">NL to SQL Wizard</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>• Web app for NL to SQL conversion</li>
-    <li>• 90% improvement in query accuracy</li>
-    <li>• 98% accuracy on 1,000+ queries</li>
-    <li>• Positive feedback from 50 beta users</li>
-  </ul>
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white" />
+  <div class="card orange-card">
+    <h3>CRM Nexus</h3>
+    <ul>
+      <li>• Comprehensive CRM solution</li>
+      <li>• Complex CRUD operations</li>
+      <li>• Real-time data sync for 1000+ users</li>
+      <li>• Role-based access control</li>
+    </ul>
+    <div class="badges">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    </div>
+  </div>
+
+  <div class="card amber-card">
+    <h3>NBA Stats Hyperdrive</h3>
+    <ul>
+      <li>• Real-time stats for 450+ NBA players</li>
+      <li>• Custom efficiency metrics</li>
+      <li>• Interactive D3.js visualizations</li>
+      <li>• 40% increase in user engagement</li>
+    </ul>
+    <div class="badges">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white" />
+    </div>
   </div>
 </div>
 
-<div style="flex: 1; background-color: #fed7aa; border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <h3 style="color: #ea580c; text-align: center;">CRM Nexus</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>• Comprehensive CRM solution</li>
-    <li>• Complex CRUD operations</li>
-    <li>• Real-time data sync for 1000+ users</li>
-    <li>• Role-based access control</li>
-  </ul>
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  </div>
-</div>
-
-<div style="flex: 1; background-color: #fef3c7; border-radius: 10px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <h3 style="color: #d97706; text-align: center;">NBA Stats Hyperdrive</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>• Real-time stats for 450+ NBA players</li>
-    <li>• Custom efficiency metrics</li>
-    <li>• Interactive D3.js visualizations</li>
-    <li>• 40% increase in user engagement</li>
-  </ul>
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white" />
-  </div>
-</div>
-
-</div>
 
 ## 💻 Code Showcase
 
@@ -89,11 +88,11 @@ universe.big_problems.map(me.accept_challenge)
 
 ## 🧠 Skill Spectrum
 
-<div style="background-color:#282c34; padding:20px; border-radius:15px; max-width:800px; margin:auto; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
-  <pre style="color:#FFD700; font-family: 'Courier New', Courier, monospace; font-size: 1.1em;">
+<div style="background-color:#1F2937; padding:20px; border-radius:15px; max-width:800px; margin:auto; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
+  <pre style="color:#F59E0B; font-family: 'Courier New', Courier, monospace; font-size: 1.1em;">
 
 ```mermaid
-graph TD
+ graph TD
       A[Ayanle Aideed] --> B[Frontend]
       A --> C[Backend]
       A --> D[DevOps]
@@ -106,18 +105,18 @@ graph TD
       G --> L[Django]
       G --> M[Flask]
 
-      style A fill:#8A2BE2,stroke:#00CED1,stroke-width:3px,stroke-dasharray: 5 5
-      style B fill:#FF4500,stroke:#FFD700,stroke-width:2px
-      style C fill:#4682B4,stroke:#FFD700,stroke-width:2px
-      style D fill:#32CD32,stroke:#FFD700,stroke-width:2px
-      style E fill:#FF6347,stroke:#FFD700,stroke-width:2px
-      style F fill:#FF7F50,stroke:#FFD700,stroke-width:2px
-      style G fill:#4682B4,stroke:#FFD700,stroke-width:2px
-      style H fill:#00BFFF,stroke:#FFD700,stroke-width:2px
-      style I fill:#32CD32,stroke:#FFD700,stroke-width:2px
-      style J fill:#3CB371,stroke:#FFD700,stroke-width:2px
-      style L fill:#4682B4,stroke:#FFD700,stroke-width:2px
-      style M fill:#32CD32,stroke:#FFD700,stroke-width:2px
+      style A fill:#F97316,stroke:#F59E0B,stroke-width:3px,stroke-dasharray: 5 5
+      style B fill:#EF4444,stroke:#F97316,stroke-width:2px
+      style C fill:#FB923C,stroke:#F97316,stroke-width:2px
+      style D fill:#F59E0B,stroke:#F97316,stroke-width:2px
+      style E fill:#F87171,stroke:#F97316,stroke-width:2px
+      style F fill:#FB923C,stroke:#F97316,stroke-width:2px
+      style G fill:#FBBF24,stroke:#F97316,stroke-width:2px
+      style H fill:#F87171,stroke:#F97316,stroke-width:2px
+      style I fill:#F97316,stroke:#F59E0B,stroke-width:2px
+      style J fill:#FB923C,stroke:#F97316,stroke-width:2px
+      style L fill:#FBBF24,stroke:#F97316,stroke-width:2px
+      style M fill:#F97316,stroke:#F59E0B,stroke-width:2px
 ```
 
 </pre>
