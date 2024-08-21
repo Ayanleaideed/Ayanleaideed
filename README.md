@@ -1,213 +1,189 @@
-# Ayanle Aideed: Quantum Code Architect
+# <div align="center">🌌 Ayanle Aideed's Interstellar Portfolio 🚀</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,30&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Quantum%20Code%20Architect%20|%20Digital%20Reality%20Engineer&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00FFFF&background=1A1A1A00&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+Quantum+Codespace!;Where+Innovation+Transcends+Dimensions;Transforming+Ideas+into+Digital+Reality" alt="Typing SVG" />
 </div>
 
-<div align="center" class="space-x-4">
-  <a href="https://linkedin.com/in/ayanleaideed" class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-    LinkedIn
+## 🎨 Nebula of Skills
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<a href="#python">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+</a>
+<br>Python
+</td>
+<td align="center" width="96">
+<a href="#javascript">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+</a>
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<a href="#java">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+</a>
+<br>Java
+</td>
+<td align="center" width="96">
+<a href="#csharp">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+</a>
+<br>C#
+</td>
+<td align="center" width="96">
+<a href="#react">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+</a>
+<br>React
+</td>
+<td align="center" width="96">
+<a href="#django">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+</a>
+<br>Django
+</td>
+<td align="center" width="96">
+<a href="#aws">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+</a>
+<br>AWS
+</td>
+<td align="center" width="96">
+<a href="#azure">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+</a>
+<br>Azure
+</td>
+</tr>
+</table>
+
+## 🌟 Stellar Projects
+
+<div align="center">
+  <a href="https://github.com/ayanleaideed/natural-language-to-sql">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=natural-language-to-sql&theme=midnight-purple&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=FF00FF" />
   </a>
-  <a href="mailto:ayanle.aideed@example.com" class="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-    Email
+  <a href="https://github.com/ayanleaideed/full-stack-crm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=full-stack-crm&theme=midnight-purple&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=FF00FF" />
   </a>
-  <a href="https://github.com/ayanleaideed" class="inline-block bg-gray-800 hover:bg-gray-900 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-    GitHub
+</div>
+<div align="center">
+  <a href="https://github.com/ayanleaideed/nba-stats-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=nba-stats-dashboard&theme=midnight-purple&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=FF00FF" />
   </a>
 </div>
 
-<div class="mt-8 text-center">
-  <h2 class="text-3xl font-bold text-gray-800 mb-4">Forging Digital Realities, One Quantum Commit at a Time</h2>
-  <p class="text-lg text-gray-600">Full-Stack Innovator | AI Alchemist | System Automation Virtuoso</p>
+## 🌈 Contribution Supernova
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=midnight-purple&background=0D1117&border=FF00FF&stroke=00FFFF&ring=FF00FF&fire=FFFF00&currStreakNum=00FFFF&sideNums=FF00FF&currStreakLabel=FFFF00&sideLabels=00FFFF&dates=FFFFFF" />
+</div>
+
+## 🎭 Quantum Code Persona
+
+```python
+from typing import List, Dict
+import random
+
+class AyanleAideed:
+    def __init__(self):
+        self.name: str = "Ayanle Aideed"
+        self.role: str = "Interdimensional Software Architect"
+        self.languages: List[str] = ["Python", "JavaScript", "Java", "C#", "SQL"]
+        self.interests: List[str] = ["AI/ML", "Full-Stack Development", "Cloud Architecture", "Data Visualization"]
+        self.skills: Dict[str, List[str]] = {
+            "Web Development": ["Django", "React", "HTML5", "CSS3", "Bootstrap", "Flask", "Tailwind CSS"],
+            "AI/ML": ["LLMs", "RAG", "NLP", "Prompt Engineering", "Langchain"],
+            "Cloud & Databases": ["AWS", "Azure", "PostgreSQL", "Firebase", "Supabase", "MongoDB"],
+            "Tools": ["Git", "GitHub", "VS Code", "Jupyter Notebooks", "Docker", "CI/CD"]
+        }
+        self.favorite_color: str = self.generate_quantum_color()
+
+    def code(self, complexity: int = 5) -> str:
+        return "".join([chr((ord(c) + complexity) % 128) for c in "Hello, Multiverse!"])
+
+    def generate_quantum_color(self) -> str:
+        return f"#{random.randint(0, 0xFFFFFF):06x}"
+
+    def solve_interdimensional_problem(self, problem: str) -> str:
+        solution = self.apply_quantum_algorithm(problem)
+        return f"Solution to '{problem}': {solution}"
+
+    def apply_quantum_algorithm(self, data: str) -> str:
+        # Imagine a complex quantum algorithm here
+        return "Quantum solution: " + "".join(reversed(data))
+
+    def daily_routine(self):
+        self.consume_dark_matter_coffee()
+        self.code_across_parallel_universes()
+        self.learn_technology_from_future()
+        self.contribute_to_open_source_multiverse()
+        self.repeat()
+
+me = AyanleAideed()
+multiverse.big_bang(me.daily_routine)
+```
+
+## 🌠 Skill Constellation
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Ayanle Aideed] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[Cloud & DevOps]
+    A --> E[AI & ML]
+    B --> F[React]
+    B --> G[Vue.js]
+    B --> H[HTML/CSS]
+    C --> I[Python]
+    C --> J[Django]
+    C --> K[Node.js]
+    D --> L[AWS]
+    D --> M[Azure]
+    D --> N[Docker]
+    E --> O[LLMs]
+    E --> P[NLP]
+    E --> Q[RAG]
+    I --> R[Data Science]
+    I --> S[Automation]
+    style A fill:#FF00FF,stroke:#00FFFF,stroke-width:4px
+    style B fill:#4B0082,stroke:#00FFFF,stroke-width:2px
+    style C fill:#0000FF,stroke:#00FFFF,stroke-width:2px
+    style D fill:#00FF00,stroke:#00FFFF,stroke-width:2px
+    style E fill:#FF1493,stroke:#00FFFF,stroke-width:2px
+    style F,G,H,I,J,K,L,M,N,O,P,Q,R,S fill:#1A1A1A,stroke:#FF00FF,stroke-width:2px
+```
+
+</div>
+
+## 🚀 Intergalactic Communication Channels
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cosmic_Network-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00FFFF)](https://www.linkedin.com/in/ayanle-aideed-118752252/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Quantum_Showcase-00FFFF?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF00FF)](https://ayanleaideed.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Interstellar_Repository-FFFF00?style=for-the-badge&logo=github&logoColor=white&labelColor=FF00FF)](https://github.com/ayanleaideed)
+
+</div>
+
+## 🎵 Cosmic Coding Soundtrack
+
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://novatorem-woad-beta.vercel.app/api/spotify" alt="Ayanle's Interstellar Playlist" width="350" />
+  </a>
 </div>
 
 ---
 
-## 🧬 Skill Nexus
-
-<div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
-  <div class="bg-gradient-to-r from-purple-500 to-indigo-600 rounded-lg p-6 shadow-lg transform hover:scale-105 transition duration-300">
-    <h3 class="text-xl font-bold text-white mb-4">Frontend Mastery</h3>
-    <ul class="text-white">
-      <li>React & Next.js</li>
-      <li>Vue & Nuxt.js</li>
-      <li>Tailwind CSS</li>
-      <li>TypeScript</li>
-    </ul>
-  </div>
-  <div class="bg-gradient-to-r from-green-400 to-blue-500 rounded-lg p-6 shadow-lg transform hover:scale-105 transition duration-300">
-    <h3 class="text-xl font-bold text-white mb-4">Backend Sorcery</h3>
-    <ul class="text-white">
-      <li>Node.js & Express</li>
-      <li>Python & Django</li>
-      <li>GraphQL</li>
-      <li>Microservices Architecture</li>
-    </ul>
-  </div>
-  <div class="bg-gradient-to-r from-yellow-400 to-orange-500 rounded-lg p-6 shadow-lg transform hover:scale-105 transition duration-300">
-    <h3 class="text-xl font-bold text-white mb-4">AI & Data Science</h3>
-    <ul class="text-white">
-      <li>Machine Learning</li>
-      <li>Natural Language Processing</li>
-      <li>Computer Vision</li>
-      <li>Big Data Analytics</li>
-    </ul>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,10&height=100&section=footer&animation=twinkling" />
 </div>
 
-## 🚀 Project Constellation
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
-  <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition duration-300">
-    <div class="bg-gradient-to-r from-pink-500 to-purple-600 p-4">
-      <h3 class="text-xl font-bold text-white">NL to SQL Alchemist</h3>
-    </div>
-    <div class="p-6">
-      <p class="text-gray-600 mb-4">Transform natural language into SQL queries with AI precision.</p>
-      <div class="flex flex-wrap gap-2">
-        <span class="px-2 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Python</span>
-        <span class="px-2 py-1 bg-green-100 text-green-800 rounded-full text-sm">Django</span>
-        <span class="px-2 py-1 bg-purple-100 text-purple-800 rounded-full text-sm">GPT-3</span>
-      </div>
-    </div>
-  </div>
-  <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition duration-300">
-    <div class="bg-gradient-to-r from-blue-500 to-teal-400 p-4">
-      <h3 class="text-xl font-bold text-white">Quantum CRM Nexus</h3>
-    </div>
-    <div class="p-6">
-      <p class="text-gray-600 mb-4">Revolutionizing customer relationships with quantum-inspired insights.</p>
-      <div class="flex flex-wrap gap-2">
-        <span class="px-2 py-1 bg-red-100 text-red-800 rounded-full text-sm">React</span>
-        <span class="px-2 py-1 bg-yellow-100 text-yellow-800 rounded-full text-sm">Node.js</span>
-        <span class="px-2 py-1 bg-indigo-100 text-indigo-800 rounded-full text-sm">GraphQL</span>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <sub>Crafted with 💜 and quantum entanglement by Ayanle Aideed | © 2024 Cosmic Code Creations</sub>
 </div>
-
-## 📊 Quantum Metrics
-
-<div class="flex flex-wrap justify-center gap-4 mt-8">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&hide_border=true" alt="Ayanle's GitHub Stats" class="max-w-full h-auto" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=radical&hide_border=true" alt="Ayanle's GitHub Streak" class="max-w-full h-auto" />
-</div>
-
-## 🌠 Innovator's Manifesto
-
-<div class="bg-gradient-to-r from-black to-gray-800 rounded-lg p-8 mt-8 shadow-2xl">
-  <p class="text-lg text-white italic">
-    "In the vast expanse of the digital cosmos, I stand as both explorer and creator. Each line of code I craft is a bridge spanning the chasm between human imagination and technological reality. My mission: to harness the symbiotic power of AI and full-stack development, forging solutions that not only tackle today's challenges but anticipate the needs of tomorrow."
-  </p>
-  <p class="text-right text-white mt-4">- Ayanle Aideed, Quantum Code Architect</p>
-</div>
-
-<div class="mt-12 text-center">
-  <a href="https://github.com/ayanleaideed?tab=repositories" class="inline-block bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-bold py-3 px-6 rounded-full hover:from-purple-700 hover:to-indigo-700 transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110">
-    Explore My Digital Universe
-  </a>
-</div>
-
-<style>
-  /* Custom scrollbar */
-  ::-webkit-scrollbar {
-    width: 12px;
-  }
-  ::-webkit-scrollbar-track {
-    background: #1a202c;
-  }
-  ::-webkit-scrollbar-thumb {
-    background: #4a5568;
-    border-radius: 6px;
-  }
-  ::-webkit-scrollbar-thumb:hover {
-    background: #718096;
-  }
-  
-  /* Neon text effect */
-  .neon-text {
-    color: #fff;
-    text-shadow:
-      0 0 5px #fff,
-      0 0 10px #fff,
-      0 0 20px #fff,
-      0 0 40px #0ff,
-      0 0 80px #0ff,
-      0 0 90px #0ff,
-      0 0 100px #0ff,
-      0 0 150px #0ff;
-  }
-  
-  /* Glowing border effect */
-  .glow-border {
-    box-shadow:
-      0 0 5px #fff,
-      0 0 10px #fff,
-      0 0 20px #fff,
-      0 0 40px #0ff,
-      0 0 80px #0ff;
-  }
-  
-  /* Animated background */
-  @keyframes gradientBG {
-    0% {
-      background-position: 0% 50%;
-    }
-    50% {
-      background-position: 100% 50%;
-    }
-    100% {
-      background-position: 0% 50%;
-    }
-  }
-  .animated-bg {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    animation: gradientBG 15s ease infinite;
-  }
-</style>
-
-<script>
-  // Add this script tag at the end of your README to enable custom JavaScript
-  // Note: GitHub doesn't allow custom JavaScript in READMEs for security reasons,
-  // so this is just to show what could be done in a real web environment
-  document.addEventListener('DOMContentLoaded', (event) => {
-    // Smooth scroll effect
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-      anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-          behavior: 'smooth'
-        });
-      });
-    });
-    
-    // Typewriter effect for the main title
-    const title = document.querySelector('h1');
-    const text = title.textContent;
-    title.textContent = '';
-    let i = 0;
-    const typeWriter = () => {
-      if (i < text.length) {
-        title.textContent += text.charAt(i);
-        i++;
-        setTimeout(typeWriter, 100);
-      }
-    };
-    typeWriter();
-    
-    // Intersection Observer for fade-in effect
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('opacity-100');
-          entry.target.classList.remove('opacity-0');
-        }
-      });
-    });
-    
-    document.querySelectorAll('.fade-in').forEach(el => {
-      observer.observe(el);
-    });
-  });
-</script>
