@@ -23,7 +23,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="NL to SQL Wizard" />
       </p>
-      <p align="center">
+      <p align="left">
         • Revolutionary NL to SQL conversion app<br>
         • Industry-leading 90% query accuracy boost<br>
         • Unmatched 98% precision on 1,000+ queries<br>
@@ -40,7 +40,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black" alt="CRM Nexus" />
       </p>
-      <p align="center">
+      <p align="left">
         • Best-in-class CRM solution<br>
         • Advanced CRUD operations mastery<br>
         • Seamless real-time sync for 1000+ users<br>
@@ -57,10 +57,10 @@
       <p align="center">
         <img src="https://img.shields.io/badge/NBA%20Stats%20Hyperdrive-FF4500?style=for-the-badge&logo=nba&logoColor=white" alt="NBA Stats Hyperdrive" />
       </p>
-      <p align="center">
+      <p align="left">
         • Unrivaled real-time NBA player stats<br>
         • Groundbreaking efficiency metrics<br>
-        • State-of-the-art D3.js visualizations<br>
+        • Used visualization libraries<br>
         • Phenomenal 40% user engagement boost
       </p>
       <p align="center">
