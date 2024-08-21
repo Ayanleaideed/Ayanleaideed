@@ -16,11 +16,84 @@
   </a>
 </div>
 
-
-
-
 ## 🚀 Signature Projects
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">NL to SQL Wizard</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="NL to SQL Wizard" />
+      </p>
+      <br />
+      <p align="center">
+        • Web app for NL to SQL conversion<br>
+        • 90% improvement in query accuracy<br>
+        • 98% accuracy on 1,000+ queries<br>
+        • Positive feedback from 50 beta users
+      </p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-3" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">CRM Nexus</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black" alt="CRM Nexus" />
+      </p>
+      <br />
+      <p align="center">
+        • Comprehensive CRM solution<br>
+        • Complex CRUD operations<br>
+        • Real-time data sync for 1000+ users<br>
+        • Role-based access control
+      </p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">NBA Stats Hyperdrive</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/NBA%20Stats%20Hyperdrive-FF4500?style=for-the-badge&logo=nba&logoColor=white" alt="NBA Stats Hyperdrive" />
+      </p>
+      <br />
+      <p align="center">
+        • Real-time stats for 450+ NBA players<br>
+        • Custom efficiency metrics<br>
+        • Interactive D3.js visualizations<br>
+        • 40% increase in user engagement
+      </p>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
+        <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white" alt="NBA API" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+## 💼 Professional Experience
+
+<div align="center">
+
+| Position | Company | Duration | Key Achievements |
+|:--------:|:-------:|:--------:|:----------------:|
+| ![Software Engineering Fellow](https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge) | Headstarter AI | Jul 2024 - Present | <div align="left">• Intensive 7-week AI Fellowship Program<br>• Focus on advanced LLMs and RAG applications<br>• Collaborating on innovative AI projects and hackathons<br>• Developing real-world capstone project</div> |
+| ![Systems Automation Intern](https://img.shields.io/badge/Systems%20Automation%20Intern-00FFFF?style=for-the-badge) | Marvin Windows | May 2023 - Present | <div align="left">• Advanced GUI development with Ignition and Python<br>• Optimized SQL queries, reducing retrieval time by 50%<br>• Improved production precision by 35%<br>• Reduced system downtime by 25%</div> |
+
+</div>
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -109,12 +182,12 @@ graph TD
       style D fill:#F59E0B,stroke:#F97316,stroke-width:2px
       style E fill:#F87171,stroke:#F97316,stroke-width:2px
       style F fill:#FB923C,stroke:#F97316,stroke-width:2px
-      style G fill:#FBBF24,stroke:#F97316,stroke-width:2px
+      style G fill:#7788ff,stroke:#F97316,stroke-width:2px
       style H fill:#F87171,stroke:#F97316,stroke-width:2px
       style I fill:#F97316,stroke:#F59E0B,stroke-width:2px
       style J fill:#FB923C,stroke:#F97316,stroke-width:2px
-      style L fill:#FBBF24,stroke:#F97316,stroke-width:2px
-      style M fill:#F97316,stroke:#F59E0B,stroke-width:2px
+      style L fill:#7788ff,stroke:#F97316,stroke-width:2px
+      style M fill:#7788ff,stroke:#F59E0B,stroke-width:2px
 ```
 
 </div>
