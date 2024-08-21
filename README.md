@@ -1,40 +1,70 @@
-# Ayanle Aideed
+# <div align="center">Ayanle Aideed's Innovative Tech Portfolio</div>
 
-## Full Stack Innovator | AI Enthusiast
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Innovator%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" />
+</div>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Innovator%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=80&lines=Software+Engineering+Fellow;Systems+Automation+Expert;AI+and+ML+Innovator)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Fellow;Systems+Automation+Expert;AI+and+ML+Innovator)](https://git.io/typing-svg)
+</div>
 
 ## 🚀 Signature Projects
 
-- **NL to SQL Wizard**: Query Mastery
-- **CRM Nexus**: Relationship Manager
-- **NBA Stats Hyperdrive**: Sports Analytics
+<div align="center">
+
+| Project | Description | Technologies |
+|:-------:|:-----------:|:------------:|
+| ![NL to SQL Wizard](https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white) | • Web app for NL to SQL conversion<br>• 90% improvement in query accuracy<br>• 98% accuracy on 1,000+ queries<br>• Positive feedback from 50 beta users | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![GPT-3](https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white) |
+| ![CRM Nexus](https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black) | • Comprehensive CRM solution<br>• Complex CRUD operations<br>• Real-time data sync for 1000+ users<br>• Role-based access control | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![NBA Stats Hyperdrive](https://img.shields.io/badge/NBA%20Stats%20Hyperdrive-FF4500?style=for-the-badge&logo=nba&logoColor=white) | • Real-time stats for 450+ NBA players<br>• Custom efficiency metrics<br>• Interactive D3.js visualizations<br>• 40% increase in user engagement | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![NBA API](https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white) |
+
+</div>
 
 ## 💼 Professional Experience
 
-### Software Engineering Fellow
-**Headstarter AI** | Jul 2024 - Present
-- Intensive 7-week AI Fellowship Program
-- Focus on advanced LLMs and RAG applications
-- Collaborating on innovative AI projects and hackathons
-- Developing real-world capstone project
+<div align="center">
 
-### Systems Automation Intern
-**Marvin Windows** | May 2023 - Present
-- Advanced GUI development with Ignition and Python
-- Optimized SQL queries, reducing retrieval time by 50%
-- Improved production precision by 35%
-- Reduced system downtime by 25%
+| Position | Company | Duration | Key Achievements |
+|:--------:|:-------:|:--------:|:----------------:|
+| ![Software Engineering Fellow](https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge) | Headstarter AI | Jul 2024 - Present | • Intensive 7-week AI Fellowship Program<br>• Focus on advanced LLMs and RAG applications<br>• Collaborating on innovative AI projects and hackathons<br>• Developing real-world capstone project |
+| ![Systems Automation Intern](https://img.shields.io/badge/Systems%20Automation%20Intern-00FFFF?style=for-the-badge) | Marvin Windows | May 2023 - Present | • Advanced GUI development with Ignition and Python<br>• Optimized SQL queries, reducing retrieval time by 50%<br>• Improved production precision by 35%<br>• Reduced system downtime by 25% |
 
-## 🌟 Innovative Features
+</div>
 
-1. **Neural Interface for Code Generation**: Brain-computer interface translating thoughts into code.
-2. **Holographic Code Review**: Mixed reality environment for collaborative code reviews.
-3. **Quantum-Enhanced Machine Learning**: Implementing quantum algorithms for faster ML processes.
-4. **Biometric Emotion-Driven UX**: Adaptive UI responding to users' emotional states.
-5. **Self-Evolving AI Ecosystems**: Platform for AI agents to collaborate, compete, and evolve autonomously.
+## 🧠 Skill Spectrum
+
+<div align="center">
+
+```mermaid
+graph TD
+      A[Ayanle Aideed] --> B[Frontend]
+      A --> C[Backend]
+      A --> D[DevOps]
+      B --> E[React]
+      B --> F[Vue.js]
+      C --> G[Python]
+      C --> H[Node.js]
+      D --> I[Docker]
+      D --> J[Kubernetes]
+      G --> L[Django]
+      G --> M[Flask]
+      style A fill:#F97316,stroke:#F59E0B,stroke-width:3px,stroke-dasharray: 5 5
+      style B fill:#EF4444,stroke:#F97316,stroke-width:2px
+      style C fill:#FB923C,stroke:#F97316,stroke-width:2px
+      style D fill:#F59E0B,stroke:#F97316,stroke-width:2px
+      style E fill:#F87171,stroke:#F97316,stroke-width:2px
+      style F fill:#FB923C,stroke:#F97316,stroke-width:2px
+      style G fill:#FBBF24,stroke:#F97316,stroke-width:2px
+      style H fill:#F87171,stroke:#F97316,stroke-width:2px
+      style I fill:#F97316,stroke:#F59E0B,stroke-width:2px
+      style J fill:#FB923C,stroke:#F97316,stroke-width:2px
+      style L fill:#FBBF24,stroke:#F97316,stroke-width:2px
+      style M fill:#F97316,stroke:#F59E0B,stroke-width:2px
+```
+
+</div>
 
 ## 💻 Code Showcase
 
@@ -62,20 +92,32 @@ me = AyanleAideed()
 universe.big_problems.map(me.accept_challenge)
 ```
 
-## 📊 GitHub Stats
+## 📊 Performance Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&icon_color=00FFFF&border_color=FF4500" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=dark&background=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=00FFFF&border=FF4500" />
+</div>
 
 ## 🔗 Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanleaideed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ayanleaideed.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanle.aideed@example.com)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed/)
+[![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayanleaideed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanleaideed.com)
+[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ayanle.aideed@example.com)
+
+</div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayanleaideed&color=blueviolet&style=for-the-badge)
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ayanleaideed&color=00FFFF&style=for-the-badge)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100&section=footer" />
+</div>
