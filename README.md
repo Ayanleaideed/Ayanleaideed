@@ -1,148 +1,104 @@
+# <div align="center">Ayanle Aideed's Innovative Tech Portfolio</div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30,54&height=300&section=header&text=Ayanle%20Aideed's%20Technoverse&fontSize=60&fontColor=fff&animation=fadeIn&desc=Where%20Innovation%20Meets%20Implementation&descAlignY=62&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=200&section=header&text=Ayanle%20Aideed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineering%20Fellow%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineering+Fellow+%7C+Systems+Automation+Intern;AI+Enthusiast+%7C+Full+Stack+Developer;Turning+Challenges+into+Innovations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5252&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;Systems+Automation+Expert;AI+and+ML+Innovator)](https://git.io/typing-svg)
 
 </div>
+
+## 🚀 Signature Projects
 
 <div align="center">
 
-| [🚀 Projects](#-cosmic-creations) | [🧠 Skills](#-neural-network) | [📊 Stats](#-quantum-metrics) | [🔗 Connect](#-hyperspace-links) |
+| Project | Description | Technologies |
+|:-------:|:-----------:|:------------:|
+| [<img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF5252?style=for-the-badge&logo=database&logoColor=white" />](https://github.com/ayanleaideed/nl-to-sql) | Web app for natural language to SQL conversion with 98% accuracy | ![Python](https://img.shields.io/badge/Python-ff8080?style=flat-square&logo=python&logoColor=blue) ![Django](https://img.shields.io/badge/Django-ff8080?style=flat-square&logo=django&logoColor=green) ![GPT-3](https://img.shields.io/badge/GPT--3-ff8080?style=flat-square&logo=openai&logoColor=white) |
+| [<img src="https://img.shields.io/badge/CRM%20Nexus-FF5252?style=for-the-badge&logo=salesforce&logoColor=white" />](https://github.com/ayanleaideed/crm-nexus) | Comprehensive CRM solution supporting 1000+ concurrent users | ![Django](https://img.shields.io/badge/Django-ff6666?style=flat-square&logo=django&logoColor=green) ![Bootstrap](https://img.shields.io/badge/Bootstrap-ff6666?style=flat-square&logo=bootstrap&logoColor=purple) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff6666?style=flat-square&logo=postgresql&logoColor=blue) |
+| [<img src="https://img.shields.io/badge/NBA%20Stats%20Hyperdrive-FF5252?style=for-the-badge&logo=nba&logoColor=white" />](https://github.com/ayanleaideed/nba-stats-dash) | Real-time NBA statistics platform with custom visualizations | ![Django](https://img.shields.io/badge/Django-ff4d4d?style=flat-square&logo=django&logoColor=green) ![D3.js](https://img.shields.io/badge/D3.js-ff4d4d?style=flat-square&logo=d3.js&logoColor=orange) ![NBA API](https://img.shields.io/badge/NBA_API-ff4d4d?style=flat-square&logo=nba&logoColor=blue) |
+| [<img src="https://img.shields.io/badge/GUI%20Automator-FF5252?style=for-the-badge&logo=arduino&logoColor=white" />](https://github.com/ayanleaideed/gui-automator) | Advanced GUI with event automation for production systems | ![Python](https://img.shields.io/badge/Python-ff3333?style=flat-square&logo=python&logoColor=blue) ![Ignition](https://img.shields.io/badge/Ignition-ff3333?style=flat-square&logo=ignition&logoColor=orange) ![SQL](https://img.shields.io/badge/SQL-ff3333?style=flat-square&logo=sql&logoColor=blue) |
 
 </div>
 
----
-
-## 🚀 Cosmic Creations
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Natural Language to SQL Wizard</h3>
-      <div align="center">
-        <a href="https://github.com/ayanleaideed/nl-to-sql" target="_blank">
-          <img src="https://img.shields.io/badge/Code-430098?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <a href="https://nl-to-sql.demo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo" />
-        </a>
-      </div>
-      <p><strong>Python | Django | GPT-3 | RAG</strong></p>
-      <ul>
-        <li>Engineered a web app for NL to SQL conversion</li>
-        <li>90% improvement in query accuracy</li>
-        <li>Processed 1,000+ queries with 98% accuracy</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">Full-Stack CRM Nexus</h3>
-      <div align="center">
-        <a href="https://github.com/ayanleaideed/crm-nexus" target="_blank">
-          <img src="https://img.shields.io/badge/Code-4B32C3?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <a href="https://crm-nexus.demo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo" />
-        </a>
-      </div>
-      <p><strong>Django | Bootstrap | PostgreSQL</strong></p>
-      <ul>
-        <li>Comprehensive CRM solution with CRUD operations</li>
-        <li>Real-time data sync for 1000+ concurrent users</li>
-        <li>Advanced role-based access control system</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">NBA Stats Hyperdrive</h3>
-      <div align="center">
-        <a href="https://github.com/ayanleaideed/nba-stats-dash" target="_blank">
-          <img src="https://img.shields.io/badge/Code-FF4785?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <a href="https://nba-stats-dash.demo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo" />
-        </a>
-      </div>
-      <p><strong>Django | NBA API | D3.js</strong></p>
-      <ul>
-        <li>Real-time stats for 450+ NBA players</li>
-        <li>Custom efficiency metrics and visualizations</li>
-        <li>40% increase in user engagement</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">AI-Powered GUI Automator</h3>
-      <div align="center">
-        <a href="https://github.com/ayanleaideed/gui-automator" target="_blank">
-          <img src="https://img.shields.io/badge/Code-2496ED?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-        </a>
-        <a href="https://gui-automator.demo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-4B32C3?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo" />
-        </a>
-      </div>
-      <p><strong>Python | Ignition | SQL</strong></p>
-      <ul>
-        <li>Advanced GUI with event automation</li>
-        <li>Optimized database queries and processing</li>
-        <li>Enhanced production precision and adaptability</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧠 Neural Network
+## 🧠 Skill Spectrum
 
 <div align="center">
-  <img src="https://github.com/ayanleaideed/ayanleaideed/raw/main/assets/skills_tree.svg" alt="Skills Binary Tree" width="100%">
+
+```mermaid
+mindmap
+  root((Ayanle's Skills))
+    Programming
+      Python
+      Java
+      JavaScript
+      C#
+      SQL
+      Racket
+    Web Development
+      Django
+      React
+      HTML/CSS
+      Bootstrap
+      Flask
+      Tailwind CSS
+    AI/ML
+      LLMs
+      RAG
+      NLP
+      Prompt Engineering
+      Langchain
+    Cloud & Databases
+      AWS
+      Azure
+      PostgreSQL
+      Firebase
+      MongoDB
+    Tools & Methodologies
+      Git/GitHub
+      VS Code
+      Jupyter Notebooks
+      Agile
+      Docker
+      CI/CD
+
+    style root fill:#FF5252,stroke:#ff8080,stroke-width:4px
+```
+
 </div>
 
----
-
-## 📊 Quantum Metrics
+## 📊 Performance Metrics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=radical&background=0D1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=dark&bg_color=000000&title_color=ff5252&text_color=ffffff&icon_color=ff5252&border_color=ff5252" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=dark&background=000000&ring=ff5252&fire=ff3333&currStreakLabel=ff5252&border=ff5252" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ayanleaideed&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayanleaideed&theme=redical&bg_color=000000&color=ff5252&line=ff3333&point=ff8080&area=true&area_color=ff1a1a&hide_border=true" />
 </div>
 
----
-
-## 🔗 Hyperspace Links
+## 🔗 Connect & Collaborate
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanleaideed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanleaideed.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanle.aideed@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF5252?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF3333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayanleaideed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF1A1A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanleaideed.com)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanle.aideed@example.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-## 🎮 Code Quest: The Game
-
-<a href="https://github.com/ayanleaideed/code-quest-game">
-  <img src="https://img.shields.io/badge/Play%20Code%20Quest-4B32C3?style=for-the-badge&logo=github&logoColor=white" alt="Play Code Quest" />
-</a>
-
-*Can you navigate the binary tree and collect all the coding skills?*
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ayanleaideed&color=FF5252&style=for-the-badge)
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,30,54&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=100&section=footer" />
 </div>
