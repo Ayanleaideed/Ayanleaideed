@@ -14,15 +14,97 @@
   </a>
 </div>
 
-## 🚀 Signature Projects
+## 🚀  Signature Projects
 
-## 🚀 World-Class Signature Projects
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="width: 33%; vertical-align: top; padding: 10px;">
+      <h3 style="margin-bottom: 10px;">NL to SQL Wizard</h3>
+      <p>
+        <img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="NL to SQL Wizard" style="margin-bottom: 10px;"/>
+      </p>
+      <p style="line-height: 1.6;">
+        • Revolutionary NL to SQL conversion app<br>
+        • Industry-leading 90% query accuracy boost<br>
+        • Unmatched 98% precision on 1,000+ queries<br>
+        • Overwhelmingly positive user feedback
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-3" />
+      </p>
+    </td>
+    <td style="width: 33%; vertical-align: top; padding: 10px;">
+      <h3 style="margin-bottom: 10px;">CRM Nexus</h3>
+      <p>
+        <img src="https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black" alt="CRM Nexus" style="margin-bottom: 10px;"/>
+      </p>
+      <p style="line-height: 1.6;">
+        • Best-in-class CRM solution<br>
+        • Advanced CRUD operations mastery<br>
+        • Seamless real-time sync for 1000+ users<br>
+        • Cutting-edge role-based access control
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+    </td>
+    <td style="width: 33%; vertical-align: top; padding: 10px;">
+      <h3 style="margin-bottom: 10px;">NBA Stats Hyperdrive</h3>
+      <p>
+        <img src="https://img.shields.io/badge/NBA%20Stats%20Hyperdrive-FF4500?style=for-the-badge&logo=nba&logoColor=white" alt="NBA Stats Hyperdrive" style="margin-bottom: 10px;"/>
+      </p>
+      <p style="line-height: 1.6;">
+        • Unrivaled real-time NBA player stats<br>
+        • Groundbreaking efficiency metrics<br>
+        • State-of-the-art D3.js visualizations<br>
+        • Phenomenal 40% user engagement boost
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
+        <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white" alt="NBA API" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-| NL to SQL Wizard | CRM Nexus | NBA Stats Hyperdrive |
-|:----------------:|:---------:|:--------------------:|
-| ![NL to SQL Wizard](https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white) | ![CRM Nexus](https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black) | ![NBA Stats Hyperdrive](https://img.shields.io/badge/NBA%20Stats%20Hyperdrive-FF4500?style=for-the-badge&logo=nba&logoColor=white) |
-| • Revolutionary NL to SQL conversion app<br>• Industry-leading 90% query accuracy boost<br>• Unmatched 98% precision on 1,000+ queries<br>• Overwhelmingly positive user feedback | • Best-in-class CRM solution<br>• Advanced CRUD operations mastery<br>• Seamless real-time sync for 1000+ users<br>• Cutting-edge role-based access control | • Unrivaled real-time NBA player stats<br>• Groundbreaking efficiency metrics<br>• State-of-the-art D3.js visualizations<br>• Phenomenal 40% user engagement boost |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![GPT-3](https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white) ![NBA API](https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white) |
+
+## 💼 Elite Professional Experience
+
+<table>
+  <tr>
+    <th>Position</th>
+    <th>Company</th>
+    <th>Duration</th>
+    <th>Key Achievements</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge" alt="Software Engineering Fellow" /></td>
+    <td align="center">Headstarter AI</td>
+    <td align="center">Jul 2024 - Present</td>
+    <td>
+      • Mastering cutting-edge AI Fellowship Program<br>
+      • Pioneering advanced LLMs and RAG applications<br>
+      • Spearheading innovative AI projects and hackathons<br>
+      • Developing game-changing real-world capstone project
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Systems%20Automation%20Intern-00FFFF?style=for-the-badge" alt="Systems Automation Intern" /></td>
+    <td align="center">Marvin Windows</td>
+    <td align="center">May 2023 - Present</td>
+    <td>
+      • Revolutionizing GUI development with Ignition and Python<br>
+      • Achieving 50% faster SQL query retrieval through optimization<br>
+      • Boosting production precision by an impressive 35%<br>
+      • Slashing system downtime by a remarkable 25%
+    </td>
+  </tr>
+</table>lat-square&logo=nba&logoColor=white) |
 
 ## 🧠 Skill Spectrum
 
