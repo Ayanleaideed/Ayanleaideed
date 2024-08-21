@@ -1,4 +1,4 @@
-# <div align="center">Ayanle Aideed's Cutting-Edge Tech Portfolio - 2024</div>
+# <div align="center">Ayanle Aideed's Innovative Tech Portfolio - 2024 Edition</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff5252&height=200&section=header&text=Ayanle%20Aideed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Innovator%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
@@ -12,91 +12,52 @@
 
 ## 🚀 Signature Projects
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-top: 20px;">
 
-<div class="project-card" style="width: 30%; min-width: 300px; margin: 10px; padding: 20px; background: rgba(255, 82, 82, 0.1); border-radius: 10px; transition: all 0.3s ease; cursor: pointer;">
-  <h3 style="color: #FF5252;">NL to SQL Wizard</h3>
-  <p style="text-align: left;">• Web app for NL to SQL conversion<br>• 90% improvement in query accuracy<br>• 98% accuracy on 1,000+ queries<br>• Positive feedback from 50 beta users</p>
-  <div style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Python-ff8080?style=flat-square&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Django-ff8080?style=flat-square&logo=django&logoColor=green" />
-    <img src="https://img.shields.io/badge/GPT--3-ff8080?style=flat-square&logo=openai&logoColor=white" />
+<div style="flex: 1 1 300px; max-width: 400px; background: linear-gradient(145deg, #ff5252, #ff7676); border-radius: 10px; padding: 20px; color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #fff; text-align: center;">NL to SQL Wizard</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>• Web app for NL to SQL conversion</li>
+    <li>• 90% improvement in query accuracy</li>
+    <li>• 98% accuracy on 1,000+ queries</li>
+    <li>• Positive feedback from 50 beta users</li>
+  </ul>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white" />
   </div>
 </div>
 
-<div class="project-card" style="width: 30%; min-width: 300px; margin: 10px; padding: 20px; background: rgba(255, 82, 82, 0.1); border-radius: 10px; transition: all 0.3s ease; cursor: pointer;">
-  <h3 style="color: #FF5252;">CRM Nexus</h3>
-  <p style="text-align: left;">• Comprehensive CRM solution<br>• Complex CRUD operations<br>• Real-time data sync for 1000+ users<br>• Role-based access control</p>
-  <div style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Django-ff6666?style=flat-square&logo=django&logoColor=green" />
-    <img src="https://img.shields.io/badge/Bootstrap-ff6666?style=flat-square&logo=bootstrap&logoColor=purple" />
-    <img src="https://img.shields.io/badge/PostgreSQL-ff6666?style=flat-square&logo=postgresql&logoColor=blue" />
+<div style="flex: 1 1 300px; max-width: 400px; background: linear-gradient(145deg, #ff7676, #ff9999); border-radius: 10px; padding: 20px; color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #fff; text-align: center;">CRM Nexus</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>• Comprehensive CRM solution</li>
+    <li>• Complex CRUD operations</li>
+    <li>• Real-time data sync for 1000+ users</li>
+    <li>• Role-based access control</li>
+  </ul>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   </div>
 </div>
 
-<div class="project-card" style="width: 30%; min-width: 300px; margin: 10px; padding: 20px; background: rgba(255, 82, 82, 0.1); border-radius: 10px; transition: all 0.3s ease; cursor: pointer;">
-  <h3 style="color: #FF5252;">NBA Stats Hyperdrive</h3>
-  <p style="text-align: left;">• Real-time stats for 450+ NBA players<br>• Custom efficiency metrics<br>• Interactive D3.js visualizations<br>• 40% increase in user engagement</p>
-  <div style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Django-ff4d4d?style=flat-square&logo=django&logoColor=green" />
-    <img src="https://img.shields.io/badge/D3.js-ff4d4d?style=flat-square&logo=d3.js&logoColor=orange" />
-    <img src="https://img.shields.io/badge/NBA_API-ff4d4d?style=flat-square&logo=nba&logoColor=blue" />
+<div style="flex: 1 1 300px; max-width: 400px; background: linear-gradient(145deg, #ff9999, #ffb3b3); border-radius: 10px; padding: 20px; color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h3 style="color: #fff; text-align: center;">NBA Stats Hyperdrive</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>• Real-time stats for 450+ NBA players</li>
+    <li>• Custom efficiency metrics</li>
+    <li>• Interactive D3.js visualizations</li>
+    <li>• 40% increase in user engagement</li>
+  </ul>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white" />
   </div>
 </div>
-
-</div>
-
-<style>
-  .project-card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 10px 20px rgba(255, 82, 82, 0.2);
-    z-index: 1;
-  }
-  .project-card:not(:hover) {
-    filter: blur(1px);
-  }
-</style>
-
-## 🧠 Skill Spectrum
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[Ayanle Aideed]:::root --> B[Frontend]:::frontend
-    A --> C[Backend]:::backend
-    A --> D[DevOps]:::devops
-    A --> E[AI & ML]:::aiml
-    B --> F[React]:::frontend
-    B --> G[Vue.js]:::frontend
-    B --> H[HTML/CSS]:::frontend
-    C --> I[Python]:::backend
-    C --> J[Node.js]:::backend
-    C --> K[Django]:::backend
-    C --> L[Flask]:::backend
-    D --> M[Docker]:::devops
-    D --> N[Kubernetes]:::devops
-    D --> O[CI/CD]:::devops
-    E --> P[TensorFlow]:::aiml
-    E --> Q[PyTorch]:::aiml
-    E --> R[NLP]:::aiml
-    E --> S[Computer Vision]:::aiml
-
-    classDef root fill:#FF5252,stroke:#FF8080,stroke-width:4px,color:#FFF,font-weight:bold
-    classDef frontend fill:#FFB3BA,stroke:#FF69B4,stroke-width:2px,color:#000
-    classDef backend fill:#BAFFC9,stroke:#00CED1,stroke-width:2px,color:#000
-    classDef devops fill:#BAE1FF,stroke:#1E90FF,stroke-width:2px,color:#000
-    classDef aiml fill:#FFFFBA,stroke:#FFD700,stroke-width:2px,color:#000
-
-    linkStyle default stroke-width:2px,fill:none,stroke:#FF5252
-
-    style A font-size:20px
-    style B,C,D,E font-size:16px
-    style F,G,H,I,J,K,L,M,N,O,P,Q,R,S font-size:14px
-
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#FF5252', 'primaryTextColor': '#fff', 'primaryBorderColor': '#FF8080', 'lineColor': '#F8B229', 'secondaryColor': '#006100', 'tertiaryColor': '#4B0082'}}}%%
-
-```
 
 </div>
 
@@ -120,6 +81,39 @@ graph TD
 - Improved production precision and adaptability by 35%
 - Reduced system downtime by 25% through quick bug fixes and failure resolution
 </details>
+
+## 🧠 Skill Spectrum
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Ayanle Aideed] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[DevOps]
+    B --> E[React]
+    B --> F[Vue.js]
+    C --> G[Python]
+    C --> H[Node.js]
+    D --> I[Docker]
+    D --> J[Kubernetes]
+    G --> L[Django]
+    G --> M[Flask]
+    style A fill:#FF00FF,stroke:#00FFFF,stroke-width:2px
+    style B fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
+    style C fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
+    style D fill:#32CD32,stroke:#00FFFF,stroke-width:2px
+    style E fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
+    style F fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
+    style G fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
+    style H fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
+    style I fill:#32CD32,stroke:#00FFFF,stroke-width:2px
+    style J fill:#32CD32,stroke:#00FFFF,stroke-width:2px
+    style L fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
+    style M fill:#32CD32,stroke:#00FFFF,stroke-width:2px
+```
+
+</div>
 
 ## 💻 Code Persona
 
@@ -182,8 +176,8 @@ graph TD
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=dark&bg_color=000000&title_color=ff5252&text_color=ffffff&icon_color=ff5252&border_color=ff5252" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=dark&background=000000&ring=ff5252&fire=ff3333&currStreakLabel=ff5252&border=ff5252" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=ff5252&text_color=ffffff&icon_color=ff5252&border_color=ff5252" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=radical&background=0D1117&ring=ff5252&fire=ff3333&currStreakLabel=ff5252&border=ff5252" />
 </div>
 
 ## 🔗 Connect & Collaborate
