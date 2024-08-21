@@ -1,132 +1,177 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Innovating%20at%20the%20Intersection%20of%20AI%20and%20Full-Stack%20Development&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Ayanle%20Aideed&fontColor=ffffff&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Architecting%20Digital%20Futures%20|%20AI%20Innovator%20|%20Full-Stack%20Visionary&descAlignY=60&descAlign=50" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ayanle-aideed-118752252/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ayanle.aideed@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ayanleaideed" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/ayanle-aideed-118752252/" target="_blank"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ayanle.aideed@example.com" target="_blank"><img src="https://img.shields.io/badge/-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ayanleaideed" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
+<h2 align="center">🌌 Cosmic Code Cartography: Mapping the Tech Universe</h2>
+
 <div align="center">
-  <h2>🚀 Tech Odyssey: Navigating the Full-Stack Cosmos</h2>
+  <img src="https://github.com/ayanleaideed/ayanleaideed/blob/main/tech_universe.svg" alt="Ayanle's Tech Universe" style="max-width: 100%; height: auto;" />
 </div>
 
 <details>
-<summary>🌌 Expand the Universe of Skills</summary>
+<summary><h3>🔬 Zoom into the Quantum Realm of Skills</h3></summary>
 
 ```mermaid
-graph TD
-    A[Ayanle's Tech Universe] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[AI/ML]
-    A --> E[DevOps & Cloud]
-    A --> F[Databases]
-    B --> B1[React]
-    B --> B2[Next.js]
-    B --> B3[HTML5/CSS3]
-    B --> B4[Tailwind CSS]
-    B --> B5[Bootstrap]
-    C --> C1[Python]
-    C --> C2[Django]
-    C --> C3[Flask]
-    C --> C4[Java]
-    C --> C5[C#]
-    D --> D1[LLMs]
-    D --> D2[RAG]
-    D --> D3[NLP]
-    D --> D4[Prompt Engineering]
-    D --> D5[Langchain]
-    E --> E1[AWS]
-    E --> E2[Azure]
-    E --> E3[Docker]
-    E --> E4[CI/CD]
-    E --> E5[Git]
-    F --> F1[PostgreSQL]
-    F --> F2[MongoDB]
-    F --> F3[Firebase]
-    F --> F4[Supabase]
-    F --> F5[SQL]
-
-    style A fill:#4CAF50,stroke:#333,stroke-width:4px
-    style B fill:#2196F3,stroke:#333,stroke-width:2px
-    style C fill:#FFC107,stroke:#333,stroke-width:2px
-    style D fill:#9C27B0,stroke:#333,stroke-width:2px
-    style E fill:#FF5722,stroke:#333,stroke-width:2px
-    style F fill:#00BCD4,stroke:#333,stroke-width:2px
+mindmap
+  root((Ayanle's<br/>Expertise))
+    AI & ML
+      LLMs
+      RAG
+      NLP
+      Prompt Engineering
+      Langchain
+    Frontend Mastery
+      React
+      Next.js
+      HTML5/CSS3
+      Tailwind CSS
+      Bootstrap
+    Backend Sorcery
+      Python
+        Django
+        Flask
+      Java
+      C#
+    Cloud Constellation
+      AWS
+      Azure
+      Serverless
+    Database Dimension
+      PostgreSQL
+      MongoDB
+      Firebase
+      Supabase
+    DevOps Dynamo
+      Docker
+      CI/CD
+      Git
+      Agile
 ```
 
 </details>
 
 ---
 
-<div align="center">
-  <h2>🌟 Constellation of Achievements</h2>
+<h2 align="center">🎨 The Gallery of Digital Artistry</h2>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+  <div style="width: 300px; height: 400px; perspective: 1000px;">
+    <div class="card" style="width: 100%; height: 100%; position: relative; transition: transform 0.8s; transform-style: preserve-3d;">
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(145deg, #3a1c71, #d76d77, #ffaf7b); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); display: flex; flex-direction: column; justify-content: center; align-items: center; color: white;">
+        <h3 style="font-size: 24px; margin-bottom: 15px;">🗣️ NL to SQL Alchemist</h3>
+        <p style="text-align: center;">Transmuting natural language into SQL gold with 98% accuracy</p>
+        <div style="margin-top: 15px;">
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">Python</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">Django</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">OpenAI</span>
+        </div>
+      </div>
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(145deg, #3a1c71, #d76d77, #ffaf7b); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; transform: rotateY(180deg);">
+        <h3 style="font-size: 20px; margin-bottom: 15px;">Key Achievements</h3>
+        <ul style="list-style-type: none; padding: 0;">
+          <li>• 98% Query Accuracy</li>
+          <li>• 1000+ Queries Processed</li>
+          <li>• 90% Improvement in Context Understanding</li>
+          <li>• 50+ Beta Users</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 300px; height: 400px; perspective: 1000px;">
+    <div class="card" style="width: 100%; height: 100%; position: relative; transition: transform 0.8s; transform-style: preserve-3d;">
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(145deg, #4b6cb7, #182848); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); display: flex; flex-direction: column; justify-content: center; align-items: center; color: white;">
+        <h3 style="font-size: 24px; margin-bottom: 15px;">🏀 NBA Stats Oracle</h3>
+        <p style="text-align: center;">Prophesying player performance with real-time precision</p>
+        <div style="margin-top: 15px;">
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">Django</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">D3.js</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">NBA API</span>
+        </div>
+      </div>
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(145deg, #4b6cb7, #182848); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; transform: rotateY(180deg);">
+        <h3 style="font-size: 20px; margin-bottom: 15px;">Impact Metrics</h3>
+        <ul style="list-style-type: none; padding: 0;">
+          <li>• 450+ Active NBA Players Tracked</li>
+          <li>• 40% Increase in User Engagement</li>
+          <li>• Real-time Data Processing</li>
+          <li>• Custom Efficiency Metrics</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div style="width: 300px; height: 400px; perspective: 1000px;">
+    <div class="card" style="width: 100%; height: 100%; position: relative; transition: transform 0.8s; transform-style: preserve-3d;">
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(145deg, #11998e, #38ef7d); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); display: flex; flex-direction: column; justify-content: center; align-items: center; color: white;">
+        <h3 style="font-size: 24px; margin-bottom: 15px;">💼 CRM Nexus</h3>
+        <p style="text-align: center;">Forging unbreakable bonds between businesses and clients</p>
+        <div style="margin-top: 15px;">
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">Django</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">PostgreSQL</span>
+          <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 15px; margin: 5px; display: inline-block;">Bootstrap</span>
+        </div>
+      </div>
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(145deg, #11998e, #38ef7d); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); display: flex; flex-direction: column; justify-content: center; align-items: center; color: white; transform: rotateY(180deg);">
+        <h3 style="font-size: 20px; margin-bottom: 15px;">System Capabilities</h3>
+        <ul style="list-style-type: none; padding: 0;">
+          <li>• 1000+ Concurrent Users</li>
+          <li>• Real-time Data Synchronization</li>
+          <li>• Role-based Access Control</li>
+          <li>• Advanced CRUD Operations</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 
-<table align="center" style="border-collapse: separate; border-spacing: 0 15px;">
-  <tr>
-    <td style="width: 50%; padding: 20px; background: linear-gradient(145deg, #2c3e50, #34495e); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-      <h3 style="color: #ecf0f1;">🎓 Education</h3>
-      <p style="color: #bdc3c7;"><strong>North Dakota State University</strong></p>
-      <p style="color: #bdc3c7;">Bachelor of Science in Computer Science</p>
-      <p style="color: #bdc3c7;">Expected Graduation: May 2026</p>
-      <p style="color: #bdc3c7;">🏆 Dean's List: Fall 2022, Spring 2023</p>
-    </td>
-    <td style="width: 50%; padding: 20px; background: linear-gradient(145deg, #27ae60, #2ecc71); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-      <h3 style="color: #ecf0f1;">💼 Work Experience</h3>
-      <p style="color: #ecf0f1;"><strong>Headstarter AI</strong> | Software Engineering Fellow</p>
-      <p style="color: #ecf0f1;">Jul 2024 - Present</p>
-      <p style="color: #ecf0f1;"><strong>MarvinWindows</strong> | Systems Automation Intern</p>
-      <p style="color: #ecf0f1;">May 2023 - Present</p>
-    </td>
-  </tr>
-</table>
+<style>
+.card:hover {
+  transform: rotateY(180deg);
+}
+</style>
 
 ---
 
-<div align="center">
-  <h2>🛠️ Project Showcase: Forging Innovation</h2>
-</div>
+<h2 align="center">🏆 Accolades & Milestones</h2>
 
-<table align="center" style="border-collapse: separate; border-spacing: 0 15px;">
-  <tr>
-    <td style="width: 33%; padding: 20px; background: linear-gradient(145deg, #3498db, #2980b9); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-      <h3 style="color: #ecf0f1;">🗣️ Natural Language to SQL Web App</h3>
-      <p style="color: #ecf0f1;">• Python, Django, OpenAI GPT-3</p>
-      <p style="color: #ecf0f1;">• 98% query accuracy</p>
-      <p style="color: #ecf0f1;">• RAG techniques for context understanding</p>
-    </td>
-    <td style="width: 33%; padding: 20px; background: linear-gradient(145deg, #e74c3c, #c0392b); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-      <h3 style="color: #ecf0f1;">🏀 NBA Player Statistics Dashboard</h3>
-      <p style="color: #ecf0f1;">• Django, NBA API, D3.js</p>
-      <p style="color: #ecf0f1;">• Real-time data for 450+ players</p>
-      <p style="color: #ecf0f1;">• 40% increase in user engagement</p>
-    </td>
-    <td style="width: 33%; padding: 20px; background: linear-gradient(145deg, #9b59b6, #8e44ad); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
-      <h3 style="color: #ecf0f1;">💼 Full-Stack CRM Application</h3>
-      <p style="color: #ecf0f1;">• Django, Bootstrap, PostgreSQL</p>
-      <p style="color: #ecf0f1;">• Support for 1000+ concurrent users</p>
-      <p style="color: #ecf0f1;">• Advanced role-based access control</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+  <div style="width: 45%; min-width: 300px; background: linear-gradient(45deg, #4b6cb7, #182848); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+    <h3 style="color: #FFD700; text-align: center;">🎓 Academic Pinnacle</h3>
+    <p style="color: white; text-align: center;"><strong>North Dakota State University</strong></p>
+    <p style="color: white; text-align: center;">B.S. in Computer Science (Expected: May 2026)</p>
+    <div style="background: rgba(255,255,255,0.1); border-radius: 10px; padding: 10px; margin-top: 10px;">
+      <p style="color: #FFD700; text-align: center; margin: 0;">🏅 Dean's List Honoree</p>
+      <p style="color: white; text-align: center; margin: 0;">Fall 2022 & Spring 2023</p>
+    </div>
+  </div>
+  
+  <div style="width: 45%; min-width: 300px; background: linear-gradient(45deg, #11998e, #38ef7d); border-radius: 15px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+    <h3 style="color: #FFD700; text-align: center;">💼 Professional Odyssey</h3>
+    <div style="margin-bottom: 15px;">
+      <p style="color: white; text-align: center; margin: 0;"><strong>Headstarter AI</strong> | Software Engineering Fellow</p>
+      <p style="color: white; text-align: center; font-style: italic;">Jul 2024 - Present</p>
+    </div>
+    <div>
+      <p style="color: white; text-align: center; margin: 0;"><strong>MarvinWindows</strong> | Systems Automation Intern</p>
+      <p style="color: white; text-align: center; font-style: italic;">May 2023 - Present</p>
+    </div>
+  </div>
+</div>
 
 ---
 
-<div align="center">
-  <h2>📊 GitHub Metrics: Charting the Course of Innovation</h2>
-</div>
+<h2 align="center">📊 GitHub Arcana: The Metrics of Innovation</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117&custom_title=Ayanle's%20Cosmic%20Contributions" style="height: 200px; width: auto;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&custom_title=Streak%20of%20Brilliance" style="height: 200px; width: auto;" />
 </div>
@@ -137,19 +182,6 @@ graph TD
 
 ---
 
-<div align="center">
-  <h2>💡 Innovator's Manifesto</h2>
-</div>
+<h2 align="center">💡 The Innovator's Creed</h2>
 
-<div style="background: linear-gradient(45deg, #000000, #434343); padding: 30px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
-  <p style="font-style: italic; font-size: 18px; line-height: 1.6;">
-    "In the vast expanse of the digital universe, I stand as an explorer and creator. With each line of code, I bridge the gap between human imagination and technological reality. My mission is to harness the power of AI and full-stack development to craft solutions that not only solve today's challenges but anticipate tomorrow's needs. I am not just building software; I am architecting the future, one innovative project at a time."
-  </p>
-  <p style="margin-top: 20px; font-weight: bold; color: #00FFFF;">- Ayanle Aideed</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
-</div>
+<div style="background: linear-gradient(45deg, #000000, #434343);
