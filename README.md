@@ -89,33 +89,39 @@ universe.big_problems.map(me.accept_challenge)
 
 ## 🧠 Skill Spectrum
 
-<div align="center">
+<div style="background-color:#282c34; padding:20px; border-radius:15px; max-width:800px; margin:auto; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
+  <pre style="color:#FFD700; font-family: 'Courier New', Courier, monospace; font-size: 1.1em;">
 
 ```mermaid
 graph TD
-    A[Ayanle Aideed] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[DevOps]
-    B --> E[React]
-    B --> F[Vue.js]
-    C --> G[Python]
-    C --> H[Node.js]
-    D --> I[Docker]
-    D --> J[Kubernetes]
-    G --> L[Django]
-    G --> M[Flask]
-    style A fill:#FCD34D,stroke:#F59E0B,stroke-width:2px
-    style B fill:#FECACA,stroke:#DC2626,stroke-width:2px
-    style C fill:#FED7AA,stroke:#EA580C,stroke-width:2px
-    style D fill:#FEF3C7,stroke:#D97706,stroke-width:2px
-    style E,F fill:#FCA5A5,stroke:#DC2626,stroke-width:2px
-    style G,H fill:#FDBA74,stroke:#EA580C,stroke-width:2px
-    style I,J fill:#FDE68A,stroke:#D97706,stroke-width:2px
-    style L,M fill:#FDBA74,stroke:#EA580C,stroke-width:2px
+      A[Ayanle Aideed] --> B[Frontend]
+      A --> C[Backend]
+      A --> D[DevOps]
+      B --> E[React]
+      B --> F[Vue.js]
+      C --> G[Python]
+      C --> H[Node.js]
+      D --> I[Docker]
+      D --> J[Kubernetes]
+      G --> L[Django]
+      G --> M[Flask]
+
+      style A fill:#8A2BE2,stroke:#00CED1,stroke-width:3px,stroke-dasharray: 5 5
+      style B fill:#FF4500,stroke:#FFD700,stroke-width:2px
+      style C fill:#4682B4,stroke:#FFD700,stroke-width:2px
+      style D fill:#32CD32,stroke:#FFD700,stroke-width:2px
+      style E fill:#FF6347,stroke:#FFD700,stroke-width:2px
+      style F fill:#FF7F50,stroke:#FFD700,stroke-width:2px
+      style G fill:#4682B4,stroke:#FFD700,stroke-width:2px
+      style H fill:#00BFFF,stroke:#FFD700,stroke-width:2px
+      style I fill:#32CD32,stroke:#FFD700,stroke-width:2px
+      style J fill:#3CB371,stroke:#FFD700,stroke-width:2px
+      style L fill:#4682B4,stroke:#FFD700,stroke-width:2px
+      style M fill:#32CD32,stroke:#FFD700,stroke-width:2px
 ```
 
+</pre>
 </div>
-
 ## 💼 Professional Experience
 
 <details>
