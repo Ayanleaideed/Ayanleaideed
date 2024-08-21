@@ -49,29 +49,60 @@
 
 ```mermaid
 graph TD
-    A[Ayanle Aideed] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[DevOps]
-    B --> E[React]
-    B --> F[Vue.js]
-    C --> G[Python]
-    C --> H[Node.js]
-    D --> I[Docker]
-    D --> J[Kubernetes]
-    G --> L[Django]
-    G --> M[Flask]
-    style A fill:#FF00FF,stroke:#00FFFF,stroke-width:2px
-    style B fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style C fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style D fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style E fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style F fill:#FF69B4,stroke:#00FFFF,stroke-width:2px
-    style G fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style H fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style I fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style J fill:#32CD32,stroke:#00FFFF,stroke-width:2px
-    style L fill:#1E90FF,stroke:#00FFFF,stroke-width:2px
-    style M fill:#32CD32,stroke:#00FFFF,stroke-width:2px
+    Main[Main Container]:::containerStyle
+    Main --> A[Ayanle Aideed]:::nodeStyle
+    A --> B[Frontend]:::frontendStyle
+    A --> C[Backend]:::backendStyle
+    A --> D[DevOps]:::devopsStyle
+    B --> E[React]:::frontendStyle
+    B --> F[Vue.js]:::frontendStyle
+    C --> G[Python]:::backendStyle
+    C --> H[Node.js]:::backendStyle
+    D --> I[Docker]:::devopsStyle
+    D --> J[Kubernetes]:::devopsStyle
+    G --> L[Django]:::backendStyle
+    G --> M[Flask]:::devopsStyle
+    
+    %% Style Definitions
+    classDef containerStyle fill:#2E8B57,stroke:#FFD700,stroke-width:4px,stroke-dasharray: 5 5,animation:shake 0.5s ease infinite
+    classDef nodeStyle fill:#8A2BE2,stroke:#00CED1,stroke-width:3px,stroke-dasharray: 5 5,animation:glow 1s ease infinite alternate
+    classDef frontendStyle fill:#FF4500,stroke:#FFD700,stroke-width:2px,animation:fade-in 0.8s ease-in-out
+    classDef backendStyle fill:#4682B4,stroke:#FFD700,stroke-width:2px,animation:slide-right 0.8s ease-in-out
+    classDef devopsStyle fill:#32CD32,stroke:#FFD700,stroke-width:2px,animation:slide-left 0.8s ease-in-out
+    
+    %% Animation Keyframes
+    %% Glow Effect
+    @keyframes glow {
+        0% { stroke-opacity: 1; }
+        100% { stroke-opacity: 0.5; }
+    }
+    
+    %% Shake Effect
+    @keyframes shake {
+        0%, 100% { transform: translateX(0); }
+        25% { transform: translateX(-5px); }
+        50% { transform: translateX(5px); }
+        75% { transform: translateX(-5px); }
+    }
+    
+    %% Fade-in Effect
+    @keyframes fade-in {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+    
+    %% Slide Right Effect
+    @keyframes slide-right {
+        from { transform: translateX(-20px); opacity: 0; }
+        to { transform: translateX(0); opacity: 1; }
+    }
+    
+    %% Slide Left Effect
+    @keyframes slide-left {
+        from { transform: translateX(20px); opacity: 0; }
+        to { transform: translateX(0); opacity: 1; }
+    }
+
 ```
 
 </div>
