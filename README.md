@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Crafting%20the%20Future%20of%20Web%20|%20NDSU%20CS%20Student%20|%20Aspiring%20Full%20Stack%20Dev&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Innovating%20the%20Future%20of%20Software%20Engineering&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
@@ -14,156 +14,145 @@
   </a>
 </div>
 
----
+<details>
+<summary style="font-size: 24px; font-weight: bold; color: #4CAF50; cursor: pointer;">🌟 Skill Odyssey: Explore My Tech Universe</summary>
 
-## 🚀 Tech Odyssey
+<div align="center" style="margin-top: 20px;">
 
-<div align="center">
-  
 ```mermaid
-mindmap
-  root((Ayanle's Tech Universe))
-    Frontend
-      React
-      Next.js
-      Vue.js
-      HTML5/CSS3
-        Tailwind CSS
-        SASS
-    Backend
-      Python
-        Django
-        Flask
-      Node.js
-        Express
-    Databases
-      PostgreSQL
-      MongoDB
-      Redis
-    DevOps
-      Docker
-      Git
-      CI/CD
-    Cloud
-      AWS
-      Heroku
-    Mobile
-      React Native
-    AI/ML
-      TensorFlow
-      PyTorch
+graph TD
+    A[Ayanle's Tech Arsenal] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[AI/ML]
+    A --> E[Cloud & DevOps]
+    A --> F[Databases]
+    B --> B1[React]
+    B --> B2[HTML5/CSS3]
+    B --> B3[Tailwind CSS]
+    B --> B4[Bootstrap]
+    C --> C1[Python]
+    C --> C2[Django]
+    C --> C3[Flask]
+    C --> C4[Java]
+    C --> C5[C#]
+    D --> D1[LLMs]
+    D --> D2[RAG]
+    D --> D3[NLP]
+    D --> D4[Prompt Engineering]
+    D --> D5[Langchain]
+    E --> E1[AWS]
+    E --> E2[Azure]
+    E --> E3[Docker]
+    E --> E4[CI/CD]
+    E --> E5[Git]
+    F --> F1[PostgreSQL]
+    F --> F2[MongoDB]
+    F --> F3[Firebase]
+    F --> F4[Supabase]
+
+    style A fill:#4CAF50,stroke:#333,stroke-width:4px
+    style B fill:#2196F3,stroke:#333,stroke-width:2px
+    style C fill:#FFC107,stroke:#333,stroke-width:2px
+    style D fill:#9C27B0,stroke:#333,stroke-width:2px
+    style E fill:#FF5722,stroke:#333,stroke-width:2px
+    style F fill:#795548,stroke:#333,stroke-width:2px
 ```
 
+</div>
+</details>
+
+---
+
+## 💼 Professional Journey
+
+<div style="background: linear-gradient(120deg, #1a2a6c, #b21f1f, #fdbb2d); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <h3 style="color: #FFD700; text-align: center;">🚀 Current Role: Software Engineering Fellow at Headstarter AI</h3>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🌟 Mastering advanced LLMs and RAG applications in an intensive 7-week AI Fellowship</li>
+    <li>🛠️ Developing innovative AI solutions through collaborative projects and hackathons</li>
+    <li>🧠 Sharpening cutting-edge AI skills and software engineering practices</li>
+  </ul>
+</div>
+
+<div style="background: linear-gradient(120deg, #2c3e50, #3498db); margin-top: 20px; padding: 20px; border-radius: 15px; color: white; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <h3 style="color: #FFD700; text-align: center;">⚙️ Systems Automation Intern at MarvinWindows</h3>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🖥️ Engineered advanced GUIs with Ignition and Python for enhanced system control</li>
+    <li>📊 Optimized database management using SQL for efficient data handling</li>
+    <li>🛠️ Developed manual screens and recut systems for improved production precision</li>
+    <li>🚀 Collaborated on critical bug fixes, boosting operational efficiency</li>
+  </ul>
 </div>
 
 ---
 
-## 💻 Code Artistry
+## 🏆 Flagship Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+<div style="width: 30%; min-width: 300px; background: linear-gradient(45deg, #FF512F, #DD2476); margin: 10px; padding: 20px; border-radius: 15px; color: white; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <h3 style="color: #FFD700;">🗣️ Natural Language to SQL Web App</h3>
+  <p>Bridging human language and database queries with AI</p>
+  <ul>
+    <li>Python, Django, HTML, CSS, OpenAI GPT-3</li>
+    <li>90% improvement in query accuracy</li>
+    <li>98% accuracy across 1,000+ queries</li>
+  </ul>
 </div>
 
-<div align="left" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-
-```python
-# Django REST API
-from rest_framework.views import APIView
-from rest_framework.response import Response
-
-class InnovationView(APIView):
-    def get(self, request):
-        return Response({
-            "message": "Innovating with Django!"
-        })
-```
-
-```javascript
-// Next.js API Route
-export default function handler(req, res) {
-  res.status(200).json({ name: 'Ayanle Aideed', skills: ['Next.js', 'React', 'Node.js'] })
-}
-```
-
-```html
-<!-- Tailwind CSS Component -->
-<div class="bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-6 rounded-lg shadow-lg">
-  <h2 class="text-2xl font-bold text-white mb-4">Welcome to My Digital Realm</h2>
-  <p class="text-white">Crafting pixels and logic into seamless experiences.</p>
-</div>
-```
-
+<div style="width: 30%; min-width: 300px; background: linear-gradient(45deg, #1D976C, #93F9B9); margin: 10px; padding: 20px; border-radius: 15px; color: white; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <h3 style="color: #FFD700;">💼 Full-Stack CRM Application</h3>
+  <p>Comprehensive customer relationship management solution</p>
+  <ul>
+    <li>Django, Bootstrap, HTML, CSS, PostgreSQL</li>
+    <li>Support for 1000+ concurrent users</li>
+    <li>Advanced role-based access control</li>
+  </ul>
 </div>
 
----
-
-## 🌟 Project Constellation
-
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-
-<div style="width: 300px; margin: 10px; padding: 20px; background: linear-gradient(45deg, #FF6B6B, #4ECDC4); border-radius: 10px; color: white;">
-  <h3 style="color: #FFD700;">🚀 NexGen E-Commerce</h3>
-  <p>A cutting-edge e-commerce platform built with Next.js, Node.js, and MongoDB.</p>
-  <div style="margin-top: 10px;">
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">Next.js</span>
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">Node.js</span>
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">MongoDB</span>
-  </div>
-</div>
-
-<div style="width: 300px; margin: 10px; padding: 20px; background: linear-gradient(45deg, #3498db, #8e44ad); border-radius: 10px; color: white;">
-  <h3 style="color: #FFD700;">🤖 AI-Driven Analytics Dashboard</h3>
-  <p>Real-time data visualization powered by Django, React, and TensorFlow.</p>
-  <div style="margin-top: 10px;">
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">Django</span>
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">React</span>
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">TensorFlow</span>
-  </div>
-</div>
-
-<div style="width: 300px; margin: 10px; padding: 20px; background: linear-gradient(45deg, #00b894, #00cec9); border-radius: 10px; color: white;">
-  <h3 style="color: #FFD700;">📱 Cross-Platform Fitness Tracker</h3>
-  <p>A comprehensive fitness app built with React Native and Firebase.</p>
-  <div style="margin-top: 10px;">
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">React Native</span>
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">Firebase</span>
-    <span style="background: #2d3748; padding: 3px 7px; border-radius: 5px; font-size: 12px;">Redux</span>
-  </div>
+<div style="width: 30%; min-width: 300px; background: linear-gradient(45deg, #4B79A1, #283E51); margin: 10px; padding: 20px; border-radius: 15px; color: white; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <h3 style="color: #FFD700;">🏀 NBA Player Statistics Dashboard</h3>
+  <p>Real-time analytics for basketball enthusiasts</p>
+  <ul>
+    <li>Django, NBA API, D3.js</li>
+    <li>Real-time data for 450+ active players</li>
+    <li>40% increase in user engagement</li>
+  </ul>
 </div>
 
 </div>
 
 ---
 
-## 📊 GitHub Skyline
+## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Ayanle Aideed's GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" alt="Ayanle Aideed's GitHub Streak" />
+<div align="center" style="background: linear-gradient(45deg, #000000, #434343); padding: 20px; border-radius: 15px; margin-top: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Ayanle Aideed's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Ayanle Aideed's GitHub Trophies" />
 </div>
 
 ---
 
-## 🎓 Academic Pursuits
+## 🎓 Academic Excellence
 
-<div style="background: linear-gradient(45deg, #1e3c72, #2a5298); padding: 20px; border-radius: 10px; color: white;">
-  <h3 style="color: #FFD700;">North Dakota State University</h3>
-  <p>🖥️ Bachelor of Science in Computer Science</p>
-  <p>🚀 Focus: Full Stack Development & Artificial Intelligence</p>
-  <p>🏆 Dean's List: Fall 2022, Spring 2023</p>
+<div style="background: linear-gradient(120deg, #0f0c29, #302b63, #24243e); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <h3 style="color: #FFD700; text-align: center;">North Dakota State University</h3>
+  <p style="text-align: center;">🖥️ Bachelor of Science in Computer Science (Expected May 2026)</p>
+  <p style="text-align: center;">🚀 Focus: Full Stack Development & Artificial Intelligence</p>
+  <p style="text-align: center;">🏆 Achievements: Dean's List Fall 2022, Spring 2023</p>
 </div>
 
 ---
 
-## 💡 Innovation Pledge
+## 💡 Innovation Manifesto
 
-<div style="background: linear-gradient(45deg, #000000, #434343); padding: 20px; border-radius: 10px; color: white; text-align: center;">
-  <p style="font-style: italic; font-size: 18px;">"In the realm of ones and zeros, I craft solutions that bridge the gap between human imagination and technological reality. Every line of code is a step towards a more interconnected and intelligent digital future."</p>
-  <p style="margin-top: 10px;">- Ayanle Aideed</p>
+<div style="background: linear-gradient(45deg, #000000, #434343); padding: 20px; border-radius: 15px; color: white; text-align: center; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <p style="font-style: italic; font-size: 18px;">"In the ever-evolving landscape of technology, I stand at the intersection of innovation and practicality. My code is not just a means to an end, but a bridge to future possibilities. With each project, I aim to push the boundaries of what's possible, transforming complex challenges into elegant solutions that drive progress and inspire change."</p>
+  <p style="margin-top: 10px; font-weight: bold;">- Ayanle Aideed</p>
 </div>
 
 ---
