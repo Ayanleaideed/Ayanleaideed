@@ -9,12 +9,13 @@
   style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);" />
 </div>
 
-<div align="center style="background-image: linear-gradient(to top, #00c6fb 0%, #005bea 100%);">
+<div align="center" style="background: linear-gradient(130deg, #00c6fb, #005bea); padding: 20px; border-radius: 10px; margin: 20px 0;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Software+Engineering+Fellow;Systems+Automation+Expert;AI+and+ML+Innovator" 
     style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);" />
   </a>
 </div>
+>
 
 
 
