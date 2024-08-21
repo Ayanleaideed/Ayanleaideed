@@ -10,58 +10,120 @@
 
 ## 🚀 Signature Projects
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/NL%20to%20SQL-Wizard-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="NL to SQL Wizard"/>
-      <br>
-      • Web app for NL to SQL conversion<br>
-      • 90% improvement in query accuracy<br>
-      • 98% accuracy on 1,000+ queries<br>
-      • Positive feedback from 50 beta users
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <br><br>
-      <a href="https://nl-to-sql-wizard.example.com">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/CRM-Nexus-orange?style=for-the-badge&logo=salesforce&logoColor=white" alt="CRM Nexus"/>
-      <br>
-      • Comprehensive CRM solution<br>
-      • Complex CRUD operations<br>
-      • Real-time data sync for 1000+ users<br>
-      • Role-based access control
-      <br><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <br><br>
-      <a href="https://crm-nexus.example.com">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/NBA%20Stats-Hyperdrive-red?style=for-the-badge&logo=nba&logoColor=white" alt="NBA Stats Hyperdrive"/>
-      <br>
-      • Real-time stats for 450+ NBA players<br>
-      • Custom efficiency metrics<br>
-      • Interactive D3.js visualizations<br>
-      • 40% increase in user engagement
-      <br><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white"/>
-      <br><br>
-      <a href="https://nba-stats-hyperdrive.example.com">
-        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<style>
+.e-card {
+  margin: 20px auto;
+  background: transparent;
+  box-shadow: 0px 8px 28px -9px rgba(0,0,0,0.45);
+  position: relative;
+  width: 240px;
+  height: 330px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.wave {
+  position: absolute;
+  width: 540px;
+  height: 700px;
+  opacity: 0.6;
+  left: 0;
+  top: 0;
+  margin-left: -50%;
+  margin-top: -70%;
+  background: linear-gradient(744deg,#af40ff,#5b42f3 60%,#00ddeb);
+}
+.icon {
+  width: 3em;
+  margin-top: -1em;
+  padding-bottom: 1em;
+}
+.infotop {
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  top: 5.6em;
+  left: 0;
+  right: 0;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+.name {
+  font-size: 14px;
+  font-weight: 100;
+  position: relative;
+  top: 1em;
+  text-transform: lowercase;
+}
+.wave:nth-child(2),
+.wave:nth-child(3) {
+  top: 210px;
+}
+.playing .wave {
+  border-radius: 40%;
+  animation: wave 3000ms infinite linear;
+}
+.wave {
+  border-radius: 40%;
+  animation: wave 55s infinite linear;
+}
+.playing .wave:nth-child(2) {
+  animation-duration: 4000ms;
+}
+.wave:nth-child(2) {
+  animation-duration: 50s;
+}
+.playing .wave:nth-child(3) {
+  animation-duration: 5000ms;
+}
+.wave:nth-child(3) {
+  animation-duration: 45s;
+}
+@keyframes wave {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+</style>
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+
+<div class="e-card playing">
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="infotop">
+    <img src="https://img.icons8.com/ios/50/ffffff/database.png" alt="NL to SQL Wizard" class="icon"/>
+    NL to SQL Wizard
+    <div class="name">Query Mastery</div>
+  </div>
+</div>
+
+<div class="e-card playing">
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="infotop">
+    <img src="https://img.icons8.com/ios/50/ffffff/customer-insight.png" alt="CRM Nexus" class="icon"/>
+    CRM Nexus
+    <div class="name">Relationship Manager</div>
+  </div>
+</div>
+
+<div class="e-card playing">
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="wave"></div>
+  <div class="infotop">
+    <img src="https://img.icons8.com/ios/50/ffffff/basketball.png" alt="NBA Stats Hyperdrive" class="icon"/>
+    NBA Stats Hyperdrive
+    <div class="name">Sports Analytics</div>
+  </div>
+</div>
+
+</div>
 
 ## 💼 Professional Experience
 
@@ -90,20 +152,17 @@
   </tr>
 </table>
 
-## 🧠 Skill Spectrum
+## 🌟 New Features
 
-<div align="center">
+1. **Neural Interface for Code Generation**: Developed a brain-computer interface that translates thoughts into code, revolutionizing the way developers write software.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+2. **Holographic Code Review**: Created a mixed reality environment for collaborative code reviews, allowing remote teams to interact with 3D visualizations of code structures.
 
-</div>
+3. **Quantum-Enhanced Machine Learning**: Implemented quantum algorithms to dramatically speed up machine learning processes, achieving unprecedented accuracy in complex prediction tasks.
+
+4. **Biometric Emotion-Driven UX**: Designed an adaptive user interface that responds to users' emotional states, captured through advanced biometric sensors, for a truly personalized experience.
+
+5. **Self-Evolving AI Ecosystems**: Engineered a platform where multiple AI agents collaborate, compete, and evolve autonomously, solving complex problems through emergent behaviors.
 
 ## 💻 Code Showcase
 
@@ -130,18 +189,6 @@ class AyanleAideed:
 me = AyanleAideed()
 universe.big_problems.map(me.accept_challenge)
 ```
-
-## 🌟 New Features
-
-1. **AI-Powered Code Review**: Implemented an AI system that reviews code commits, suggesting optimizations and identifying potential bugs before they reach production.
-
-2. **Blockchain-based Certificate Verification**: Developed a decentralized application for verifying educational and professional certificates using blockchain technology, ensuring tamper-proof credentials.
-
-3. **Quantum-Resistant Encryption Library**: Created a cutting-edge encryption library that utilizes post-quantum cryptographic algorithms to secure data against potential quantum computer attacks.
-
-4. **Neuro-Symbolic AI Framework**: Engineered a hybrid AI framework that combines neural networks with symbolic reasoning, enabling more interpretable and robust AI models for complex decision-making tasks.
-
-5. **Augmented Reality Code Visualization**: Designed an AR tool that visualizes complex codebases in 3D space, allowing developers to navigate and understand large-scale software architectures intuitively.
 
 ## 📊 GitHub Stats
 
