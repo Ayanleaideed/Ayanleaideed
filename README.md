@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/NL%20to%20SQL-Wizard-blueviolet?style=for-the-badge&logo=python&logoColor=white" alt="NL to SQL Wizard"/>
       <br>
       • Web app for NL to SQL conversion<br>
@@ -23,8 +23,12 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <br><br>
+      <a href="https://nl-to-sql-wizard.example.com">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+      </a>
     </td>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/CRM-Nexus-orange?style=for-the-badge&logo=salesforce&logoColor=white" alt="CRM Nexus"/>
       <br>
       • Comprehensive CRM solution<br>
@@ -35,8 +39,12 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <br><br>
+      <a href="https://crm-nexus.example.com">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+      </a>
     </td>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/NBA%20Stats-Hyperdrive-red?style=for-the-badge&logo=nba&logoColor=white" alt="NBA Stats Hyperdrive"/>
       <br>
       • Real-time stats for 450+ NBA players<br>
@@ -47,6 +55,10 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
       <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white"/>
+      <br><br>
+      <a href="https://nba-stats-hyperdrive.example.com">
+        <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -55,7 +67,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/Software%20Engineering-Fellow-brightgreen?style=for-the-badge&logo=headstarter&logoColor=white" alt="Software Engineering Fellow"/>
       <br>
       <b>Headstarter AI</b> | Jul 2024 - Present
@@ -65,7 +77,7 @@
       • Collaborating on innovative AI projects and hackathons<br>
       • Developing real-world capstone project
     </td>
-    <td align="center">
+    <td>
       <img src="https://img.shields.io/badge/Systems%20Automation-Intern-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Systems Automation Intern"/>
       <br>
       <b>Marvin Windows</b> | May 2023 - Present
@@ -92,6 +104,44 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
+
+## 💻 Code Showcase
+
+```python
+class AyanleAideed:
+    def __init__(self):
+        self.name = "Ayanle Aideed"
+        self.role = "Full Stack Innovator"
+        self.language_spoken = ["Python", "JavaScript", "Rust", "Go"]
+        self.challenges = []
+
+    def accept_challenge(self, challenge):
+        self.challenges.append(challenge)
+        return self.innovate(challenge)
+
+    def innovate(self, challenge):
+        solution = self.think_outside_galaxy(challenge)
+        return f"Innovative solution: {solution}"
+
+    @staticmethod
+    def think_outside_galaxy(problem):
+        return "Quantum-entangled microservices with AI-driven self-healing capabilities"
+
+me = AyanleAideed()
+universe.big_problems.map(me.accept_challenge)
+```
+
+## 🌟 New Features
+
+1. **AI-Powered Code Review**: Implemented an AI system that reviews code commits, suggesting optimizations and identifying potential bugs before they reach production.
+
+2. **Blockchain-based Certificate Verification**: Developed a decentralized application for verifying educational and professional certificates using blockchain technology, ensuring tamper-proof credentials.
+
+3. **Quantum-Resistant Encryption Library**: Created a cutting-edge encryption library that utilizes post-quantum cryptographic algorithms to secure data against potential quantum computer attacks.
+
+4. **Neuro-Symbolic AI Framework**: Engineered a hybrid AI framework that combines neural networks with symbolic reasoning, enabling more interpretable and robust AI models for complex decision-making tasks.
+
+5. **Augmented Reality Code Visualization**: Designed an AR tool that visualizes complex codebases in 3D space, allowing developers to navigate and understand large-scale software architectures intuitively.
 
 ## 📊 GitHub Stats
 
