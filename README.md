@@ -106,9 +106,9 @@
   </tr>
 </table>
 
-## 🧠 Skill Spectrum
+## 🧠 Skill Spectrum Architecture
 
-## System Architecture
+<div align="center">
 
 ```mermaid
 graph TD
@@ -123,19 +123,22 @@ graph TD
     D --> J[Kubernetes]
     G --> L[Django]
     G --> M[Flask]
-    style A fill:#F97316,stroke:#F59E0B,stroke-width:3px,stroke-dasharray: 5 5
-    style B fill:#EF4444,stroke:#F97316,stroke-width:2px
-    style C fill:#FB923C,stroke:#F97316,stroke-width:2px
-    style D fill:#F59E0B,stroke:#F97316,stroke-width:2px
-    style E fill:#F87171,stroke:#F97316,stroke-width:2px
-    style F fill:#FB923C,stroke:#F97316,stroke-width:2px
-    style G fill:#7788ff,stroke:#F97316,stroke-width:2px
-    style H fill:#F87171,stroke:#F97316,stroke-width:2px
-    style I fill:#F97316,stroke:#F59E0B,stroke-width:2px
-    style J fill:#FB923C,stroke:#F97316,stroke-width:2px
-    style L fill:#7788ff,stroke:#F97316,stroke-width:2px
-    style M fill:#7788ff,stroke:#F59E0B,stroke-width:2px
+    style A fill:#FF6F61,stroke:#D84315,stroke-width:3px,stroke-dasharray: 5 5
+    style B fill:#4A90E2,stroke:#357ABD,stroke-width:2px
+    style C fill:#50E3C2,stroke:#1D976C,stroke-width:2px
+    style D fill:#F5A623,stroke:#F57F00,stroke-width:2px
+    style E fill:#E94E77,stroke:#D81B60,stroke-width:2px
+    style F fill:#F5A623,stroke:#F57F00,stroke-width:2px
+    style G fill:#6A1B9A,stroke:#4A148C,stroke-width:2px
+    style H fill:#E94E77,stroke:#D81B60,stroke-width:2px
+    style I fill:#FF6F61,stroke:#D84315,stroke-width:2px
+    style J fill:#50E3C2,stroke:#1D976C,stroke-width:2px
+    style L fill:#6A1B9A,stroke:#4A148C,stroke-width:2px
+    style M fill:#6A1B9A,stroke:#4A148C,stroke-width:2px
+
 ```
+
+</div>
 
 ## 💻 Code Showcase
 
