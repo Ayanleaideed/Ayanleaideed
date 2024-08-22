@@ -155,7 +155,7 @@ class AyanleAideed:
     def __init__(self):
         self.name = "Ayanle Aideed"
         self.role = "Full Stack Innovator"
-        self.language_spoken = ["Python", "JavaScript", "Rust", "Go"]
+        self.language_spoken = ["Python", "JavaScript", "C#", "Java"]
         self.challenges = []
 
     def accept_challenge(self, challenge):
