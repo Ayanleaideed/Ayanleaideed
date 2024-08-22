@@ -203,10 +203,10 @@ universe.big_problems.map(me.accept_challenge)
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed/)
-[![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayanleaideed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanleaideed.com)
-[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ayanle.aideed@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ayanle-aideed/](https://www.linkedin.com/in/ayanle-aideed-118752252/))
+[![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://[github.com/ayanleaideed](https://github.com/ayanleaideed))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://ayanleaideed.com](https://ayanleaideed.github.io/MyPortfolio/))
+[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ayanle.aideed@ndus.edu)
 
 </div>
 
@@ -214,7 +214,7 @@ universe.big_problems.map(me.accept_challenge)
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=ayanleaideed&color=00FFFF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ayanleaideed&color=6d28d9&style=for-the-badge)
 
 </div>
 
