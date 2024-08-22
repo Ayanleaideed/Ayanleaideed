@@ -123,18 +123,18 @@ graph TD
     D --> J[Kubernetes]
     G --> L[Django]
     G --> M[Flask]
-    style A fill:#4F46E5,stroke:#3B2C8D,stroke-width:3px,stroke-dasharray: 5 5
-    style B fill:#3B82F6,stroke:#2563EB,stroke-width:2px
-    style C fill:#10B981,stroke:#059669,stroke-width:2px
-    style D fill:#F59E0B,stroke:#D97706,stroke-width:2px
-    style E fill:#F87171,stroke:#F44336,stroke-width:2px
-    style F fill:#FBBF24,stroke:#F59E0B,stroke-width:2px
-    style G fill:#8B5CF6,stroke:#7C3AED,stroke-width:2px
-    style H fill:#F87171,stroke:#F44336,stroke-width:2px
-    style I fill:#4F46E5,stroke:#3B2C8D,stroke-width:2px
-    style J fill:#10B981,stroke:#059669,stroke-width:2px
-    style L fill:#8B5CF6,stroke:#7C3AED,stroke-width:2px
-    style M fill:#8B5CF6,stroke:#7C3AED,stroke-width:2px
+    style A fill:#333333,stroke:#FF0000,stroke-width:3px
+    style B fill:#4A4A4A,stroke:#FF0000,stroke-width:2px
+    style C fill:#555555,stroke:#FF0000,stroke-width:2px
+    style D fill:#666666,stroke:#FF0000,stroke-width:2px
+    style E fill:#FF6666,stroke:#FF0000,stroke-width:2px
+    style F fill:#FF3333,stroke:#FF0000,stroke-width:2px
+    style G fill:#FF9999,stroke:#FF0000,stroke-width:2px
+    style H fill:#FF6666,stroke:#FF0000,stroke-width:2px
+    style I fill:#333333,stroke:#FF0000,stroke-width:2px
+    style J fill:#555555,stroke:#FF0000,stroke-width:2px
+    style L fill:#FF9999,stroke:#FF0000,stroke-width:2px
+    style M fill:#FF9999,stroke:#FF0000,stroke-width:2px
 
 ```
 
