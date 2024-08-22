@@ -111,6 +111,8 @@
 <div align="center">
 
 
+## System Architecture
+
 ```mermaid
 graph TD
     A[Ayanle Aideed] --> B[Frontend]
@@ -126,17 +128,18 @@ graph TD
     G --> M[Flask]
 
     style A fill:#1F2937,stroke:#F59E0B,stroke-width:2px
-    style B fill:#4B5563,stroke:#F87171,stroke-width:2px
+    style B fill:#4B5563,stroke:#E5E7EB,stroke-width:2px
     style C fill:#6B7280,stroke:#FBBF24,stroke-width:2px
     style D fill:#9CA3AF,stroke:#F43F5E,stroke-width:2px
-    style E fill:#F87171,stroke:#F59E0B,stroke-width:2px
-    style F fill:#FBBF24,stroke:#F43F5E,stroke-width:2px
-    style G fill:#F59E0B,stroke:#4B5563,stroke-width:2px
-    style H fill:#F43F5E,stroke:#FBBF24,stroke-width:2px
+    style E fill:#F87171,stroke:#1F2937,stroke-width:2px
+    style F fill:#FBBF24,stroke:#1F2937,stroke-width:2px
+    style G fill:#F59E0B,stroke:#1F2937,stroke-width:2px
+    style H fill:#F43F5E,stroke:#E5E7EB,stroke-width:2px
     style I fill:#1F2937,stroke:#F59E0B,stroke-width:2px
     style J fill:#6B7280,stroke:#F87171,stroke-width:2px
-    style L fill:#FBBF24,stroke:#F43F5E,stroke-width:2px
-    style M fill:#F59E0B,stroke:#F87171,stroke-width:2px
+    style L fill:#FBBF24,stroke:#1F2937,stroke-width:2px
+    style M fill:#F59E0B,stroke:#1F2937,stroke-width:2px
+
 
 
 ```
