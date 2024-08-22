@@ -206,13 +206,10 @@ universe.big_problems.map(me.accept_challenge)
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=nba-stats-application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/nba-stats-application)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=CRM-Application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/CRM-Application)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=Natural-Language-to-SQL&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/Natural-Language-to-SQL)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=React-NorthFace-Clone&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/React-NorthFace-Clone)
+| | |
+|:-------------------------:|:-------------------------:|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=nba-stats-application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/nba-stats-application) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=CRM-Application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/CRM-Application) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=Natural-Language-to-SQL&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/Natural-Language-to-SQL) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=React-NorthFace-Clone&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/React-NorthFace-Clone) |
 
 </div>
 ---
