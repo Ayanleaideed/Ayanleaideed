@@ -202,25 +202,19 @@ universe.big_problems.map(me.accept_challenge)
 
 </div>
 
-## 🌟 Featured Repository
+## 🌟 Featured Repositories
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=nba-stats-application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/ayanleaideed/nba-stats-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=nba-stats-application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/nba-stats-application)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=CRM-Application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/CRM-Application)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=Natural-Language-to-SQL&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/Natural-Language-to-SQL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=React-NorthFace-Clone&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/React-NorthFace-Clone)
 
 </div>
-
-## 🔗 Connect & Collaborate
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayanle-aideed-118752252/)
-[![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayanleaideed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanleaideed.github.io/MyPortfolio/)
-[![Email](https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ayanle.aideed@ndus.edu)
-
-</div>
-
 ---
 
 <div align="center">
