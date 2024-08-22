@@ -206,7 +206,7 @@ universe.big_problems.map(me.accept_challenge)
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=awesome-project&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/ayanleaideed/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayanleaideed&repo=nba-stats-application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/ayanleaideed/nba-stats-application)
 
 </div>
 
