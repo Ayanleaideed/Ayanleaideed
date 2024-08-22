@@ -131,13 +131,13 @@ graph TD
     style C fill:#6B7280,stroke:#F9FAFB,stroke-width:2px
     style D fill:#9CA3AF,stroke:#F9FAFB,stroke-width:2px
     style E fill:#EF4444,stroke:#F9FAFB,stroke-width:2px
-    style F fill:#3B82F6,stroke:#F9FAFB,stroke-width:2px
-    style G fill:#10B981,stroke:#F9FAFB,stroke-width:2px
+    style F fill:#2563eb,stroke:#F9FAFB,stroke-width:2px
+    style G fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
     style H fill:#F59E0B,stroke:#F9FAFB,stroke-width:2px
     style I fill:#3B82F6,stroke:#F9FAFB,stroke-width:2px
     style J fill:#9333EA,stroke:#F9FAFB,stroke-width:2px
-    style L fill:#10B981,stroke:#F9FAFB,stroke-width:2px
-    style M fill:#F59E0B,stroke:#F9FAFB,stroke-width:2px
+    style L fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
+    style M fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
 
 
 
