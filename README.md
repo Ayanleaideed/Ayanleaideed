@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Software+Engineering+Fellow+%7C+AI+and+ML+Innovator;Full+Stack+Developer+%7C+Front-end+%26+Back-end+Expert;Systems+Automation+Specialist+%7C+Computer+Science+Student" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&width=800&height=80&lines=Software+Engineering+Fellow;AI+and+ML+Innovator;Full+Stack+Developer;Front-end+Expert;Back-end+Expert;Systems+Automation+Specialist;Computer+Science+Student" />
   </a>
 </div>
 
