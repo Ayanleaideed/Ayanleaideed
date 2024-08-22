@@ -126,10 +126,10 @@ graph TD
     G --> L[Django]
     G --> M[Flask]
 
-    style A fill:#1F2937,stroke:#F9FAFB,stroke-width:2px
-    style B fill:#4B5563,stroke:#F9FAFB,stroke-width:2px
+    style A fill:#b91c1c,stroke:#F9FAFB,stroke-width:2px
+    style B fill:#4c1d95,stroke:#F9FAFB,stroke-width:2px
     style C fill:#6B7280,stroke:#F9FAFB,stroke-width:2px
-    style D fill:#9CA3AF,stroke:#F9FAFB,stroke-width:2px
+    style D fill:#be123c,stroke:#F9FAFB,stroke-width:2px
     style E fill:#EF4444,stroke:#F9FAFB,stroke-width:2px
     style F fill:#2563eb,stroke:#F9FAFB,stroke-width:2px
     style G fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
