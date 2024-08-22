@@ -110,6 +110,7 @@
 
 <div align="center">
 
+
 ```mermaid
 graph TD
     A[Ayanle Aideed] --> B[Frontend]
@@ -123,18 +124,20 @@ graph TD
     D --> J[Kubernetes]
     G --> L[Django]
     G --> M[Flask]
-    style A fill:#1F2937,stroke:#EF4444,stroke-width:3px
+
+    style A fill:#1F2937,stroke:#F59E0B,stroke-width:2px
     style B fill:#4B5563,stroke:#F87171,stroke-width:2px
-    style C fill:#6B7280,stroke:#F87171,stroke-width:2px
-    style D fill:#9CA3AF,stroke:#F87171,stroke-width:2px
-    style E fill:#F87171,stroke:#B91C1C,stroke-width:2px
-    style F fill:#FBBF24,stroke:#B91C1C,stroke-width:2px
-    style G fill:#F59E0B,stroke:#B91C1C,stroke-width:2px
-    style H fill:#F87171,stroke:#B91C1C,stroke-width:2px
-    style I fill:#1F2937,stroke:#EF4444,stroke-width:2px
+    style C fill:#6B7280,stroke:#FBBF24,stroke-width:2px
+    style D fill:#9CA3AF,stroke:#F43F5E,stroke-width:2px
+    style E fill:#F87171,stroke:#F59E0B,stroke-width:2px
+    style F fill:#FBBF24,stroke:#F43F5E,stroke-width:2px
+    style G fill:#F59E0B,stroke:#4B5563,stroke-width:2px
+    style H fill:#F43F5E,stroke:#FBBF24,stroke-width:2px
+    style I fill:#1F2937,stroke:#F59E0B,stroke-width:2px
     style J fill:#6B7280,stroke:#F87171,stroke-width:2px
-    style L fill:#F59E0B,stroke:#B91C1C,stroke-width:2px
-    style M fill:#F59E0B,stroke:#B91C1C,stroke-width:2px
+    style L fill:#FBBF24,stroke:#F43F5E,stroke-width:2px
+    style M fill:#F59E0B,stroke:#F87171,stroke-width:2px
+
 
 ```
 
