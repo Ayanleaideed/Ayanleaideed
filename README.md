@@ -132,7 +132,7 @@ graph TD
     style C fill:#6B7280,stroke:#FBBF24,stroke-width:2px
     style D fill:#9CA3AF,stroke:#F43F5E,stroke-width:2px
     style E fill:#F87171,stroke:#1F2937,stroke-width:2px
-    style F fill:#FBBF24,stroke:#1F2937,stroke-width:2px
+    style F fill:#FBBF24,stroke:#2e1065,stroke-width:2px
     style G fill:#F59E0B,stroke:#1F2937,stroke-width:2px
     style H fill:#F43F5E,stroke:#E5E7EB,stroke-width:2px
     style I fill:#1F2937,stroke:#F59E0B,stroke-width:2px
