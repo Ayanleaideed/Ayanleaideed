@@ -206,8 +206,7 @@ universe.big_problems.map(me.accept_challenge)
     <td style="width: 100%; vertical-align: top; padding: 10px;">
       <h3 style="margin-bottom: 10px;">RAG Architecture: NL to SQL Wizard</h3>
       <p>
-        <img src="https://github.com/user-attachments/assets/873ec678-d954-491f-a807-ab1528234f74
-   " alt="RAG Architecture" style="margin-bottom: 10px;"/>
+        <img src="https://github.com/user-attachments/assets/873ec678-d954-491f-a807-ab1528234f74" alt="RAG Architecture" style="margin-bottom: 10px; max-width: 100%; height: auto;"/>
       </p>
       <p style="line-height: 1.6;">
         • Cutting-edge NL to SQL conversion system<br>
@@ -224,8 +223,6 @@ universe.big_problems.map(me.accept_challenge)
     </td>
   </tr>
 </table>
-
-![RAG Architecture Diagram](https://raw.githubusercontent.com/yourusername/yourrepository/main/rag_architecture.png)
 
 
 ## 📊 Performance Metrics
