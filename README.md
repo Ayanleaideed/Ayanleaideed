@@ -206,7 +206,8 @@ universe.big_problems.map(me.accept_challenge)
     <td style="width: 100%; vertical-align: top; padding: 10px;">
       <h3 style="margin-bottom: 10px;">RAG Architecture: NL to SQL Wizard</h3>
       <p>
-        <img src="https://img.shields.io/badge/RAG%20Architecture-FF4500?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAs0lEQVR4nM2SQLGDMAxFn8OAVgLSQVsHAgfBgUoCLoR2UFxIJYBxQDpIOmik+L8DyAB/whl4d7AlS9aT9EWEsMyt2hhzk1yApz3uRORla+0nRMkQj5Ln9HzjACe+U+rnCThrWjOOVsNu/3YBhw5Y3ErsLAHEqFdAS1qzWohrSnLXhkMQ4VxKfuQLiXLOFVXnUgQKgCc4YQbmHcMzPJtqsm6gnj1X3L9Vga+qru3NTVXTfVMF/AN7+jw8z5qM/AAAAABJRU5ErkJggg==" alt="RAG Architecture" style="margin-bottom: 10px;"/>
+        <img src="![RagArchitecture](https://github.com/user-attachments/assets/873ec678-d954-491f-a807-ab1528234f74)
+   " alt="RAG Architecture" style="margin-bottom: 10px;"/>
       </p>
       <p style="line-height: 1.6;">
         • Cutting-edge NL to SQL conversion system<br>
