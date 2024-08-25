@@ -150,6 +150,7 @@ graph TD
     style J fill:#9333EA,stroke:#F9FAFB,stroke-width:2px
     style L fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
     style M fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
+    style N fill:#F59E0B,stroke:#F9FAFB,stroke-width:2px
 
 
 
