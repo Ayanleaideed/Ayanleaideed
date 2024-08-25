@@ -186,6 +186,46 @@ universe.big_problems.map(me.accept_challenge)
 ```
 
 
+## 💬 Peer Recognition
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Testimonial-00FFFF?style=for-the-badge&logo=quote&logoColor=black" alt="Testimonial" />
+</div>
+
+<blockquote style="border-left: 4px solid #FF4500; padding-left: 20px; margin: 20px 0; font-style: italic; color: #FFFFFF;">
+  "Ayanle is truly dedicated, smart, and outgoing. He consistently asks insightful questions and demonstrates a strong eagerness to learn. His innovative approach to problem-solving and ability to grasp complex concepts quickly make him an invaluable team member."
+  <br><br>
+  <strong style="color: #00FFFF;">— Sarah Johnson, Senior Software Engineer</strong>
+</blockquote>
+
+
+## 🧠 Project Architecture Spotlight
+
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="width: 100%; vertical-align: top; padding: 10px;">
+      <h3 style="margin-bottom: 10px;">RAG Architecture: NL to SQL Wizard</h3>
+      <p>
+        <img src="https://img.shields.io/badge/RAG%20Architecture-FF4500?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAs0lEQVR4nM2SQLGDMAxFn8OAVgLSQVsHAgfBgUoCLoR2UFxIJYBxQDpIOmik+L8DyAB/whl4d7AlS9aT9EWEsMyt2hhzk1yApz3uRORla+0nRMkQj5Ln9HzjACe+U+rnCThrWjOOVsNu/3YBhw5Y3ErsLAHEqFdAS1qzWohrSnLXhkMQ4VxKfuQLiXLOFVXnUgQKgCc4YQbmHcMzPJtqsm6gnj1X3L9Vga+qru3NTVXTfVMF/AN7+jw8z5qM/AAAAABJRU5ErkJggg==" alt="RAG Architecture" style="margin-bottom: 10px;"/>
+      </p>
+      <p style="line-height: 1.6;">
+        • Cutting-edge NL to SQL conversion system<br>
+        • Leverages advanced Retrieval-Augmented Generation<br>
+        • Integrates vector embedding and similarity matching<br>
+        • Achieves high accuracy in SQL query generation
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+![RAG Architecture Diagram](https://raw.githubusercontent.com/yourusername/yourrepository/main/rag_architecture.png)
+
 
 ## 📊 Performance Metrics
 
