@@ -202,7 +202,7 @@ universe.big_problems.map(me.accept_challenge)
 
 <h2 align="center">🛠️ My Programming Toolkit</h2>
 
-<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+<table align="center" style="width: 150%; border-collapse: separate; border-spacing: 15px;">
   <tr>
     <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Languages</th>
     <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Frameworks</th>
@@ -234,7 +234,21 @@ universe.big_problems.map(me.accept_challenge)
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanleaideed&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+## 📊 Most Used Languages
+
+<div align="center">
+
+| Language | Usage | Badge |
+|----------|-------|-------|
+| Python   | 35%   | ![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| JavaScript | 25% | ![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| SQL      | 20%   | ![SQL](https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| Java     | 15%   | ![Java](https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| C#       | 5%    | ![C#](https://img.shields.io/badge/C%23-5%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+
 </div>
 
 ## 🧠 Project Architecture Spotlight
