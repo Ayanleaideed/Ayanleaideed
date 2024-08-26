@@ -279,6 +279,22 @@ universe.big_problems.map(me.accept_challenge)
   </tr>
 </table>
 
+
+<h2 align="center">💡 Daily Dev Wisdom & World Trivia</h2>
+
+<table align="center" style="border-collapse: separate; border-spacing: 0 10px;">
+  <tr>
+    <td style="padding: 10px; background-color: #1F2937; border-radius: 10px;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Developer Quote" width="500">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; background-color: #1F2937; border-radius: 10px;">
+      <img src="https://readme-daily-facts.vercel.app/api?font=impact" alt="Daily World Fact" width="500">
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">💡 Dev Wisdom & Witticisms</h2>
 
 <div align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px; max-width: 800px; margin: 0 auto;">
