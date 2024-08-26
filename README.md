@@ -279,6 +279,37 @@ universe.big_problems.map(me.accept_challenge)
   </tr>
 </table>
 
+<h2 align="center">💡 Dev Wisdom & Witticisms</h2>
+
+<div align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px; max-width: 800px; margin: 0 auto;">
+  <ul style="list-style-type: none; padding: 0;">
+    <li style="margin-bottom: 20px; font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
+      "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."
+      <br>
+      <span style="font-size: 14px; color: #9CA3AF;">— Eagleson's Law</span>
+    </li>
+    <li style="margin-bottom: 20px; font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
+      "The best thing about a boolean is even if you are wrong you are only off by a bit."
+      <br>
+      <span style="font-size: 14px; color: #9CA3AF;">— Anonymous</span>
+    </li>
+    <li style="margin-bottom: 20px; font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
+      "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+      <br>
+      <span style="font-size: 14px; color: #9CA3AF;">— Edsger W. Dijkstra</span>
+    </li>
+    <li style="margin-bottom: 20px; font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
+      "It's not a bug – it's an undocumented feature."
+      <br>
+      <span style="font-size: 14px; color: #9CA3AF;">— Anonymous</span>
+    </li>
+    <li style="font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
+      "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+      <br>
+      <span style="font-size: 14px; color: #9CA3AF;">— Martin Golding</span>
+    </li>
+  </ul>
+</div>
 
 ## 📊 Performance Metrics
 
