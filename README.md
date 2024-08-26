@@ -200,6 +200,43 @@ universe.big_problems.map(me.accept_challenge)
   <strong style="color: #00FFFF;">— Sarah Johnson, Senior Software Engineer</strong>
 </blockquote>
 
+<h2 align="center">My Programming Toolkit</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding:20px;background-color:#e6f3ff;border-radius:10px;">
+      <h3>Languages</h3>
+      <ul style="list-style-type:none;padding:0;">
+        <li>Python</li>
+        <li>JavaScript</li>
+        <li>SQL</li>
+        <li>Java</li>
+        <li>C#</li>
+      </ul>
+    </td>
+    <td align="center" style="padding:20px;background-color:#fff0f5;border-radius:10px;">
+      <h3>Frameworks</h3>
+      <ul style="list-style-type:none;padding:0;">
+        <li>Django</li>
+        <li>Flask</li>
+        <li>React.js</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+      </ul>
+    </td>
+    <td align="center" style="padding:20px;background-color:#f0fff0;border-radius:10px;">
+      <h3>Tools & Technologies</h3>
+      <ul style="list-style-type:none;padding:0;">
+        <li>Git</li>
+        <li>Docker</li>
+        <li>AWS</li>
+        <li>RESTful APIs</li>
+        <li>PostgreSQL</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ## 🧠 Project Architecture Spotlight
 
