@@ -288,11 +288,6 @@ universe.big_problems.map(me.accept_challenge)
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Developer Quote" width="500">
     </td>
   </tr>
-  <tr>
-    <td style="padding: 10px; background-color: #1F2937; border-radius: 10px;">
-      <img src="https://readme-daily-facts.vercel.app/api?font=impact" alt="Daily World Fact" width="500">
-    </td>
-  </tr>
 </table>
 
 <h2 align="center">💡 Dev Wisdom & Witticisms</h2>
