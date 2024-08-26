@@ -200,35 +200,35 @@ universe.big_problems.map(me.accept_challenge)
   <strong style="color: #00FFFF;">— Sarah Johnson, Senior Software Engineer</strong>
 </blockquote>
 
-<h2 align="left">🛠️ My Programming Toolkit</h2>
+<h2 align="center">🛠️ My Programming Toolkit</h2>
 
-<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 10px;">
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 6px;">Languages</th>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 6px;">Frameworks</th>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 6px;">Tools & Technologies</th>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Languages</th>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Frameworks</th>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Tools & Technologies</th>
   </tr>
   <tr>
-    <td align="center" style="background-color: #1F2937; padding: 10px; border-radius: 6px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/><br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><br/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/><br/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     </td>
-    <td align="center" style="background-color: #1F2937; padding: 10px; border-radius: 6px;">
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/><br/><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
     </td>
-    <td align="center" style="background-color: #1F2937; padding: 10px; border-radius: 6px;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs"/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><br/><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs"/><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
   </tr>
 </table>
