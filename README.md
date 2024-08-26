@@ -200,43 +200,42 @@ universe.big_problems.map(me.accept_challenge)
   <strong style="color: #00FFFF;">— Sarah Johnson, Senior Software Engineer</strong>
 </blockquote>
 
-<h2 align="center">My Programming Toolkit</h2>
+<h2 align="left">🛠️ My Programming Toolkit</h2>
 
-<table align="center">
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 10px;">
   <tr>
-    <td align="center" style="padding:20px;background-color:#e6f3ff;border-radius:10px;">
-      <h3>Languages</h3>
-      <ul style="list-style-type:none;padding:0;">
-        <li>Python</li>
-        <li>JavaScript</li>
-        <li>SQL</li>
-        <li>Java</li>
-        <li>C#</li>
-      </ul>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 6px;">Languages</th>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 6px;">Frameworks</th>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 6px;">Tools & Technologies</th>
+  </tr>
+  <tr>
+    <td align="center" style="background-color: #1F2937; padding: 10px; border-radius: 6px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
     </td>
-    <td align="center" style="padding:20px;background-color:#fff0f5;border-radius:10px;">
-      <h3>Frameworks</h3>
-      <ul style="list-style-type:none;padding:0;">
-        <li>Django</li>
-        <li>Flask</li>
-        <li>React.js</li>
-        <li>Node.js</li>
-        <li>Express.js</li>
-      </ul>
+    <td align="center" style="background-color: #1F2937; padding: 10px; border-radius: 6px;">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
     </td>
-    <td align="center" style="padding:20px;background-color:#f0fff0;border-radius:10px;">
-      <h3>Tools & Technologies</h3>
-      <ul style="list-style-type:none;padding:0;">
-        <li>Git</li>
-        <li>Docker</li>
-        <li>AWS</li>
-        <li>RESTful APIs</li>
-        <li>PostgreSQL</li>
-      </ul>
+    <td align="center" style="background-color: #1F2937; padding: 10px; border-radius: 6px;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs"/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 🧠 Project Architecture Spotlight
 
