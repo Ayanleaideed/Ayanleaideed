@@ -202,57 +202,26 @@ universe.big_problems.map(me.accept_challenge)
   <strong style="color: #00FFFF;">— Sarah Johnson, Senior Software Engineer</strong>
 </blockquote>
 
-<h2 align="center">🛠️ My Programming Toolkit</h2>
-
-<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 25px;">
-  <tr>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Languages</th>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Frameworks</th>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Tools & Technologies</th>
-  </tr>
-  <tr>
-    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><br/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/><br/><br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    </td>
-    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/><br/><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/><br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-    </td>
-    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><br/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs"/><br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanleaideed&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 📊 Most Used Languages
 
-<div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-| Language    | Usage | Badge                                                                                                                                                 |
-|-------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Python      | 35%   | ![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white)                                           |
-| JavaScript  | 25%   | ![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                               |
-| SQL         | 20%   | ![SQL](https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)                                             |
-| Java        | 15%   | ![Java](https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)                                                 |
-| C#          | 5%    | ![C#](https://img.shields.io/badge/C%23-5%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white)                                                 |
-| Bootstrap   | 30%   | ![Bootstrap](https://img.shields.io/badge/Bootstrap-30%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)                                  |
+![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-5%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-30%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanleaideed&layout=compact&theme=dark&hide_border=true&card_width=445" alt="Top Languages" />
+</div>
+
 
 ## 🧠 Project Architecture Spotlight
 
