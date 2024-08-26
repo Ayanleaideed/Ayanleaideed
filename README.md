@@ -202,26 +202,57 @@ universe.big_problems.map(me.accept_challenge)
   <strong style="color: #00FFFF;">— Sarah Johnson, Senior Software Engineer</strong>
 </blockquote>
 
+<h2 align="center">🛠️ My Programming Toolkit</h2>
 
-## 📊 Most Used Languages
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-5%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-30%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
-<br>
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 20px; width: 33%;">Languages</th>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 20px; width: 33%;">Frameworks</th>
+    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 20px; width: 33%;">Tools & Technologies</th>
+  </tr>
+  <tr>
+    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" width="100%"/>
+    </td>
+    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="100%"/>
+    </td>
+    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" width="100%"/><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanleaideed&layout=compact&theme=dark&hide_border=true&card_width=445" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanleaideed&layout=compact&theme=dark&hide_border=true&card_width=845" alt="Top Languages" />
 </div>
 
+<h2 align="center">📊 Most Used Languages</h2>
+
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100%"/></td>
+    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="100%"/></td>
+    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" width="100%"/></td>
+  </tr>
+  <tr>
+    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="100%"/></td>
+    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/C%23-5%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" width="100%"/></td>
+    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/Bootstrap-30%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="100%"/></td>
+  </tr>
+</table>
 
 ## 🧠 Project Architecture Spotlight
 
