@@ -204,7 +204,7 @@ universe.big_problems.map(me.accept_challenge)
 
 <h2 align="center">🛠️ My Programming Toolkit</h2>
 
-<table align="center" style="width: 150%; border-collapse: separate; border-spacing: 15px;">
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 25px;">
   <tr>
     <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Languages</th>
     <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 18px;">Frameworks</th>
