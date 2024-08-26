@@ -137,6 +137,7 @@ graph TD
     D --> J[Kubernetes]
     G --> L[Django]
     G --> M[Flask]
+    G --> O[REST APIs]
 
     style A fill:#b91c1c,stroke:#F9FAFB,stroke-width:2px
     style B fill:#4c1d95,stroke:#F9FAFB,stroke-width:2px
@@ -151,6 +152,7 @@ graph TD
     style L fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
     style M fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
     style N fill:#F59E0B,stroke:#F9FAFB,stroke-width:2px
+    style O fill:#007cb9,stroke:#005689,stroke-width:2px
 
 
 
@@ -239,15 +241,16 @@ universe.big_problems.map(me.accept_challenge)
 
 ## 📊 Most Used Languages
 
-<div align="center">
+<div>
 
-| Language | Usage | Badge |
-|----------|-------|-------|
-| Python   | 35%   | ![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| JavaScript | 25% | ![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| SQL      | 20%   | ![SQL](https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| Java     | 15%   | ![Java](https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| C#       | 5%    | ![C#](https://img.shields.io/badge/C%23-5%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| Language    | Usage | Badge                                                                                                                                                 |
+|-------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Python      | 35%   | ![Python](https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white)                                           |
+| JavaScript  | 25%   | ![JavaScript](https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                               |
+| SQL         | 20%   | ![SQL](https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)                                             |
+| Java        | 15%   | ![Java](https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)                                                 |
+| C#          | 5%    | ![C#](https://img.shields.io/badge/C%23-5%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white)                                                 |
+| Bootstrap   | 30%   | ![Bootstrap](https://img.shields.io/badge/Bootstrap-30%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)                                  |
 
 </div>
 
