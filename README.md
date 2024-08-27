@@ -94,10 +94,9 @@
   </tr>
   <tr>
     <td align="center">
-      <div style="background-color: #4B0082; padding: 10px; border-radius: 5px;">
-        <span style="font-size: 18px; color: white; font-weight: bold;">Research Assistant</span>
-      </div>
-      <img src="https://img.shields.io/badge/Research%20Assistant-4B0082?style=for-the-badge" alt="Research Assistant" />
+      Research Assistant
+      <br><br>
+      <img src="https://img.shields.io/badge/-%20-4B0082?style=for-the-badge&logoWidth=50&logoHeight=50" alt="Research Assistant Badge" width="120" height="30">
     </td>
     <td align="center">NDSU Undergraduate Biomedical Research Program</td>
     <td align="center">Sep 2024 - Apr 2025</td>
@@ -110,10 +109,9 @@
   </tr>
   <tr>
     <td align="center">
-      <div style="background-color: #FF4500; padding: 10px; border-radius: 5px;">
-        <span style="font-size: 18px; color: white; font-weight: bold;">Software Engineering Fellow</span>
-      </div>
-      <img src="https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge" alt="Software Engineering Fellow" />
+      Software Engineering Fellow
+      <br><br>
+      <img src="https://img.shields.io/badge/-%20-FF4500?style=for-the-badge&logoWidth=50&logoHeight=50" alt="Software Engineering Fellow Badge" width="120" height="30">
     </td>
     <td align="center">Headstarter AI</td>
     <td align="center">Jul 2024 - Present</td>
@@ -126,10 +124,9 @@
   </tr>
   <tr>
     <td align="center">
-      <div style="background-color: #00FFFF; padding: 10px; border-radius: 5px;">
-        <span style="font-size: 18px; color: black; font-weight: bold;">Systems Automation Intern</span>
-      </div>
-      <img src="https://img.shields.io/badge/Systems%20Automation%20Intern-00FFFF?style=for-the-badge" alt="Systems Automation Intern" />
+      Systems Automation Intern
+      <br><br>
+      <img src="https://img.shields.io/badge/-%20-00FFFF?style=for-the-badge&logoWidth=50&logoHeight=50" alt="Systems Automation Intern Badge" width="120" height="30">
     </td>
     <td align="center">Marvin Windows</td>
     <td align="center">May 2023 - Present</td>
