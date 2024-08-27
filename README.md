@@ -94,9 +94,7 @@
   </tr>
   <tr>
     <td align="center">
-      Research Assistant
-      <br><br>
-      <img src="https://img.shields.io/badge/-%20-4B0082?style=for-the-badge&logoWidth=50&logoHeight=50" alt="Research Assistant Badge" width="120" height="30">
+      <img src="https://img.shields.io/badge/Research%20Assistant-4B0082?style=for-the-badge&logoWidth=40&logoHeight=40&font=Arial&fontColor=white&fontSize=18" alt="Research Assistant" width="200" height="50" />
     </td>
     <td align="center">NDSU Undergraduate Biomedical Research Program</td>
     <td align="center">Sep 2024 - Apr 2025</td>
@@ -109,9 +107,7 @@
   </tr>
   <tr>
     <td align="center">
-      Software Engineering Fellow
-      <br><br>
-      <img src="https://img.shields.io/badge/-%20-FF4500?style=for-the-badge&logoWidth=50&logoHeight=50" alt="Software Engineering Fellow Badge" width="120" height="30">
+      <img src="https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge&logoWidth=40&logoHeight=40&font=Arial&fontColor=white&fontSize=18" alt="Software Engineering Fellow" width="200" height="50" />
     </td>
     <td align="center">Headstarter AI</td>
     <td align="center">Jul 2024 - Present</td>
@@ -124,9 +120,7 @@
   </tr>
   <tr>
     <td align="center">
-      Systems Automation Intern
-      <br><br>
-      <img src="https://img.shields.io/badge/-%20-00FFFF?style=for-the-badge&logoWidth=50&logoHeight=50" alt="Systems Automation Intern Badge" width="120" height="30">
+      <img src="https://img.shields.io/badge/Systems%20Automation%20Intern-00FFFF?style=for-the-badge&logoWidth=40&logoHeight=40&font=Arial&fontColor=black&fontSize=18" alt="Systems Automation Intern" width="200" height="50" />
     </td>
     <td align="center">Marvin Windows</td>
     <td align="center">May 2023 - Present</td>
@@ -138,6 +132,7 @@
     </td>
   </tr>
 </table>
+
 
 ## 🧠 Skill Spectrum Architecture
 
