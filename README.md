@@ -85,13 +85,23 @@
 
 
 ## 💼 Elite Professional Experience
-
 <table>
   <tr>
     <th>Position</th>
     <th>Company</th>
     <th>Duration</th>
     <th>Key Achievements</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Research%20Assistant-4B0082?style=for-the-badge" alt="Research Assistant" /></td>
+    <td align="center">NDSU Undergraduate Biomedical Research Program</td>
+    <td align="center">Sep 2024 - Apr 2025</td>
+    <td>
+      • Pioneering digital twin technology for advanced diabetes management<br>
+      • Leveraging machine learning to create predictive patient models<br>
+      • Fine-tuning Large Language Models for innovative older adult education<br>
+      • Implementing cutting-edge RAG techniques in healthcare applications
+    </td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge" alt="Software Engineering Fellow" /></td>
