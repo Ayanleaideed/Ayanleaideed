@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Research%20Assistant-4B0082?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=white&fontSize=16" alt="Research Assistant" width="250" height="40" />
+      <img src="https://img.shields.io/badge/Research%20Assistant-4B0082?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=white&fontSize=16" alt="Research Assistant" width="350" height="40" />
     </td>
     <td align="center">NDSU Undergraduate Biomedical ML/LLM Researcher</td>
     <td align="center">Sep 2024 - Apr 2025</td>
@@ -106,7 +106,7 @@
     </td>
   </tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=white&fontSize=16" alt="Software Engineering Fellow" width="250" height="40" />
+      <img src="https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=white&fontSize=20" alt="Software Engineering Fellow" width="350" height="40" />
     </td>
     <td align="center">Headstarter AI</td>
     <td align="center">Jul 2024 - Present</td>
@@ -119,7 +119,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Systems%20Automation%20Intern-00FFFF?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=black&fontSize=16" alt="Systems Automation Intern" width="250" height="40" />
+      <img src="https://img.shields.io/badge/Systems%20Automation%20Intern-0496ff?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=black&fontSize=26" alt="Systems Automation Intern" width="350" height="40" />
     </td>
     <td align="center">Marvin Windows</td>
     <td align="center">Sep 2022 - Present</td>
