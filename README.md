@@ -123,7 +123,7 @@
       <img src="https://img.shields.io/badge/Systems%20Automation%20Intern-00FFFF?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=black&fontSize=16" alt="Systems Automation Intern" width="250" height="40" />
     </td>
     <td align="center">Marvin Windows</td>
-    <td align="center">May 2023 - Present</td>
+    <td align="center">Sep 2022 - Present</td>
     <td>
       • Revolutionizing GUI development with Ignition and Python<br>
       • Achieving 50% faster SQL query retrieval through optimization<br>
