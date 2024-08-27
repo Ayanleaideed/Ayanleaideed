@@ -94,15 +94,15 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Research%20Assistant-4B0082?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=white&fontSize=16" alt="Research Assistant" width="250" height="40" />
+      <img src="https://img.shields.io/badge/NDSU%20Undergraduate%20Biomedical%20ML%2FLLM%20Researcher-4B0082?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=white&fontSize=12" alt="NDSU Undergraduate Biomedical ML/LLM Researcher" width="250" height="60" />
     </td>
     <td align="center">NDSU Undergraduate Biomedical Research Program</td>
     <td align="center">Sep 2024 - Apr 2025</td>
     <td>
-      • Pioneering digital twin technology for advanced diabetes management<br>
-      • Leveraging machine learning to create predictive patient models<br>
-      • Fine-tuning Large Language Models for innovative older adult education<br>
-      • Implementing cutting-edge RAG techniques in healthcare applications
+      • Utilizing ML models to analyze and predict patient health outcomes<br>
+      • Exploring LLM applications for personalized healthcare recommendations<br>
+      • Implementing NLP techniques for processing medical literature and data<br>
+      • Contributing to innovative AI-driven solutions in biomedical research
     </td>
   </tr>
   <tr>
