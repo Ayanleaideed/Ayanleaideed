@@ -23,7 +23,7 @@
       <div style="background-color: #FF4500; color: white; padding: 8px; border-radius: 4px; margin-bottom: 20px;">
         NL TO SQL WIZARD
       </div>
-       <p>
+       <p style="margin-top: 10px;">
         <img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="NL to SQL Wizard" style="margin-bottom: 10px;"/>
       </p>
       <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
