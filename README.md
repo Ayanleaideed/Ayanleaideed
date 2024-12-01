@@ -20,11 +20,8 @@
   <tr>
     <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
       <h3 style="margin-bottom: 15px; color: white;">NL to SQL Wizard</h3>
-      <div style="background-color: #FF4500; color: white; padding: 8px; border-radius: 4px; margin-bottom: 20px;">
-        NL TO SQL WIZARD
-      </div>
-       <p style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="NL to SQL Wizard" style="margin-bottom: 10px;"/>
+      <p>
+        <img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="NL to SQL Wizard" style="margin-bottom: 20px; width: 100%;"/>
       </p>
       <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
@@ -51,9 +48,9 @@
     </td>
     <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
       <h3 style="margin-bottom: 15px; color: white;">CRM Nexus</h3>
-      <div style="background-color: #00FFFF; color: black; padding: 8px; border-radius: 4px; margin-bottom: 15px;">
-        CRM NEXUS
-      </div>
+      <p>
+        <img src="https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black" alt="CRM Nexus" style="margin-bottom: 20px; width: 100%;"/>
+      </p>
       <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
           • Built full-stack CRM system with role-based access control
@@ -78,9 +75,9 @@
     </td>
     <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
       <h3 style="margin-bottom: 15px; color: white;">NBA Stats Hub</h3>
-      <div style="background-color: #FF4500; color: white; padding: 8px; border-radius: 4px; margin-bottom: 15px;">
-        NBA STATS HUB
-      </div>
+      <p>
+        <img src="https://img.shields.io/badge/NBA%20Stats%20Hub-FF4500?style=for-the-badge&logo=nba&logoColor=white" alt="NBA Stats Hub" style="margin-bottom: 20px; width: 100%;"/>
+      </p>
       <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
           • Created interactive dashboard for real-time NBA statistics
