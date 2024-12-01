@@ -16,69 +16,90 @@
 
 ## 🚀  Signature Projects
 
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 33%; vertical-align: top; padding: 10px;">
-      <h3 style="margin-bottom: 10px;">NL to SQL Wizard</h3>
-      <p>
-        <img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="NL to SQL Wizard" style="margin-bottom: 10px;"/>
-      </p>
-      <p style="line-height: 1.6;">
-        • Developed ML-powered natural language to SQL converter<br>
-        • Implemented query optimization reducing execution time by 90%<br>
-        • Processed 1,000+ queries with 98% accuracy rate<br>
-        • Integrated user feedback system with 92% satisfaction score
-      </p>
-      <p>
+    <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
+      <h3 style="margin-bottom: 15px; color: white;">NL to SQL Wizard</h3>
+      <div style="background-color: #FF4500; color: white; padding: 8px; border-radius: 4px; margin-bottom: 15px;">
+        NL TO SQL WIZARD
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Developed ML-powered natural language to SQL converter
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Implemented query optimization reducing execution time by 90%
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Processed 1,000+ queries with 98% accuracy rate
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Integrated user feedback system with 92% satisfaction score
+        </li>
+      </ul>
+      <div style="margin-top: 15px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-3" />
         <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-      </p>
+      </div>
     </td>
-    <td style="width: 33%; vertical-align: top; padding: 10px;">
-      <h3 style="margin-bottom: 10px;">CRM Nexus</h3>
-      <p>
-        <img src="https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black" alt="CRM Nexus" style="margin-bottom: 10px;"/>
-      </p>
-      <p style="line-height: 1.6;">
-        • Built full-stack CRM system with role-based access control<br>
-        • Implemented real-time data sync supporting 1000+ concurrent users<br>
-        • Designed RESTful API with 99.9% uptime<br>
-        • Reduced data retrieval latency by 60%
-      </p>
-      <p>
-        <p>
+    <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
+      <h3 style="margin-bottom: 15px; color: white;">CRM Nexus</h3>
+      <div style="background-color: #00FFFF; color: black; padding: 8px; border-radius: 4px; margin-bottom: 15px;">
+        CRM NEXUS
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Built full-stack CRM system with role-based access control
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Implemented real-time data sync supporting 1000+ concurrent users
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Designed RESTful API with 99.9% uptime
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Reduced data retrieval latency by 60%
+        </li>
+      </ul>
+      <div style="margin-top: 15px;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      </p>
+      </div>
     </td>
-    <td style="width: 33%; vertical-align: top; padding: 10px;">
-      <h3 style="margin-bottom: 10px;">NBA Stats Hub</h3>
-      <p>
-        <img src="https://img.shields.io/badge/NBA%20Stats%20Hub-FF4500?style=for-the-badge&logo=nba&logoColor=white" alt="NBA Stats Hub" style="margin-bottom: 10px;"/>
-      </p>
-      <p style="line-height: 1.6;">
-        • Created interactive dashboard for real-time NBA statistics<br>
-        • Engineered custom player performance analytics pipeline<br>
-        • Implemented responsive data tables and statistical visualizations<br>
-        • Increased user engagement by 40% through UI optimization
-      </p>
-      <p>
+    <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
+      <h3 style="margin-bottom: 15px; color: white;">NBA Stats Hub</h3>
+      <div style="background-color: #FF4500; color: white; padding: 8px; border-radius: 4px; margin-bottom: 15px;">
+        NBA STATS HUB
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Created interactive dashboard for real-time NBA statistics
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Engineered custom player performance analytics pipeline
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Implemented responsive data tables and statistical visualizations
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Increased user engagement by 40% through UI optimization
+        </li>
+      </ul>
+      <div style="margin-top: 15px;">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
         <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white" alt="NBA API" />
-         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </div>
     </td>
   </tr>
 </table>
