@@ -20,7 +20,7 @@
   <tr>
     <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
       <h3 style="margin-bottom: 15px; color: white;">NL to SQL Wizard</h3>
-      <div style="background-color: #FF4500; color: white; padding: 8px; border-radius: 4px; margin-bottom: 15px;">
+      <div style="background-color: #FF4500; color: white; padding: 8px; border-radius: 4px; margin-bottom: 20px;">
         NL TO SQL WIZARD
       </div>
        <p>
