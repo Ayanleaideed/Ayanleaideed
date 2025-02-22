@@ -19,86 +19,83 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
-      <h3 style="margin-bottom: 15px; color: white;">NL to SQL Wizard</h3>
+      <h3 style="margin-bottom: 15px; color: white;">Database Management System</h3>
       <p>
-        <img src="https://img.shields.io/badge/NL%20to%20SQL%20Wizard-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="NL to SQL Wizard" style="margin-bottom: 20px; width: 100%;"/>
+        <img src="https://img.shields.io/badge/Database%20Management-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="Database Management" style="margin-bottom: 20px; width: 100%;"/>
       </p>
       <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Developed ML-powered natural language to SQL converter
+          • Constructed a web application integrating GPT-3 for natural language database querying
         </li>
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Implemented query optimization reducing execution time by 90%
+          • Designed database schema management system supporting multiple database types
         </li>
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Processed 1,000+ queries with 98% accuracy rate
+          • Implemented role-based access control ensuring secure data management
         </li>
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Integrated user feedback system with 92% satisfaction score
+          • Enhanced query generation accuracy through RAG implementation
         </li>
       </ul>
       <div style="margin-top: 15px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-3" />
-        <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
       </div>
     </td>
     <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
-      <h3 style="margin-bottom: 15px; color: white;">CRM Nexus</h3>
+      <h3 style="margin-bottom: 15px; color: white;">NBA Statistics Dashboard</h3>
       <p>
-        <img src="https://img.shields.io/badge/CRM%20Nexus-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black" alt="CRM Nexus" style="margin-bottom: 20px; width: 100%;"/>
+        <img src="https://img.shields.io/badge/NBA%20Stats-00FFFF?style=for-the-badge&logo=nba&logoColor=black" alt="NBA Stats" style="margin-bottom: 20px; width: 100%;"/>
       </p>
       <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Built full-stack CRM system with role-based access control
+          • Developed interactive dashboard displaying real-time NBA player statistics
         </li>
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Implemented real-time data sync supporting 1000+ concurrent users
+          • Integrated NBA API to fetch and display current season statistics
         </li>
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Designed RESTful API with 99.9% uptime
+          • Created responsive data visualizations using D3.js and React
         </li>
         <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Reduced data retrieval latency by 60%
-        </li>
-      </ul>
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </div>
-    </td>
-    <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
-      <h3 style="margin-bottom: 15px; color: white;">NBA Stats Hub</h3>
-      <p>
-        <img src="https://img.shields.io/badge/NBA%20Stats%20Hub-FF4500?style=for-the-badge&logo=nba&logoColor=white" alt="NBA Stats Hub" style="margin-bottom: 20px; width: 100%;"/>
-      </p>
-      <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Created interactive dashboard for real-time NBA statistics
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Engineered custom player performance analytics pipeline
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Implemented responsive data tables and statistical visualizations
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Increased user engagement by 40% through UI optimization
+          • Collaborated with team members to implement search and filter functions
         </li>
       </ul>
       <div style="margin-top: 15px;">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
         <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white" alt="NBA API" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </div>
+    </td>
+    <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
+      <h3 style="margin-bottom: 15px; color: white;">Research Assistant Projects</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Healthcare%20ML-FF4500?style=for-the-badge&logo=medical&logoColor=white" alt="Healthcare ML" style="margin-bottom: 20px; width: 100%;"/>
+      </p>
+      <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Assisted in developing ML models for healthcare data analysis
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Analyzed medical literature using NLP techniques
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Contributed to research on diabetes management technology
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          • Documented research findings and technical implementations
+        </li>
+      </ul>
+      <div style="margin-top: 15px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       </div>
     </td>
   </tr>
