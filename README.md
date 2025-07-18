@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: skyblue; font-size: 3.5rem; font-family: 'Poppins', sans-serif; margin-bottom: 0;">
+  <h1 style="color: #87CEEB; font-size: 3.5rem; font-family: 'Poppins', sans-serif; margin-bottom: 0;">
     Ayanle Aideed's Stellar Tech Portfolio
   </h1>
 </div>
