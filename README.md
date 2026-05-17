@@ -357,42 +357,62 @@ flowchart TD
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ayanleaideed/Natural-Language-to-SQL">Natural-Language-to-SQL</a></h3>
-      <p>Schema-aware RAG platform for turning natural-language questions into SQL.</p>
+      <h3>AlphaCore Terminal</h3>
+      <img src="https://img.shields.io/badge/Resume%20Flagship-Market%20Data%20Terminal-38bdf8?style=for-the-badge" />
+      <p>Bloomberg Terminal-inspired backend platform for market data, watchlists, instruments, analytics workflows, and clean service-layer architecture.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-065f46?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/RAG-14b8a6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Java-f97316?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-16a34a?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST%20APIs-7c3aed?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ayanleaideed/CRM-Application">CRM Application</a></h3>
-      <p>Full-stack customer management application with practical business workflows.</p>
+      <h3><a href="https://github.com/Ayanleaideed/Natural-Language-to-SQL">NL-to-SQL Platform</a></h3>
+      <img src="https://img.shields.io/badge/AI%20Data%20Product-RAG%20%2B%20SQL-14b8a6?style=for-the-badge" />
+      <p>Schema-aware RAG platform that converts natural-language questions into SQL across structured database workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" />
-        <img src="https://img.shields.io/badge/Full%20Stack-7c3aed?style=flat-square" />
-        <img src="https://img.shields.io/badge/CRM-38bdf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-065f46?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPT--4-111827?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-14b8a6?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ayanleaideed/nba-stats-application">NBA Stats Application</a></h3>
-      <p>Interactive basketball statistics dashboard with player and team data exploration.</p>
+      <h3><a href="https://github.com/Ayanleaideed/self-driving-robot-car">Voice-Controlled Autonomous Robot</a></h3>
+      <img src="https://img.shields.io/badge/Robotics-Multimodal%20Navigation-7c3aed?style=for-the-badge" />
+      <p>RC robot with obstacle detection, voice control, ultrasonic fallback, and multimodal reasoning for real-time navigation.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/D3.js-f97316?style=flat-square&logo=d3dotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data%20Viz-14b8a6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-c51a4a?style=flat-square&logo=raspberrypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-f97316?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-38bdf8?style=flat-square&logo=google&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ayanleaideed/React-NorthFace-Clone">React NorthFace Clone</a></h3>
-      <p>Frontend build focused on responsive layout, product UI, and React component practice.</p>
+      <h3><a href="https://github.com/Ayanleaideed/fastapi-prod-template">Production FastAPI Template</a></h3>
+      <img src="https://img.shields.io/badge/Backend%20Engineering-Production%20API%20Starter-f97316?style=for-the-badge" />
+      <p>Production-ready backend starter with async PostgreSQL, Alembic, Dockerized local stack, observability hooks, and CI/CD scaffolding.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/UI-2563eb?style=flat-square" />
-        <img src="https://img.shields.io/badge/Frontend-f97316?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-0ea5e9?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/Ayanleaideed/premier-league-final-table-predictor">Premier League Final Table Predictor</a></h3>
+      <img src="https://img.shields.io/badge/Machine%20Learning-Sports%20Forecasting-22c55e?style=for-the-badge" />
+      <p>Machine learning system for forecasting Premier League final-table outcomes using historical match data, engineered team features, and season-level trends.</p>
+      <p>
+        <img src="https://img.shields.io/badge/scikit--learn-f59e0b?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Databricks-ff3621?style=flat-square&logo=databricks&logoColor=white" />
       </p>
     </td>
   </tr>
