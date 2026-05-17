@@ -315,16 +315,34 @@ flowchart TD
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=020617&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6" alt="GitHub stats" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=f97316&currStreakLabel=14b8a6&sideNums=e5e7eb&sideLabels=e5e7eb" alt="GitHub streak" />
-
-<br />
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" alt="Top languages" />
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Primary-Python-2563eb?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Frontend-TypeScript%20%7C%20React-38bdf8?style=for-the-badge&logo=react&logoColor=111827" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Data-SQL%20%7C%20PostgreSQL-14b8a6?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Spring-7c3aed?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI%2FML-PyTorch%20%7C%20RAG-f97316?style=for-the-badge&logo=pytorch&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20CI%2FCD-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" />
+    </td>
+  </tr>
+</table>
 
 <br /><br />
 
@@ -336,10 +354,49 @@ flowchart TD
 
 <div align="center">
 
-| AI, Data, and Systems | Product and Full Stack |
-|:---:|:---:|
-| [![Natural Language to SQL](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=Natural-Language-to-SQL&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=14b8a6)](https://github.com/Ayanleaideed/Natural-Language-to-SQL) | [![CRM Application](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=CRM-Application&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=14b8a6)](https://github.com/Ayanleaideed/CRM-Application) |
-| [![NBA Stats Application](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=nba-stats-application&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=14b8a6)](https://github.com/Ayanleaideed/nba-stats-application) | [![React NorthFace Clone](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=React-NorthFace-Clone&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=14b8a6)](https://github.com/Ayanleaideed/React-NorthFace-Clone) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ayanleaideed/Natural-Language-to-SQL">Natural-Language-to-SQL</a></h3>
+      <p>Schema-aware RAG platform for turning natural-language questions into SQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-065f46?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-14b8a6?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ayanleaideed/CRM-Application">CRM Application</a></h3>
+      <p>Full-stack customer management application with practical business workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827" />
+        <img src="https://img.shields.io/badge/Full%20Stack-7c3aed?style=flat-square" />
+        <img src="https://img.shields.io/badge/CRM-38bdf8?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ayanleaideed/nba-stats-application">NBA Stats Application</a></h3>
+      <p>Interactive basketball statistics dashboard with player and team data exploration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/D3.js-f97316?style=flat-square&logo=d3dotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Viz-14b8a6?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ayanleaideed/React-NorthFace-Clone">React NorthFace Clone</a></h3>
+      <p>Frontend build focused on responsive layout, product UI, and React component practice.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/UI-2563eb?style=flat-square" />
+        <img src="https://img.shields.io/badge/Frontend-f97316?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
