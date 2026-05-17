@@ -1,32 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,25:0f172a,45:2563eb,70:7c3aed,100:14b8a6&text=Ayanle%20Aideed&fontColor=ffffff&fontSize=78&fontAlign=50&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Systems%20Developer&descSize=20&descAlign=50&descAlignY=62&animation=fadeIn" alt="Ayanle Aideed hero banner" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=1000&height=72&lines=Building+AI+products+that+ship;Designing+data+systems+that+hold+up+under+pressure;Turning+research+ideas+into+production+software;FastAPI+%2B+React+%2B+Spring+Boot+%2B+PostgreSQL+%2B+LLMs" alt="Typing animation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,35:2563eb,65:7c3aed,100:14b8a6&text=Ayanle%20Aideed&fontColor=ffffff&fontSize=76&fontAlign=50&fontAlignY=44&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Systems%20Developer&descSize=19&descAlign=50&descAlignY=64&animation=fadeIn" alt="Ayanle Aideed hero banner" />
 
 <p>
-  <a href="mailto:ayanle.aideed@ndsu.edu"><img src="https://img.shields.io/badge/EMAIL-ayanle.aideed%40ndsu.edu-38bdf8?style=for-the-badge&logo=gmail&logoColor=020617" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ayanleaideed"><img src="https://img.shields.io/badge/LINKEDIN-Ayanle%20Aideed-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ayanleaideed"><img src="https://img.shields.io/badge/GITHUB-ayanleaideed-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://ayanlea-tech.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE%20SITE-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ayanleaideed"><img src="https://img.shields.io/badge/LinkedIn-Ayanle%20Aideed-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ayanleaideed"><img src="https://img.shields.io/badge/GitHub-ayanleaideed-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ayanlea-tech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ayanleaideed&label=PROFILE%20VIEWS&style=for-the-badge&color=7c3aed" alt="Profile views" />
-  <img src="https://img.shields.io/badge/NDSU-COMPUTER%20SCIENCE-10b981?style=for-the-badge" alt="NDSU Computer Science" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-SWE%20%7C%20AI%2FML%20%7C%20DATA-f97316?style=for-the-badge" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/NDSU-Computer%20Science-10b981?style=flat-square" alt="NDSU Computer Science" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Products%20%7C%20Data%20Systems-38bdf8?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20to-SWE%20%7C%20AI%2FML%20%7C%20Data-f97316?style=flat-square" alt="Open to opportunities" />
 </p>
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/AI%20PRODUCTS-LLMs%20%7C%20RAG%20%7C%20Agents-38bdf8?style=for-the-badge" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/DATA%20SYSTEMS-ETL%20%7C%20Telemetry%20%7C%20Analytics-14b8a6?style=for-the-badge" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/FULL%20STACK-FastAPI%20%7C%20React%20%7C%20Spring-7c3aed?style=for-the-badge" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/RESEARCH-Healthcare%20%7C%20Education%20ML-f97316?style=for-the-badge" /></td>
-  </tr>
-</table>
 
 </div>
 
@@ -399,8 +385,8 @@ flowchart TD
 </p>
 
 <p>
-  <a href="mailto:ayanle.aideed@ndsu.edu"><img src="https://img.shields.io/badge/REACH%20OUT-EMAIL%20ME-38bdf8?style=for-the-badge&logo=gmail&logoColor=020617" alt="Email me" /></a>
   <a href="https://linkedin.com/in/ayanleaideed"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://ayanlea-tech.vercel.app/"><img src="https://img.shields.io/badge/VIEW-PORTFOLIO-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:14b8a6,45:7c3aed,100:0ea5e9" alt="Footer wave" />
