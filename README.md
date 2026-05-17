@@ -1,405 +1,408 @@
 <div align="center">
-  <h1 style="color: #87CEEB; font-size: 3.5rem; font-family: 'Poppins', sans-serif; margin-bottom: 0;">
-    Ayanle Aideed's Stellar Tech Portfolio
-  </h1>
-</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,25:0f172a,45:2563eb,70:7c3aed,100:14b8a6&text=Ayanle%20Aideed&fontColor=ffffff&fontSize=78&fontAlign=50&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Data%20Systems%20Developer&descSize=20&descAlign=50&descAlignY=62&animation=fadeIn" alt="Ayanle Aideed hero banner" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=300&section=header&text=Ayanle%20Aideed&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Researcher%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=1000&height=72&lines=Building+AI+products+that+ship;Designing+data+systems+that+hold+up+under+pressure;Turning+research+ideas+into+production+software;FastAPI+%2B+React+%2B+Spring+Boot+%2B+PostgreSQL+%2B+LLMs" alt="Typing animation" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&width=800&height=80&lines=Software+Engineering+Fellow;AI+and+ML+Innovator;Full+Stack+Developer;Front-end+Developer;Back-end+Expert;Systems+Automation+Specialist;Computer+Science+Student;System+Automation+intern" />
-  </a>
-</div>
+<p>
+  <a href="mailto:ayanle.aideed@ndsu.edu"><img src="https://img.shields.io/badge/EMAIL-ayanle.aideed%40ndsu.edu-38bdf8?style=for-the-badge&logo=gmail&logoColor=020617" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ayanleaideed"><img src="https://img.shields.io/badge/LINKEDIN-Ayanle%20Aideed-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ayanleaideed"><img src="https://img.shields.io/badge/GITHUB-ayanleaideed-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ayanlea-tech.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE%20SITE-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-## 🚀  Signature Projects
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ayanleaideed&label=PROFILE%20VIEWS&style=for-the-badge&color=7c3aed" alt="Profile views" />
+  <img src="https://img.shields.io/badge/NDSU-COMPUTER%20SCIENCE-10b981?style=for-the-badge" alt="NDSU Computer Science" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-SWE%20%7C%20AI%2FML%20%7C%20DATA-f97316?style=for-the-badge" alt="Open to opportunities" />
+</p>
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
-      <h3 style="margin-bottom: 15px; color: white;">Database Management System</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Database%20Management-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="Database Management" style="margin-bottom: 20px; width: 100%;"/>
-      </p>
-      <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Constructed a web application integrating GPT-3 for natural language database querying
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Designed database schema management system supporting multiple database types
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Implemented role-based access control ensuring secure data management
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Enhanced query generation accuracy through RAG implementation
-        </li>
-      </ul>
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/GPT--3-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT-3" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-      </div>
-    </td>
-    <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
-      <h3 style="margin-bottom: 15px; color: white;">NBA Statistics Dashboard</h3>
-      <p>
-        <img src="https://img.shields.io/badge/NBA%20Stats-00FFFF?style=for-the-badge&logo=nba&logoColor=black" alt="NBA Stats" style="margin-bottom: 20px; width: 100%;"/>
-      </p>
-      <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Developed interactive dashboard displaying real-time NBA player statistics
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Integrated NBA API to fetch and display current season statistics
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Created responsive data visualizations using D3.js and React
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Collaborated with team members to implement search and filter functions
-        </li>
-      </ul>
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
-        <img src="https://img.shields.io/badge/NBA_API-00543D?style=flat-square&logo=nba&logoColor=white" alt="NBA API" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </div>
-    </td>
-    <td style="width: 33%; vertical-align: top; padding: 20px; background-color: #1a1b1e; border-radius: 8px; margin: 10px;">
-      <h3 style="margin-bottom: 15px; color: white;">Research Assistant Projects</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Healthcare%20ML-FF4500?style=for-the-badge&logo=medical&logoColor=white" alt="Healthcare ML" style="margin-bottom: 20px; width: 100%;"/>
-      </p>
-      <ul style="list-style-type: none; padding: 0; margin: 0; text-align: left; color: white;">
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Assisted in developing ML models for healthcare data analysis
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Analyzed medical literature using NLP techniques
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Contributed to research on diabetes management technology
-        </li>
-        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
-          • Documented research findings and technical implementations
-        </li>
-      </ul>
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-## 💼 Elite Professional Experience
 <table>
   <tr>
-    <th>Position</th>
-    <th>Company</th>
-    <th>Duration</th>
-    <th>Key Achievements</th>
+    <td align="center"><img src="https://img.shields.io/badge/AI%20PRODUCTS-LLMs%20%7C%20RAG%20%7C%20Agents-38bdf8?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/DATA%20SYSTEMS-ETL%20%7C%20Telemetry%20%7C%20Analytics-14b8a6?style=for-the-badge" /></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Research%20Assistant-4B0082?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=white&fontSize=16" alt="Research Assistant" width="350" height="40" />
-    </td>
-    <td align="center">NDSU Undergraduate Biomedical ML/LLM Researcher</td>
-    <td align="center">Sep 2024 - Apr 2025</td>
-    <td>
-      • Utilizing ML models to analyze and predict patient health outcomes<br>
-      • Exploring LLM applications for personalized healthcare recommendations<br>
-      • Implementing NLP techniques for processing medical literature and data<br>
-      • Contributing to innovative AI-driven solutions in biomedical research
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/FULL%20STACK-FastAPI%20%7C%20React%20%7C%20Spring-7c3aed?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/RESEARCH-Healthcare%20%7C%20Education%20ML-f97316?style=for-the-badge" /></td>
   </tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Software%20Engineering%20Fellow-FF4500?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=white&fontSize=20" alt="Software Engineering Fellow" width="350" height="40" />
-    </td>
-    <td align="center">Headstarter AI</td>
-    <td align="center">Jul 2024 - Present</td>
-    <td>
-      • Mastering cutting-edge AI Fellowship Program<br>
-      • Pioneering advanced LLMs and RAG applications<br>
-      • Spearheading innovative AI projects and hackathons<br>
-      • Developing game-changing real-world capstone project
-    </td>
-  </tr>
+</table>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:38bdf8,25:14b8a6,50:7c3aed,75:f97316,100:ef4444" alt="Gradient divider" />
+
+## <img src="https://img.shields.io/badge/01-MISSION%20CONTROL-020617?style=for-the-badge&logo=radar&logoColor=38bdf8" alt="Mission Control" />
+
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Systems%20Automation%20Intern-0496ff?style=for-the-badge&logoWidth=20&logoHeight=20&font=Arial&fontColor=black&fontSize=26" alt="Systems Automation Intern" width="350" height="40" />
+    <td width="58%" valign="top">
+      <h3>Builder Profile</h3>
+      <p>
+        I am <strong>Ayanle Aideed</strong>, a Software Engineer and Computer Science student at
+        <strong>North Dakota State University</strong> building across AI products, full-stack platforms,
+        data engineering, computer vision, and applied research.
+      </p>
+      <p>
+        My favorite work lives at the edge of usefulness: low-latency AI experiences, clean backend APIs,
+        reliable data pipelines, and research systems that become real tools.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Style-Product%20minded-38bdf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Depth-Research%20trained-7c3aed?style=flat-square" />
+        <img src="https://img.shields.io/badge/Default-Ship%20clean%20systems-14b8a6?style=flat-square" />
+      </p>
     </td>
-    <td align="center">Marvin Windows</td>
-    <td align="center">Sep 2022 - Present</td>
-    <td>
-      • Revolutionizing GUI development with Ignition and Python<br>
-      • Achieving 50% faster SQL query retrieval through optimization<br>
-      • Boosting production precision by an impressive 35%<br>
-      • Slashing system downtime by a remarkable 25%
+    <td width="42%" valign="top">
+      <h3>2026 Signal</h3>
+      <table>
+        <tr><td><img src="https://img.shields.io/badge/Finale-Software%20Engineer-2563eb?style=for-the-badge" /></td></tr>
+        <tr><td><img src="https://img.shields.io/badge/ND%20DOT%20%2F%20UGPTI-SWE%20Intern-14b8a6?style=for-the-badge" /></td></tr>
+        <tr><td><img src="https://img.shields.io/badge/TACC-NSF%20Research%20Scholar-7c3aed?style=for-the-badge" /></td></tr>
+        <tr><td><img src="https://img.shields.io/badge/ASSETS'25-ACM%20Publication-f97316?style=for-the-badge" /></td></tr>
+        <tr><td><img src="https://img.shields.io/badge/NDSU-Dean's%20List%20%7C%20CodePath%20Fellow-38bdf8?style=for-the-badge" /></td></tr>
+      </table>
     </td>
   </tr>
 </table>
 
+## <img src="https://img.shields.io/badge/02-IMPACT%20DASHBOARD-020617?style=for-the-badge&logo=chartdotjs&logoColor=38bdf8" alt="Impact Dashboard" />
 
-## 🧠 Skill Spectrum Architecture
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/100K%2B-CRASH%20RECORDS-14b8a6?style=for-the-badge" /><br />
+      <sub>Fault-tolerant ETL into normalized SQL schemas</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/93%25-ML%20ACCURACY-38bdf8?style=for-the-badge" /><br />
+      <sub>Dropout prediction modeling on TACC Stampede3</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/70%25-FASTER%20TRAINING-7c3aed?style=for-the-badge" /><br />
+      <sub>Distributed HPC job and data-loading improvements</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/%24100K-ANNUAL%20SAVINGS-f97316?style=for-the-badge" /><br />
+      <sub>Manufacturing recut-verification automation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/30%25-VIDEO%20THROUGHPUT%20GAIN-22c55e?style=for-the-badge" /><br />
+      <sub>YOLOv8 multiprocessing and batch inference</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/35%25-FEWER%20OPERATOR%20ERRORS-ef4444?style=for-the-badge" /><br />
+      <sub>Factory automation interfaces with validation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/50%25-FASTER%20REPORTING-0ea5e9?style=for-the-badge" /><br />
+      <sub>C#, SQL Server, Azure, React dashboard work</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/15%2B-DATA%20QUALITY%20FIXES-a855f7?style=for-the-badge" /><br />
+      <sub>Fairness-focused education ML feature engineering</sub>
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:14b8a6,35:38bdf8,70:7c3aed,100:f97316" alt="Gradient divider" />
+
+## <img src="https://img.shields.io/badge/03-SIGNATURE%20SYSTEMS-020617?style=for-the-badge&logo=target&logoColor=38bdf8" alt="Signature Systems" />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AlphaCore Terminal</h3>
+      <img src="https://img.shields.io/badge/MARKET%20INTELLIGENCE%20PLATFORM-020617?style=for-the-badge&logo=databricks&logoColor=38bdf8" />
+      <p>Bloomberg Terminal-inspired platform for market data, analytics, watchlists, instruments, and clean service-layer backend design.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-f97316?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-16a34a?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-2563eb?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swagger-85ea2d?style=flat-square&logo=swagger&logoColor=020617" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>NL-to-SQL Platform</h3>
+      <img src="https://img.shields.io/badge/NATURAL%20LANGUAGE%20%E2%86%92%20SQL-0f766e?style=for-the-badge&logo=openai&logoColor=white" />
+      <p>Converts natural-language questions into SQL across multiple schemas using retrieval, role-based access, and LLM query generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-065f46?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPT--4-111827?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-14b8a6?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Voice-Controlled Autonomous Robot</h3>
+      <img src="https://img.shields.io/badge/ROBOTICS%20%2B%20MULTIMODAL%20AI-7c3aed?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+      <p>RC robot with obstacle detection, voice control, ultrasonic fallback, and Gemini-powered multimodal reasoning for navigation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-c51a4a?style=flat-square&logo=raspberrypi&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-f97316?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-38bdf8?style=flat-square&logo=google&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Production FastAPI Template</h3>
+      <img src="https://img.shields.io/badge/PRODUCTION%20BACKEND%20STARTER-111827?style=for-the-badge&logo=fastapi&logoColor=14b8a6" />
+      <p>Open-source backend template with async PostgreSQL, Alembic migrations, CI/CD, observability, and deployment-focused structure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-0ea5e9?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-2563eb?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-e6522c?style=flat-square&logo=prometheus&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://img.shields.io/badge/04-2026%20BUILD%20BOARD-020617?style=for-the-badge&logo=linear&logoColor=38bdf8" alt="2026 Build Board" />
+
+<table>
+  <tr>
+    <th>Track</th>
+    <th>Status</th>
+    <th>Visual Signal</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td><strong>AI Interview Platform</strong></td>
+    <td><img src="https://img.shields.io/badge/SHIPPING-22c55e?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/Streaming%20AI%20UX-████████░░-38bdf8?style=for-the-badge" /></td>
+    <td>FastAPI · React · OpenAI · Google Models</td>
+  </tr>
+  <tr>
+    <td><strong>Transportation Intelligence</strong></td>
+    <td><img src="https://img.shields.io/badge/PRODUCTION%20DATA-0ea5e9?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/ETL%20%2B%20Telemetry-█████████░-14b8a6?style=for-the-badge" /></td>
+    <td>Python · SQL · YOLOv8 · OCR</td>
+  </tr>
+  <tr>
+    <td><strong>Market Data Terminal</strong></td>
+    <td><img src="https://img.shields.io/badge/BUILDING-7c3aed?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/API%20Architecture-███████░░░-7c3aed?style=for-the-badge" /></td>
+    <td>Java · Spring Boot · PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>Healthcare / Accessibility AI</strong></td>
+    <td><img src="https://img.shields.io/badge/RESEARCH-f97316?style=for-the-badge" /></td>
+    <td><img src="https://img.shields.io/badge/LLM%20Reliability-████████░░-f97316?style=for-the-badge" /></td>
+    <td>Python · LangChain · LoRA · HPC</td>
+  </tr>
+</table>
+
+## <img src="https://img.shields.io/badge/05-EXPERIENCE%20TIMELINE-020617?style=for-the-badge&logo=briefcase&logoColor=38bdf8" alt="Experience Timeline" />
+
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Organization</th>
+    <th>Timeline</th>
+    <th>Impact</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Software%20Engineer-2563eb?style=for-the-badge" /></td>
+    <td align="center"><strong>Finale</strong><br />Remote Startup</td>
+    <td align="center">Jan 2026 - Present</td>
+    <td>Built AI interview simulation features with Python, FastAPI, React, live OpenAI/Google model integrations, session state APIs, prompt orchestration, and streaming responses.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/SWE%20Intern-14b8a6?style=for-the-badge" /></td>
+    <td align="center"><strong>ND DOT / NDSU UGPTI</strong><br />Fargo, ND</td>
+    <td align="center">Aug 2025 - Present</td>
+    <td>Built ETL for 100K+ crash records, real-time snowplow telemetry ingestion, OCR pipelines for DOT PDFs, and optimized YOLOv8 traffic-video processing by 30%.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/NSF%20Research%20Scholar-7c3aed?style=for-the-badge" /></td>
+    <td align="center"><strong>UT Austin / TACC</strong><br />Austin, TX</td>
+    <td align="center">May 2025 - Aug 2025</td>
+    <td>Trained dropout prediction models on 100K+ student records, reached 93% accuracy, reduced training time by about 70%, and improved fairness features.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/ML%20Research%20Assistant-f97316?style=for-the-badge" /></td>
+    <td align="center"><strong>North Dakota State University</strong><br />Fargo, ND</td>
+    <td align="center">Sep 2024 - May 2025</td>
+    <td>Co-authored CareBuddy AI, an ASSETS'25 ACM multi-agent LLM system, and built healthcare LLM pipelines with LoRA, LangChain, and HPC workflows.</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/SWE%20Intern-ef4444?style=for-the-badge" /></td>
+    <td align="center"><strong>Marvin Windows</strong><br />Fargo, ND</td>
+    <td align="center">Aug 2023 - May 2024</td>
+    <td>Built factory automation interfaces, reduced operator errors by 35%, saved about $100K annually, and shipped dashboards that cut report generation time by 50%.</td>
+  </tr>
+</table>
+
+## <img src="https://img.shields.io/badge/06-TECH%20COMMAND%20CENTER-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" alt="Tech Command Center" />
+
+<table align="center">
+  <tr>
+    <th>Core Languages</th>
+    <th>Backend & Data</th>
+    <th>AI / ML</th>
+    <th>Infra & Cloud</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,cs" alt="Languages" /><br /><br />
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=fastapi,django,spring,react,nodejs,postgres" alt="Backend and data" /><br /><br />
+      <img src="https://img.shields.io/badge/REST%20APIs-7c3aed?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/ETL-14b8a6?style=for-the-badge" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv" alt="AI ML" /><br /><br />
+      <img src="https://img.shields.io/badge/RAG-38bdf8?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LoRA-f97316?style=for-the-badge" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,azure,linux,git" alt="Infrastructure" /><br /><br />
+      <img src="https://img.shields.io/badge/HPC%20Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-2563eb?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
+<h3>Power Stack Heatmap</h3>
 
-## System Architecture
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-Expert-2563eb?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/FastAPI-Production-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-Data%20Core-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-Product%20UI-61dafb?style=for-the-badge&logo=react&logoColor=111827" /></td>
+    <td><img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Systems-6db33f?style=for-the-badge&logo=springboot&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/PyTorch-ML%20Research-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
+  </tr>
+</table>
+
+</div>
+
+## <img src="https://img.shields.io/badge/07-SYSTEM%20MAP-020617?style=for-the-badge&logo=mermaid&logoColor=38bdf8" alt="System Map" />
+
 ```mermaid
-graph TD
-    A[Ayanle Aideed] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[DevOps]
-    B --> E[React]
-    B --> F[Next js]
-    B --> N[Angular]
-    C --> G[Python]
-    C --> H[Node.js]
-    D --> I[Docker]
-    D --> J[Kubernetes]
-    G --> L[Django]
-    G --> M[Flask]
-    G --> O[REST APIs]
+flowchart TD
+    A[Ayanle Aideed] --> B[AI Product Engineering]
+    A --> C[Data Systems]
+    A --> D[Full-Stack Platforms]
+    A --> E[Applied Research]
 
-    style A fill:#b91c1c,stroke:#F9FAFB,stroke-width:2px
-    style B fill:#4c1d95,stroke:#F9FAFB,stroke-width:2px
-    style C fill:#f86022,stroke:#F9FAFB,stroke-width:2px
-    style D fill:#be123c,stroke:#F9FAFB,stroke-width:2px
-    style E fill:#EF4444,stroke:#F9FAFB,stroke-width:2px
-    style F fill:#2563eb,stroke:#F9FAFB,stroke-width:2px
-    style G fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
-    style H fill:#F59E0B,stroke:#F9FAFB,stroke-width:2px
-    style I fill:#3B82F6,stroke:#F9FAFB,stroke-width:2px
-    style J fill:#9333EA,stroke:#F9FAFB,stroke-width:2px
-    style L fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
-    style M fill:#1d4ed8,stroke:#F9FAFB,stroke-width:2px
-    style N fill:#F59E0B,stroke:#F9FAFB,stroke-width:2px
-    style O fill:#007cb9,stroke:#005689,stroke-width:2px
+    B --> B1[LLM Apps]
+    B --> B2[RAG]
+    B --> B3[Agents]
+    B --> B4[Streaming AI UX]
 
+    C --> C1[ETL Pipelines]
+    C --> C2[Telemetry]
+    C --> C3[SQL Analytics]
+    C --> C4[Computer Vision Data]
 
+    D --> D1[FastAPI]
+    D --> D2[React]
+    D --> D3[Spring Boot]
+    D --> D4[PostgreSQL]
 
+    E --> E1[Healthcare AI]
+    E --> E2[Education ML]
+    E --> E3[Accessibility Systems]
+    E --> E4[Transportation Analytics]
+
+    style A fill:#020617,stroke:#38bdf8,stroke-width:4px,color:#ffffff
+    style B fill:#2563eb,stroke:#bfdbfe,stroke-width:2px,color:#ffffff
+    style C fill:#14b8a6,stroke:#ccfbf1,stroke-width:2px,color:#ffffff
+    style D fill:#7c3aed,stroke:#ddd6fe,stroke-width:2px,color:#ffffff
+    style E fill:#f97316,stroke:#fed7aa,stroke-width:2px,color:#ffffff
 ```
 
-</div>
-
-## 💻 Code Showcase
-
-
-<!-- <summary>Click to expand</summary> -->
-
-```python
-class AyanleAideed:
-    def __init__(self):
-        self.name = "Ayanle Aideed"
-        self.role = "Full Stack Innovator"
-        self.language_spoken = ["Python", "JavaScript", "C#", "Java"]
-        self.challenges = []
-
-    def accept_challenge(self, challenge):
-        self.challenges.append(challenge)
-        return self.innovate(challenge)
-
-    def innovate(self, challenge):
-        solution = self.think_outside_galaxy(challenge)
-        return f"Innovative solution: {solution}"
-
-    @staticmethod
-    def think_outside_galaxy(problem):
-        return "Quantum-entangled microservices with AI-driven self-healing capabilities"
-
-me = AyanleAideed()
-universe.big_problems.map(me.accept_challenge)
-```
-
-
-## 💬 Peer Recognition
+## <img src="https://img.shields.io/badge/08-GITHUB%20ANALYTICS-020617?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub Analytics" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Testimonial-00FFFF?style=for-the-badge&logo=quote&logoColor=black" alt="Testimonial" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=020617&title_color=38bdf8&text_color=e5e7eb&icon_color=14b8a6" alt="GitHub stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=tokyonight&hide_border=true&background=020617&ring=38bdf8&fire=f97316&currStreakLabel=14b8a6&sideNums=e5e7eb&sideLabels=e5e7eb" alt="GitHub streak" />
+
+<br />
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanleaideed&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
+
+<br /><br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayanleaideed&bg_color=020617&color=e5e7eb&line=38bdf8&point=14b8a6&area=true&hide_border=true&radius=8" alt="GitHub activity graph" />
+
 </div>
 
-<blockquote style="border-left: 4px solid #FF4500; padding-left: 20px; margin: 20px 0; font-style: italic; color: #FFFFFF;">
-  "Ayanle is truly dedicated, smart, and outgoing. He consistently asks insightful questions and demonstrates a strong eagerness to learn. His innovative approach to problem-solving and ability to grasp complex concepts quickly make him an invaluable team member."
-  <br><br>
-  <strong style="color: #00FFFF;">— Sarah Johnson, Senior Software Engineer</strong>
-</blockquote>
+## <img src="https://img.shields.io/badge/09-FEATURED%20REPOSITORIES-020617?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Featured Repositories" />
 
-<h2 align="center">🛠️ My Programming Toolkit</h2>
+<div align="center">
 
-<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 10px;">
+| AI, Data, and Systems | Product and Full Stack |
+|:---:|:---:|
+| [![Natural Language to SQL](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=Natural-Language-to-SQL&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=14b8a6)](https://github.com/Ayanleaideed/Natural-Language-to-SQL) | [![CRM Application](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=CRM-Application&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=14b8a6)](https://github.com/Ayanleaideed/CRM-Application) |
+| [![NBA Stats Application](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=nba-stats-application&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=14b8a6)](https://github.com/Ayanleaideed/nba-stats-application) | [![React NorthFace Clone](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=React-NorthFace-Clone&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=14b8a6)](https://github.com/Ayanleaideed/React-NorthFace-Clone) |
+
+</div>
+
+## <img src="https://img.shields.io/badge/10-PROOF%20OF%20RANGE-020617?style=for-the-badge&logo=codemagic&logoColor=38bdf8" alt="Proof of Range" />
+
+<table>
   <tr>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 20px; width: 33%;">Languages</th>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 20px; width: 33%;">Frameworks</th>
-    <th style="background-color: #0D1117; color: #58A6FF; padding: 15px; border-radius: 10px; font-size: 20px; width: 33%;">Tools & Technologies</th>
-  </tr>
-  <tr>
-    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" width="100%"/>
-    </td>
-    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="100%"/>
-    </td>
-    <td align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" width="100%"/><br/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="100%"/>
-    </td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/AI%20UX-38bdf8?style=for-the-badge" /><br /><sub>Streaming model interfaces, prompt flows, evaluation loops</sub></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/Data%20Infra-14b8a6?style=for-the-badge" /><br /><sub>ETL, OCR, telemetry, normalized SQL schemas</sub></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/Research%20ML-7c3aed?style=for-the-badge" /><br /><sub>HPC training, fairness features, education and health AI</sub></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/Backend%20APIs-f97316?style=for-the-badge" /><br /><sub>FastAPI, Spring Boot, Django, auth, service architecture</sub></td>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/Automation-ef4444?style=for-the-badge" /><br /><sub>Manufacturing dashboards, validation tools, operator workflows</sub></td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanleaideed&layout=compact&theme=dark&hide_border=true&card_width=845" alt="Top Languages" />
-</div>
+<details>
+  <summary><strong>Expanded Technical Snapshot</strong></summary>
+  <br />
+  <table>
+    <tr>
+      <td><strong>Education</strong></td>
+      <td>B.S. Computer Science, minors in AI, Robotics, and Statistics, expected May 2027</td>
+    </tr>
+    <tr>
+      <td><strong>Coursework</strong></td>
+      <td>Data Structures and Algorithms, Database Systems, Operating Systems, Artificial Intelligence, Linear Algebra, Probability and Statistics, Machine Learning, Robotics</td>
+    </tr>
+    <tr>
+      <td><strong>Affiliations</strong></td>
+      <td>NSF REU Scholar, ASSETS'25 ACM publication contributor, Dean's List, CodePath Fellow, NSBE, ACM</td>
+    </tr>
+  </table>
+</details>
 
-<h2 align="center">📊 Most Used Languages</h2>
-
-<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 10px;">
-  <tr>
-    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/Python-35%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100%"/></td>
-    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="100%"/></td>
-    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" width="100%"/></td>
-  </tr>
-  <tr>
-    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="100%"/></td>
-    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/C%23-5%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" width="100%"/></td>
-    <td style="width: 33%; padding: 10px;"><img src="https://img.shields.io/badge/Bootstrap-30%25-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="100%"/></td>
-  </tr>
-</table>
-
-## 🧠 Project Architecture Spotlight
-
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <tr>
-    <td style="width: 100%; vertical-align: top; padding: 10px;">
-      <h3 style="margin-bottom: 10px;">RAG Architecture: NL to SQL Wizard</h3>
-      <p>
-        <img src="https://github.com/user-attachments/assets/873ec678-d954-491f-a807-ab1528234f74" alt="RAG Architecture" style="margin-bottom: 10px; max-width: 100%; height: auto;"/>
-      </p>
-      <p style="line-height: 1.6;">
-        • Cutting-edge NL to SQL conversion system<br>
-        • Leverages advanced Retrieval-Augmented Generation<br>
-        • Integrates vector embedding and similarity matching<br>
-        • Achieves high accuracy in SQL query generation
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-<h2 align="center">💡 Daily Dev Wisdom & World Trivia</h2>
-
-<table align="center" style="border-collapse: separate; border-spacing: 0 10px;">
-  <tr>
-    <td style="padding: 10px; background-color: #1F2937; border-radius: 10px;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Developer Quote" width="500">
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">💡 Dev Wisdom & Witticisms</h2>
-
-<div align="center" style="background-color: #1F2937; padding: 20px; border-radius: 10px; max-width: 800px; margin: 0 auto;">
-  <ul style="list-style-type: none; padding: 0;">
-    <li style="margin-bottom: 20px; font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
-      "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else."
-      <br>
-      <span style="font-size: 14px; color: #9CA3AF;">— Eagleson's Law</span>
-    </li>
-    <li style="margin-bottom: 20px; font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
-      "The best thing about a boolean is even if you are wrong you are only off by a bit."
-      <br>
-      <span style="font-size: 14px; color: #9CA3AF;">— Anonymous</span>
-    </li>
-    <li style="margin-bottom: 20px; font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
-      "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
-      <br>
-      <span style="font-size: 14px; color: #9CA3AF;">— Edsger W. Dijkstra</span>
-    </li>
-    <li style="margin-bottom: 20px; font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
-      "It's not a bug – it's an undocumented feature."
-      <br>
-      <span style="font-size: 14px; color: #9CA3AF;">— Anonymous</span>
-    </li>
-    <li style="font-style: italic; color: #E5E7EB; font-size: 18px; text-align: left;">
-      "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
-      <br>
-      <span style="font-size: 14px; color: #9CA3AF;">— Martin Golding</span>
-    </li>
-  </ul>
-</div>
-
-## 📊 Performance Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanleaideed&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&icon_color=00FFFF&border_color=FF4500" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanleaideed&theme=dark&background=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=00FFFF&border=FF4500" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ayanleaideed&theme=darkhub&no-frame=true&row=1&column=7)
-
-</div>
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-| | |
-|:-------------------------:|:-------------------------:|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=nba-stats-application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/nba-stats-application) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=CRM-Application&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/CRM-Application) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=Natural-Language-to-SQL&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/Natural-Language-to-SQL) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayanleaideed&repo=React-NorthFace-Clone&theme=radical&bg_color=0D1117&title_color=FF4500&icon_color=00FFFF&border_color=FF4500)](https://github.com/Ayanleaideed/React-NorthFace-Clone) |
-
-</div>
 ---
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=ayanleaideed&color=6d28d9&style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Let's%20build%20something%20sharp.&fontSize=34&fontColor=38bdf8&animation=twinkling" alt="Let's build something sharp" />
+
+<p>
+  <strong>Open to Software Engineering, AI/ML Engineering, Data Engineering, Backend Engineering, and Applied Research opportunities.</strong>
+</p>
+
+<p>
+  <a href="mailto:ayanle.aideed@ndsu.edu"><img src="https://img.shields.io/badge/REACH%20OUT-EMAIL%20ME-38bdf8?style=for-the-badge&logo=gmail&logoColor=020617" alt="Email me" /></a>
+  <a href="https://linkedin.com/in/ayanleaideed"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:14b8a6,45:7c3aed,100:0ea5e9" alt="Footer wave" />
 
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100&section=footer" />
-</div>
-
-
-
-
-
-
-
-
-
-
