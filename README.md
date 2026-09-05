@@ -24,7 +24,10 @@ I’m **Ayanle**. I build Java backends, AI that can show its sources, and data 
 <source media="(prefers-color-scheme: light)" srcset="./assets/studio/source-light.svg" />
 <img src="./assets/studio/source-dark.svg" width="100%" alt="class Ayanle {
     String[] tools = {
-        &quot;Java&quot;, &quot;Python&quot;, &quot;SQL&quot;
+        &quot;Java&quot;, &quot;Python&quot;, &quot;C++&quot;, &quot;C#&quot;,
+        &quot;SQL&quot;, &quot;Spring Boot&quot;, &quot;FastAPI&quot;,
+        &quot;PostgreSQL&quot;, &quot;Docker&quot;, &quot;AWS&quot;,
+        &quot;Git&quot;, &quot;Linux&quot;
     };
     boolean stillLearning = true;
 } NDSU Computer Science 2027. Building at ND DOT / UGPTI." />
